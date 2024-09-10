@@ -28,10 +28,15 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Accordion 2</strong>
-</summary>
+<summary>Accordion 2</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Content for Accordion 2</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Accordion 3</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Content for Accordion 3</p>
 </div>
 </details>
 </div>
