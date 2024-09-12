@@ -1,5 +1,5 @@
 collections:
-  test-folder:
+  about-us:
     output: true
     order:
       - Our Organisation.md
