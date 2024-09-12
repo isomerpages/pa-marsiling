@@ -2,4 +2,4 @@ collections:
   test-folder:
     output: true
     order:
-      - PCtest.md
+      - Our Organisation.md
