@@ -56,4 +56,7 @@ sections:
       url: /example
       image: /images/hero-banner.png
       alt: Image alt text
+  - resources:
+      title: New Events in Marsiling
+      id: resources
 ---
