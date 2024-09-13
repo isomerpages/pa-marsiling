@@ -22,38 +22,30 @@ sections:
         - title: Enabling Employment Pledge
           description: Pledge your inclusive support.
           url: ""
+      title: Sample pa-marsiling Homepage
+  - infocols:
+      title: Interesting Facts about marsiling
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: "Fact #1"
+          description: Infobox description
+        - title: "Fact #2"
+          description: Infobox description
+        - title: "Fact #3"
+          description: Infobox description
   - infopic:
-      title: President's Challenge Grant Call 2025
+      title: Sign up for our events
       id: infopic
-      description: Registration open on 19 September 2024
+      description: Infopic description
+      button: Button Text
       image: /images/hero-banner.png
       alt: Image alt text
   - infopic:
-      title: Empower Lives By Donating
+      title: Check our previous events
       id: infopic
-      description: Your support towards the President’s Challenge will enable
-        benefitting organisations to sustain their operations and serve the
-        community.
-      button: Donate now to make a difference
-      url: /example/
-      image: /images/hero-banner.png
-      alt: Image alt text
-  - infopic:
-      title: Empower Lives By Volunteering
-      id: infopic
-      description: Your gift of time and support towards the President’s Challenge
-        will enable our benefitting organisations...
-      button: Learn more on volunteer drive
-      url: /example/
-      image: /images/hero-banner.png
-      alt: Image alt text
-  - infopic:
-      title: Empower Lives Through Inclusive Employment
-      id: infopic
-      description: Your support for inclusive employment through the Enabling
-        Employment Pledge will empower persons with disabilities to develop...
-      button: Learn more on enabling employment pledge
-      url: /example
+      description: Infopic description
+      button: Button Text
       image: /images/hero-banner.png
       alt: Image alt text
   - resources:
