@@ -6,16 +6,5 @@ links:
     collection: events
   - title: Highlights of Services
     collection: highlight-of-services
-  - title: What We Do
-    url: /what-we-do
-    sublinks:
-      - title: Outreach/Events
-        url: /permalink
-      - title: Estate/Transport Related
-        url: /permalink
-      - title: Commlink opportunities
-        url: /permalink
-      - title: Volunteering Opportunities
-        url: /permalink
   - title: Contact Us
     url: /contact-us/
