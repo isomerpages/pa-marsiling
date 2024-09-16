@@ -4,5 +4,7 @@ links:
     url: /
   - title: Events
     collection: events
+  - title: Highlights of Services
+    collection: highlight-of-services
   - title: Contact Us
     url: /contact-us/
