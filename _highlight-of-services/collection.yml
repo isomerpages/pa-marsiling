@@ -1,4 +1,5 @@
 collections:
   highlight-of-services:
     output: true
-    order: []
+    order:
+      - Welfare Services.md
