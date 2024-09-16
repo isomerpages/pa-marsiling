@@ -2,5 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
+      - Workgroup sub Sites/Outreach and events.md
       - Workgroup sub Sites/.keep
       - What we Do.md
