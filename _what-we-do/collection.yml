@@ -2,4 +2,5 @@ collections:
   what-we-do:
     output: true
     order:
+      - Workgroup sub Sites/.keep
       - What we Do.md
