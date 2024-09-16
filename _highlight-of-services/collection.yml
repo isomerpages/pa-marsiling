@@ -1,0 +1,4 @@
+collections:
+  highlight-of-services:
+    output: true
+    order: []
