@@ -2,5 +2,6 @@ collections:
   highlight-of-services:
     output: true
     order:
+      - Estate Development Services.md
       - RN Services.md
       - Welfare Services.md
