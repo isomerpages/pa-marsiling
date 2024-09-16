@@ -1,6 +1,0 @@
-collections:
-  about-us:
-    output: true
-    order:
-      - AST Master Teachers.md
-      - Our Organisation.md
