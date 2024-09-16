@@ -9,35 +9,27 @@ HIS and amenities in Marsiling, as well as key workgroup subsites</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>About the service</summary>
+<summary>Zone specific Information</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Active Ageing Centres (AACs) provide a suite of services which include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Active Ageing activities to keep seniors engaged within the community;</p>
-</li>
-<li>
-<p>Befriending services for vulnerable seniors who require additional social
-support;</p>
-</li>
-<li>
-<p>Making referrals for Care services when required;</p>
-</li>
-<li>
-<p>Providing assistance through assuming the role of a social connector for
-social and lifestyle interventions to support seniors in adhering to their
-health plan recommendations; and</p>
-</li>
-<li>
-<p>Supporting seniors in the measurement of their vital signs in adherence
-to their health plan.</p>
-</li>
-</ul>
-<p>Active Ageing Centre (Care), or AAC (Care), provides AAC services and
-additional care services, such as day care, community rehabilitation.</p>
-<p>Applicants for care services may need to fulfil the services’ eligibility
-criteria and providers’ service boundaries, if any, and enrolments are
-subject to availability of vacancies.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Nearest Facilities</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>HIS and Amenities in Marsiling</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Key workgroup sub-sites</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
