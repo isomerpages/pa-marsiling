@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Workgroup sub Sites/Commlink and Volunteering opportunities.md
       - Workgroup sub Sites/Estate and Transport.md
       - Workgroup sub Sites/Outreach and events.md
       - Workgroup sub Sites/.keep
