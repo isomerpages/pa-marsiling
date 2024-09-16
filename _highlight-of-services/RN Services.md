@@ -21,7 +21,7 @@ description: ""
 <h3>NWCDC Brisk Walk and Dance Fit Club</h3>
 <p>Our various RNs have these services to keep everyone healthy...</p>
 <hr>
-<h3>Makan Kakis </h3>
+<h3>Makan Kakis</h3>
 <p>Dont worry, When volunteering with us, we ensure all our volunteers are
 well fed... We also offer resident voting for facilities.</p>
 <p></p>
