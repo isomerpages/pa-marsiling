@@ -75,18 +75,20 @@ sections:
       image: /images/hero-banner.png
       alt: Image alt text
   - infocols:
-      title: What we do
+      title: Community Overview
       id: infocols
       linktext: Find out more here
       url: /what-we-do
       infoboxes:
-        - title: Zone specific Information
-          description: RN Committee, courses, interest groups, free HPB classes
-        - title: Nearest facilities
-          description: (e.g. nearest RN centre, nearest AAC, address of SSO office/One
-            Stop Service Centres)
-        - title: HIS and amenities in Marsiling
-          description: Infobox description
+        - title: What we do
+          description: Zone specific Information - RN Committee, courses, interest groups,
+            free HPB classes
+        - title: Care and services for residents
+          description: Nearest facilities - (e.g. nearest RN centre, nearest AAC, address
+            of SSO office/One Stop Service Centres)
+        - title: Join Us
+          description: HIS and amenities in Marsiling (e.g. Miss Tam Chiak video that
+            profiled hawkers that were previously from the causeway)
         - title: Workgroup sub-sites
           description: Outreach/ events (to showcase diversity of culture),
             estate/transport related, commlink/volunteering opportunities
