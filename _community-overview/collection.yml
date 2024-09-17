@@ -2,6 +2,7 @@ collections:
   community-overview:
     output: true
     order:
+      - Join Us.md
       - Care and Services for residents.md
       - What we Do.md
       - Workgroup Sub Sites/.keep
