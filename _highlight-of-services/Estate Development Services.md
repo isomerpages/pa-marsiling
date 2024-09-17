@@ -37,9 +37,12 @@ description: ""
 </table>
 <p></p>
 <hr>
-<p></p>
 <h2><strong>New Marsiling CC Updates</strong></h2>
 <hr>
+<blockquote>
+<p>Here is a quote</p>
+</blockquote>
+<p></p>
 <p><strong>Here is what's going to happen with our new community center</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
