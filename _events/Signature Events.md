@@ -72,28 +72,28 @@ filled with unity and strength!</p>
 </details>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/marsiling-events/my-water-fiesta/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/favicon-isomer.ico"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MY Water Fiesta</div><div class="isomer-card-description">Description of the MY Water Fiesta Event here.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/marsiling-events/my-beats/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/hero-banner.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">District Level Programmes</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">MY Beats</div>
+<div class="isomer-card-description">Description of the MY Beats Event here.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Youth Related Programmes</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/rn-events/ndp-heartlands/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ndp_heartlands_swcdd_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NDP @heartlands</div><div class="isomer-card-description">Description of the NDP @ heartlands event here.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/rn-events/swrn-table-tennis/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Collaboration Highlights" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Collaboration Highlights" src="/images/ndp_heartlands_cscdd.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Collaboration Highlights</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">SWRN Table Tennis</div>
+<div class="isomer-card-description">Description of the SWRN Table Tennis event here</div>
+<div class="isomer-card-link">Check it out!</div>
 </div>
 </a>
 </div>
