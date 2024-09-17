@@ -74,4 +74,20 @@ sections:
       url: /highlights-of-services/welfare-services/
       image: /images/hero-banner.png
       alt: Image alt text
+  - infocols:
+      title: What we do
+      id: infocols
+      linktext: Find out more here
+      url: /what-we-do
+      infoboxes:
+        - title: Zone specific Information
+          description: RN Committee, courses, interest groups, free HPB classes
+        - title: Nearest facilities
+          description: (e.g. nearest RN centre, nearest AAC, address of SSO office/One
+            Stop Service Centres)
+        - title: HIS and amenities in Marsiling
+          description: Infobox description
+        - title: Workgroup sub-sites
+          description: Outreach/ events (to showcase diversity of culture),
+            estate/transport related, commlink/volunteering opportunities
 ---
