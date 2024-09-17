@@ -20,8 +20,20 @@ games, hands-on workshops, a drone show, and captivating live stage performances
 to engage Singaporeans of all ages. Participants will also be able to enjoy
 fireworks right here in the heartlands!</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ndp_heartlands_cscdd.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Central Singapore</div><div class="isomer-card-description">Open Field Opposite Bishan Circle Line MRT Station (Exit D) (10 August 2024, 4pm - 9pm)</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ndp_heartlands_cscdd.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Central Singapore</div>
+<div class="isomer-card-description">Open Field Opposite Bishan Circle Line MRT Station (Exit D) (10 August
+2024, 4pm - 9pm)</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ndp_heartlands_necdd.png">
@@ -30,10 +42,20 @@ fireworks right here in the heartlands!</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">North East</div>
 <div class="isomer-card-description">Punggol Open Field beside Waterway Point (10 August 2024, 4pm - 9pm)</div>
-<div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ndp_heartlands_nw.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">North West</div><div class="isomer-card-description">Open Field beside FutsalArena @ Yishun (10 Aguust 2024, 4pm - 9pm)</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ndp_heartlands_nw.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">North West</div>
+<div class="isomer-card-description">Open Field beside FutsalArena @ Yishun (10 Aguust 2024, 4pm - 9pm)</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ndp_heartlands_secdd_1.png">
@@ -42,8 +64,18 @@ fireworks right here in the heartlands!</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">South East</div>
 <div class="isomer-card-description">Open Field next to Paya Lebar Quarter 1 (10 August 2024, 4pm - 9pm)</div>
-<div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ndp_heartlands_swcdd_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">South West</div><div class="isomer-card-description">Open Field next to Buona Vista MRT Station (10 August, 4pm - 9pm)</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ndp_heartlands_swcdd_1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">South West</div>
+<div class="isomer-card-description">Open Field next to Buona Vista MRT Station (10 August, 4pm - 9pm)</div>
+</div>
+</div>
 </div>
 <p></p>
