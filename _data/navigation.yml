@@ -12,3 +12,5 @@ links:
     collection: community-overview
   - title: Contact Us
     url: /contact-us/
+  - title: House Visits
+    resource_room: true
