@@ -2,6 +2,5 @@ collections:
   events:
     output: true
     order:
-      - Resources Test/.keep
       - Signature Events.md
       - Calendar of Events.md
