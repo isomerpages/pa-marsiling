@@ -24,6 +24,12 @@ incredible volunteers for making NDD 2024 a success.
 <br>
 <br>Wishing Singapore a fantastic year ahead filled with happiness, prosperity
 and progress. Majulah Singapura!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Day_Dinner_2.jpg">
+</div>
+<p></p>
+<p></p>
 <blockquote>
 <p>Check out our Instagram Post!</p>
 </blockquote>
