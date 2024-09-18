@@ -1,8 +1,12 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+title: Marsiling Community Club - Our Hope, Our Marsiling, One Marsiling
+description: “M” is reminisce of the original logo, acknowledging the efforts
+  and values of the Pioneers, and the next generation is committed to continue
+  building Marsiling into the Home for all with a loving & caring Heart.
+  Together, we will build a bright and vibrant future for all - Our Hope, Our
+  Marsiling, One Marsiling
+image: /images/Marsiling_Logo.png
 permalink: /
 notification: ""
 sections:
