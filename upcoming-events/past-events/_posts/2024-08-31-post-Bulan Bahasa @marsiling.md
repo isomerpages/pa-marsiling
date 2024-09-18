@@ -9,9 +9,12 @@ variant: tiptap
 ---
 <h1><strong>Bulan Bahasa</strong></h1>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bulan_Bahasa_10.jpg">
+</div>
 <blockquote>
-<p>Embed Mr Zaqy's Tiktok Video on Bulan Bahasa here (I couldn't find an
-option to embed D:)</p>
+<p>Embed Mr Zaqy's Tiktok Video on Bulan Bahasa here</p>
 </blockquote>
 <p>Bulan Bahasa @ Marsiling Sabtu lalu menyaksikan 1,600 peserta dan 200
 sukarelawan belia dari sepuluh sekolah di daerah Utara—jumlah tertinggi
