@@ -1,9 +1,9 @@
 title: Title
-url: ""
+url: https://staging-lite.d2kdgm7h8w0kte.amplifyapp.com
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#db1e39"
+  secondary-color: "#e74822"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -53,3 +53,7 @@ staging: https://staging.d1shh1ypto3fx4.amplifyapp.com
 prod: https://master.d1shh1ypto3fx4.amplifyapp.com
 facebook-pixel: ""
 resources_name: upcoming-events
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
