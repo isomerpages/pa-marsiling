@@ -7,7 +7,7 @@ description: MY Water Fiesta
 image: /images/MY_Water_Fiesta_2.jpg
 variant: tiptap
 ---
-<h1><strong>My  Water Fiesta 2024 @ Marsiling</strong></h1>
+<h1><strong>My Water Fiesta 2024 @ Marsiling</strong></h1>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MY_Water_Fiesta_1.jpg">
