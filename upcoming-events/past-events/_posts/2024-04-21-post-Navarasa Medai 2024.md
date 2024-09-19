@@ -8,7 +8,7 @@ image: /images/Navarasai_Medai_2024_1.jpg
 variant: tiptap
 ---
 <p></p>
-<h1><strong>Navarasa Medai 2024 </strong></h1>
+<h1><strong>Navarasa Medai 2024</strong></h1>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Navarasai_Medai_2024_1.jpg">
