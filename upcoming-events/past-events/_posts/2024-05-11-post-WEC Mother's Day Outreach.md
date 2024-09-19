@@ -7,7 +7,7 @@ description: WEC Mother's Day Outreach
 image: /images/WEC_Mother_s_Day_Outreach_1.jpg
 variant: tiptap
 ---
-<h1><strong>WEC Mother's Day Outreach 2024 </strong></h1>
+<h1><strong>WEC Mother's Day Outreach 2024</strong></h1>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>
