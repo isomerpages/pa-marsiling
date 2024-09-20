@@ -7,24 +7,24 @@ description: ""
 <h2><strong>Upcoming Marsiling Events</strong></h2>
 <hr>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/deeparaagam/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Deeparaagam" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Deeparaagam</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Check this event out!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/deepavali-festive-gift-marsiling/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Deepavali Festive Gift @ Marsiling" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Deepavali Festive Gift @ Marsiling</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Check this event out!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/divisional-walk/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Divisional Walk" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Divisional Walk</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Check this event out!</div></div></a>
 </div>
 <h2><strong>Past Events</strong></h2>
 <hr>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/marsiling-carnival-day/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Marsiling National Day Carnival" src="/images/Marsiling_Carnival_Day_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Marsiling National Day Carnival</div><div class="isomer-card-description">Check out the highlight videos from our fun-filled day, where families and friends came together to enjoy exciting game booths, thrilling bouncy castles, and mesmerizing shows. </div><div class="isomer-card-link">Check this event out!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/marsiling-carnival-day/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Marsiling National Day Carnival" src="/images/Marsiling_Carnival_Day_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Marsiling National Day Carnival</div><div class="isomer-card-description">Check out the highlight videos from our fun-filled day, where families and friends came together to enjoy exciting game booths, thrilling bouncy castles, and mesmerizing shows.</div><div class="isomer-card-link">Check this event out!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/ndp-heartlands/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -42,8 +42,7 @@ locations on Saturday, 10 August 2024, from 4.00pm to 9.00pm.</div>
 <h2><strong>House Visit Events</strong></h2>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/pm-walkabout/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PM Walkabout 2024" src="/images/PM_Walkabout_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PM Walkabout 2024 </div><div class="isomer-card-description">Welcoming our new Prime Minister for his first market walkabout!
-</div><div class="isomer-card-link">Check this event out!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/pm-walkabout/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PM Walkabout 2024" src="/images/PM_Walkabout_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PM Walkabout 2024</div><div class="isomer-card-description">Welcoming our new Prime Minister for his first market walkabout!</div><div class="isomer-card-link">Check this event out!</div></div></a>
 </div>
 <p></p>
 <blockquote>
