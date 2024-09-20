@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Upcoming Marsiling Events</strong></h2>
 <hr>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/deeparaagam/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Deeparaagam" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Deeparaagam</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Check this event out!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/deeparaagam/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Deeparaagam" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Deeparaagam</div><div class="isomer-card-description">Put in the Image/Descriptions for this upcoming event later. </div><div class="isomer-card-link">Check this event out!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/deepavali-festive-gift-marsiling/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -16,10 +16,10 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Deepavali Festive Gift @ Marsiling</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Put in the Image/Descriptions for this upcoming event later.</div>
 <div class="isomer-card-link">Check this event out!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/divisional-walk/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Divisional Walk" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Divisional Walk</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Check this event out!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/divisional-walk/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Divisional Walk" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Divisional Walk</div><div class="isomer-card-description">Put in the Image/Descriptions for this upcoming event later. </div><div class="isomer-card-link">Check this event out!</div></div></a>
 </div>
 <blockquote>
 <p>Looking to see our list of Upcoming Events? <strong><a href="/all-events/marsiling-events/" rel="noopener nofollow" target="_blank">Click here</a></strong> to
