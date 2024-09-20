@@ -7,4 +7,4 @@ description: Marsiling ACWP
 image: ""
 variant: tiptap
 ---
-<p>Test</p>
+<p>Test , event date - 2024-10-12</p>
