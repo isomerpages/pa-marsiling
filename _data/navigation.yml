@@ -4,8 +4,6 @@ links:
     url: /
   - title: Events
     collection: events
-  - title: Upcoming Events
-    url: /upcoming-events
   - title: Highlights Of Services
     collection: highlight-of-services
   - title: Community Overview
