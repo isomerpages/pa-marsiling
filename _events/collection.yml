@@ -2,6 +2,5 @@ collections:
   events:
     output: true
     order:
-      - All events/.keep
       - Signature Events.md
       - Calendar of Events.md
