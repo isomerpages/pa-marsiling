@@ -56,7 +56,7 @@ plugins:
 staging: https://staging.d1shh1ypto3fx4.amplifyapp.com
 prod: https://master.d1shh1ypto3fx4.amplifyapp.com
 facebook-pixel: ""
-resources_name: upcoming-events
+resources_name: all-events
 shareicon: /images/Marsiling_Logo.png
 is_government: false
 google_analytics_ga4: ""
