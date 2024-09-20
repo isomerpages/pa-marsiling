@@ -4,44 +4,50 @@ permalink: /events/calendar-of-events/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Constituency and Marsiling Events</strong></h1>
+<h2><strong>Upcoming Marsiling Events</strong></h2>
 <hr>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/marsiling-events/my-water-fiesta/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/My_water_fiesta.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MY Water Fiesta</div><div class="isomer-card-description">Description of the MY Water Fiesta Event here.</div><div class="isomer-card-link">Check this out!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/marsiling-events/my-beats/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/My_beats.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">My Beats</div>
-<div class="isomer-card-description">Description of the MY Beats Event here.</div>
-<div class="isomer-card-link">Check this out!</div>
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/marsiling-events/marsiling-grounbreaking/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Marsiling_groundbreaking.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Marsiling Groundbreaking</div><div class="isomer-card-description">Description of the Marsiling Groundbreaking Event here.</div><div class="isomer-card-link">Check this out!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<h2><strong>RN organised Events</strong></h2>
+<h2><strong>Past Events</strong></h2>
 <hr>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/rn-events/swrn-table-tennis/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SWRN Table-Tennis</div><div class="isomer-card-description">Description of the NDP @ heartlands event here.</div><div class="isomer-card-link">Check us out!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/rn-events/ndp-heartlands/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/marsiling-carnival-day/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Marsiling National Day Carnival" src="/images/Marsiling_Carnival_Day_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Marsiling National Day Carnival</div><div class="isomer-card-description">Check out the highlight videos from our fun-filled day, where families and friends came together to enjoy exciting game booths, thrilling bouncy castles, and mesmerizing shows. </div><div class="isomer-card-link">Check this event out!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/ndp-heartlands/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NDP2024_Heartland_Infographic_page_0001_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="NDP @ heartlands" src="/images/NDP2024_Heartland_Infographic_page_0001_1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">NDP @heartlands</div>
-<div class="isomer-card-description">Description of the NDP @ heartlands event here.</div>
-<div class="isomer-card-link">Check us out!</div>
+<div class="isomer-card-description">Singaporeans can look forward to celebrating National Day at five heartland
+locations on Saturday, 10 August 2024, from 4.00pm to 9.00pm.</div>
+<div class="isomer-card-link">Check this event out!</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/wec-mothers-day-outreach/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="WEC Mother's Day Outreach" src="/images/WEC_Mother_s_Day_Outreach_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">WEC Mother's Day Outreach</div><div class="isomer-card-description">Happy Mother’s Day, Marsiling! Spreading love and gratitude this morning at Marsiling Market for Mother's Day.</div><div class="isomer-card-link">Check this event out!</div></div></a>
 </div>
-<p></p>
 <h2><strong>House Visit Events</strong></h2>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/house-visits/marsiling-house-visit-1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/house_visit_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Marsiling House Visit 1</div><div class="isomer-card-description">Description of the marsiling house visit 1 event here.</div><div class="isomer-card-link">Check this out!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/pm-walkabout/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PM Walkabout 2024" src="/images/PM_Walkabout_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PM Walkabout 2024 </div><div class="isomer-card-description">Welcoming our new Prime Minister for his first market walkabout!
+</div><div class="isomer-card-link">Check this event out!</div></div></a>
 </div>
+<p></p>
+<blockquote>
+<p>Looking to see our entire list of events? <strong><a href="/upcoming-events/" rel="noopener nofollow" target="_blank">Click here</a></strong> to
+view it</p>
+</blockquote>
 <p></p>
