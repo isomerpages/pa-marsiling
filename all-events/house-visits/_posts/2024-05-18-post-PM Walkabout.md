@@ -12,9 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PM_Walkabout_1.jpg">
 </div>
-<p>welcomes our new Prime Minister for his first market walkabout! Bright
-smiles all about as residents warmly welcomes the Marsiling-Yew Tee GRC
-team this morning.
+<p>Marsiling welcomes our new Prime Minister for his first market walkabout!
+Bright smiles all about as residents warmly welcomes the Marsiling-Yew
+Tee GRC team this morning.
 <br>
 <br>A big thank you to all the residents who showed their support and celebrated
 our new Prime Minister in a truly Singaporean heartland style</p>
