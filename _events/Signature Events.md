@@ -6,7 +6,7 @@ description: ""
 ---
 <h1><strong>Our Signature Events</strong></h1>
 <hr>
-<h3><strong>Marsiling Groundbreaking</strong></h3>
+<h3><strong>New Marsiling CC Groundbreaking</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -57,7 +57,7 @@ stronger Marsiling!
 filled with unity and strength!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>IG Post of the Marsiling Groundbreaking Event</summary>
+<summary>IG Post of the New Marsiling CC Groundbreaking Event</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/C_X1avDPt50/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-captioned="" class="instagram-media">
@@ -72,29 +72,32 @@ filled with unity and strength!</p>
 </details>
 </div>
 <h3><strong>Post Event Highlights</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/marsiling-events/my-water-fiesta/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/My_water_fiesta.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MY Water Fiesta</div><div class="isomer-card-description">Description of the MY Water Fiesta Event here.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/marsiling-events/my-beats/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/my-water-fiesta/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MY Water Fiesta" src="/images/MY_Water_Fiesta_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MY Water Fiesta</div><div class="isomer-card-description">MY Water Fiesta is a fun Marsiling-Yewtte GRC initiative planned by the organising committee led by @woodgroveyn</div><div class="isomer-card-link">Check this event out!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/ndp-heartlands/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/My_beats.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="NDP @ heartlands" src="/images/ndp_heartlands_nw.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">MY Beats</div>
-<div class="isomer-card-description">Description of the MY Beats Event here.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">NDP @ heartlands</div>
+<div class="isomer-card-description">Singaporeans can look forward to celebrating National Day at five heartland
+locations on Saturday, 10 August 2024, from 4.00pm to 9.00pm.</div>
+<div class="isomer-card-link">Check this event out!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/rn-events/ndp-heartlands/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ndp_heartlands_swcdd_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NDP @heartlands</div><div class="isomer-card-description">Description of the NDP @ heartlands event here.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/rn-events/swrn-table-tennis/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/marsiling-carnival-day/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Marsiling National Day Carnival" src="/images/Marsiling_Carnival_Day_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Marsiling National Day Carnival</div><div class="isomer-card-description">Check out the highlight videos from our fun-filled day, where families and friends came together to enjoy exciting game booths, thrilling bouncy castles, and mesmerizing shows. </div><div class="isomer-card-link">Check this event out! </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/pm-walkabout/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Collaboration Highlights" src="/images/ndp_heartlands_cscdd.png">
+<img style="width: 100%" height="auto" width="100%" alt="PM Walkabout" src="/images/PM_Walkabout_1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">SWRN Table Tennis</div>
-<div class="isomer-card-description">Description of the SWRN Table Tennis event here</div>
-<div class="isomer-card-link">Check it out!</div>
+<div class="isomer-card-title">PM Walkabout</div>
+<div class="isomer-card-description">Marsiling welcomes our new Prime Minister for his first market walkabout!
+Bright smiles all about as residents warmly welcomes the Marsiling-Yew
+Tee GRC team this morning.</div>
+<div class="isomer-card-link">Check this event out!</div>
 </div>
 </a>
 </div>
