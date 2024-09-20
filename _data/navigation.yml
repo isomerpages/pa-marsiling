@@ -3,16 +3,6 @@ links:
   - title: Home
     url: /
   - title: Events
-    collection: events
-  - title: House Visits
-    resource_room: true
-  - title: Highlights Of Services
-    collection: highlight-of-services
-  - title: Community Overview
-    collection: community-overview
-  - title: Contact Us
-    url: /contact-us/
-  - title: Events
     url: /permalink
     sublinks:
       - title: Signature Events
@@ -21,3 +11,11 @@ links:
         url: /events/calendar-of-events/
       - title: All Events
         url: /all-events
+  - title: House Visits
+    resource_room: true
+  - title: Highlights Of Services
+    collection: highlight-of-services
+  - title: Community Overview
+    collection: community-overview
+  - title: Contact Us
+    url: /contact-us/
