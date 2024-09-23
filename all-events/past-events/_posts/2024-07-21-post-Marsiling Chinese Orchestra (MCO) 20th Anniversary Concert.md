@@ -18,7 +18,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Marsiling_Chinese_Orchestra__MCO__20th_Anniversary_Concert_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/MCO 20th anniversary/Marsiling_Chinese_Orchestra__MCO__20th_Anniversary_Concert_1.jpg">
 </div>
 </th>
 </tr>
@@ -26,7 +26,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Marsiling_Chinese_Orchestra__MCO__20th_Anniversary_Concert_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/MCO 20th anniversary/Marsiling_Chinese_Orchestra__MCO__20th_Anniversary_Concert_2.jpg">
 </div>
 </td>
 </tr>
