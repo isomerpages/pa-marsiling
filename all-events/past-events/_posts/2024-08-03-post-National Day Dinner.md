@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Day_Dinner_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/National Day Dinner/National_Day_Dinner_1.jpg">
 </div>
 <p>We celebrated Singapore's 59th Birthday at our Marsiling National Day
 Dinner last night!
@@ -25,10 +25,10 @@ incredible volunteers for making NDD 2024 a success.
 <br>Wishing Singapore a fantastic year ahead filled with happiness, prosperity
 and progress. Majulah Singapura!</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Day_Dinner_2.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/National Day Dinner/National_Day_Dinner_2.jpg">
+</div>
 <p></p>
 <blockquote>
 <p>Check out our Instagram Post!</p>
