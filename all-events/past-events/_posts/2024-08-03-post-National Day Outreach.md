@@ -42,13 +42,13 @@ a Happy 57th National Day! #sg57</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Day_Outreach_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/National Day Outreach/National_Day_Outreach_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Day_Outreach__4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/National Day Outreach/National_Day_Outreach_2.jpg">
 </div>
 </th>
 </tr>
@@ -56,13 +56,13 @@ a Happy 57th National Day! #sg57</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Day_Outreach_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/National Day Outreach/National_Day_Outreach_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Day_Outreach_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/National Day Outreach/National_Day_Outreach__4.jpg">
 </div>
 </td>
 </tr>
