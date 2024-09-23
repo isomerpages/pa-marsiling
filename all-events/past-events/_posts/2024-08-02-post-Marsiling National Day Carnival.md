@@ -10,30 +10,12 @@ variant: tiptap
 <h1><strong>Carnival Day Highlights</strong></h1>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Marsiling_Carnival_Day_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/Marsiling Carnival Day/Marsiling_Carnival_Day_2.jpg">
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Marsiling_Carnival_Day_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/Marsiling Carnival Day/Marsiling_Carnival_Day_2.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Marsiling_Carnival_Day_1.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p>Check out the highlight videos from our fun-filled day, where families
 and friends came together to enjoy exciting game booths, thrilling bouncy
 castles, and mesmerizing shows. From the fire and magic performances to
