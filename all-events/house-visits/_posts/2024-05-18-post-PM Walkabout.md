@@ -8,16 +8,21 @@ image: ""
 variant: tiptap
 ---
 <h1><strong>PM Walkabout 2024</strong></h1>
-<hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PM_Walkabout_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/PM Walkabout/PM_Walkabout_1.jpg">
 </div>
+<hr>
 <p>Marsiling welcomes our new Prime Minister for his first market walkabout!
 Bright smiles all about as residents warmly welcomes the Marsiling-Yew
 Tee GRC team this morning.
 <br>
 <br>A big thank you to all the residents who showed their support and celebrated
 our new Prime Minister in a truly Singaporean heartland style</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/PM Walkabout/PM_Walkabout_2.jpg">
+</div>
 <p></p>
 <blockquote>
 <p>Check out social media posts on this event!</p>
