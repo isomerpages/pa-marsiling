@@ -9,10 +9,11 @@ variant: tiptap
 ---
 <h1><strong>My Water Fiesta 2024 @ Marsiling</strong></h1>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MY_Water_Fiesta_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/My Water Fiesta/MY_Water_Fiesta_1.jpg">
 </div>
-<p><strong><em>MY Water Fiesta</em></strong> is a fun <strong><em>Marsiling</em></strong>-Yewtte
+<p><strong><em>MY Water Fiesta</em></strong> is a fun <strong><em>Marsiling</em></strong>-Yewtee
 GRC initiative planned by <strong><em>the</em></strong> organising committee
 led by @woodgroveyn</p>
 <p>Maecenas bibendum ac turpis nec finibus. Aliquam enim nunc, vehicula quis
@@ -43,6 +44,11 @@ non ornare ut, tincidunt ut mauris. Sed tincidunt ex semper mi tempus,
 id tempor lorem pharetra. Nulla facilisi. Cras gravida libero vitae aliquam
 posuere. Quisque venenatis luctus nisi. In eu dui aliquam, lacinia urna
 in, iaculis tortor.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/My Water Fiesta/MY_Water_Fiesta_2.jpg">
+</div>
+<p></p>
 <blockquote>
 <p>Check out social Media Posts on this event!</p>
 </blockquote>
