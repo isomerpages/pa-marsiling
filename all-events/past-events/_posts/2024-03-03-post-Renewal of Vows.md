@@ -8,8 +8,13 @@ image: /images/Renewal_of_Vows_1.jpg
 variant: tiptap
 ---
 <h1><strong>Renewal of Vows Event</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Renewal_of_Vows_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/Renewal of Vows/Renewal_of_Vows_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/Renewal of Vows/Renewal_of_Vows_1.jpg">
 </div>
 <p>Today, we celebrated the renewal of vows for ten remarkable couples who
 have been married for 40 years and more. It’s moments like these that remind
