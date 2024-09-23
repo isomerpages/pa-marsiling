@@ -51,6 +51,7 @@ nisl, non suscipit metus felis sed nisi.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/Navarasai Medai/Navarasai_Medai_2024_2.jpg">
 </div>
+<p></p>
 <blockquote>
 <p>Check out this post from Marsiling IAEC</p>
 <div class="iframe-wrapper">
