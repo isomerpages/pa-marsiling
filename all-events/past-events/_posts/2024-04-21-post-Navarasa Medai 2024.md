@@ -10,8 +10,9 @@ variant: tiptap
 <p></p>
 <h1><strong>Navarasa Medai 2024</strong></h1>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Navarasai_Medai_2024_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/Navarasai Medai/Navarasai_Medai_2024_1.jpg">
 </div>
 <p>Thrilled to announce that Marsiling IAEC's Navarasa Medai 2024 prize presentation
 last Sunday received media coverage and got a feature in Tamil Murasu,
@@ -46,8 +47,9 @@ Aliquam metus lorem, fermentum non tincidunt tincidunt, volutpat bibendum
 leo. Vestibulum suscipit, nisl et elementum volutpat, orci massa semper
 nisl, non suscipit metus felis sed nisi.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Navarasai_Medai_2024_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/Navarasai Medai/Navarasai_Medai_2024_2.jpg">
 </div>
 <blockquote>
 <p>Check out this post from Marsiling IAEC</p>
