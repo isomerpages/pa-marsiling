@@ -7,14 +7,15 @@ description: Hari Raya Open House
 image: /images/Hari_Raya_Open_House_1.jpg
 variant: tiptap
 ---
-<h1><strong>Hari Raya Open House 2024 </strong></h1>
+<h1><strong>Hari Raya Open House 2024</strong></h1>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hari_Raya_Open_House_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/Hari Raya Open House/Hari_Raya_Open_House_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hari_Raya_Open_House_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/Hari Raya Open House/Hari_Raya_Open_House_1.jpg">
 </div>
 <p>Selamat Hari Raya Aidilfitri! Today was a special occasion as we hosted
 our first Hari Raya Open House at Marsiling CC, bringing together over
