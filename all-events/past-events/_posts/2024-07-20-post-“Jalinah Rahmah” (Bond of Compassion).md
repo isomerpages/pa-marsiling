@@ -25,7 +25,7 @@ variant: tiptap
 <th rowspan="1" colspan="7">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jalinah_Rahmah___Bond_of_Compassion__3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/Jalinah Rahmah/Jalinah_Rahmah___Bond_of_Compassion__3.jpg">
 </div>
 </th>
 </tr>
@@ -71,7 +71,7 @@ community.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Jalinah_Rahmah___Bond_of_Compassion__2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024 Events/Jalinah Rahmah/Jalinah_Rahmah___Bond_of_Compassion__1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -81,7 +81,7 @@ community.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Jalinah_Rahmah___Bond_of_Compassion__1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024 Events/Jalinah Rahmah/Jalinah_Rahmah___Bond_of_Compassion__2.png">
 </div>
 </div>
 <div class="isomer-card-body">
