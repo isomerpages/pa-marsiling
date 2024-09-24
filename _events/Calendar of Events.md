@@ -50,7 +50,7 @@ view it</p>
 <h2><strong>House Visit Events</strong></h2>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/pm-walkabout/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PM Walkabout 2024" src="/images/PM_Walkabout_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PM Walkabout 2024</div><div class="isomer-card-description">Welcoming our new Prime Minister for his first market walkabout!</div><div class="isomer-card-link">Check this event out!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/pm-walkabout/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PM Walkabout 2024" src="/images/2024 Events/PM Walkabout/PM_Walkabout_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PM Walkabout 2024</div><div class="isomer-card-description">Welcoming our new Prime Minister for his first market walkabout!</div><div class="isomer-card-link">Check this event out!</div></div></a>
 </div>
 <p></p>
 <blockquote>
