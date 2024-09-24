@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Join_Us.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/PM Walkabout/PM_Walkabout_2.jpg">
 </div>
 <h2><strong>Care and Services for Residents</strong></h2>
 <p>At Marsiling PA ...</p>
