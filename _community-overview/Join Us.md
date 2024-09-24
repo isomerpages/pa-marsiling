@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Join_Us.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Join Us/Join_Us.jpg">
 </div>
 <h2><strong>Join Us</strong></h2>
 <p>At Marsiling PA, we believe....</p>
