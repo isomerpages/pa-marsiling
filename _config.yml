@@ -6,15 +6,15 @@ colors:
   secondary-color: "#e74822"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#ffc641"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
-      color: "#00838f"
+      color: "#2d429a"
     - title: media-color-four
-      color: "#00838f"
+      color: "#e74822"
     - title: media-color-five
-      color: "#00838f"
+      color: "#afd135"
 description: “M” is reminisce of the original logo, acknowledging the efforts
   and values of the Pioneers, and the next generation is committed to continue
   building Marsiling into the Home for all with a loving & caring Heart.
