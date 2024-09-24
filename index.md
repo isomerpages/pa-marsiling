@@ -11,11 +11,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/home_page_hero.jpg
       url: /contact-us/
-      title: Sample pa-marsiling Homepage
+      title: "Marsiling: Our Community, Our Home"
       variant: center
       button: Contact Us Now!
+      subtitle: Subtitle headline
   - resources:
       title: Events
       id: resources
