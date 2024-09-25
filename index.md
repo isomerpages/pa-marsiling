@@ -17,10 +17,6 @@ sections:
       variant: center
       button: Contact Us Now!
       subtitle: Subtitle headline
-  - resources:
-      title: Events
-      id: resources
-      button: View all events
   - infobar:
       title: Our New Marsiling Community Club
       id: infobar
@@ -28,7 +24,11 @@ sections:
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/6subT9E74m4?si=U6DPEh0R7roTGMWs"
-        height="315" width="560"></iframe>
+        height="415" width="800"></iframe>
+  - resources:
+      title: Events
+      id: resources
+      button: View all events
   - announcements:
       title: Upcoming Events
       id: announcements
