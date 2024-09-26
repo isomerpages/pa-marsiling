@@ -24,8 +24,7 @@ sections:
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/6subT9E74m4?si=eKX1TCxQfGL8K8u2"
-        height="315" width="560"></iframe>ncrypted-media; gyroscope;
-        picture-in-picture; web-share" allowfullscreen="">
+        height="315" width="560"></iframe>
   - resources:
       title: Events
       id: resources
