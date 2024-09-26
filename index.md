@@ -30,20 +30,6 @@ sections:
       title: Events
       id: resources
       button: View all events
-  - announcements:
-      title: Upcoming Events
-      id: announcements
-      announcement_items:
-        - title: "Event #1"
-          date: 20 September 2024
-          announcement: "Event #1 Details"
-          link_text: Check out the event Here!
-          link_url: /sample
-        - title: "Event #2"
-          date: 21 September 2024
-          announcement: "Event #2 Details"
-          link_text: Check out the Event Here!
-          link_url: /sample2
   - textcards:
       title: Interesting News about Marsiling
       id: textcards
@@ -64,6 +50,21 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+      description: <img src="Marsiling_Logo.png">
+  - announcements:
+      title: Upcoming Events
+      id: announcements
+      announcement_items:
+        - title: "Event #1"
+          date: 20 September 2024
+          announcement: "Event #1 Details"
+          link_text: Check out the event Here!
+          link_url: /sample
+        - title: "Event #2"
+          date: 21 September 2024
+          announcement: "Event #2 Details"
+          link_text: Check out the Event Here!
+          link_url: /sample2
   - infopic:
       title: Marsiling Estate Development Highlights
       id: infopic
