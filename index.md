@@ -32,19 +32,19 @@ sections:
         - title: "Event #1"
           date: 20 September 2024
           announcement: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
-            100%">'
+            40%">'
           link_text: Check out the event Here!
           link_url: /sample
         - title: "Event #2"
           date: 21 September 2024
           announcement: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
-            100%">'
+            40%">'
           link_text: Check out the Event Here!
           link_url: /sample2
         - title: "Event #3"
           date: 26 September 2024
           announcement: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
-            100%">'
+            40%">'
           link_text: Check out the Event Here!
           link_url: /
   - textcards:
