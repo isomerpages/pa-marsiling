@@ -34,24 +34,26 @@ sections:
       id: textcards
       cards:
         - title: "News #1"
-          description: Card description
+          description: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
+            100%">'
           linktext: Learn more
           url: ""
         - title: "News #2"
-          description: Card description
+          description: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
+            100%">'
           linktext: Learn more
           url: ""
         - title: "News #3"
-          description: Card description
+          description: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
+            100%">'
           linktext: Learn more
           url: ""
         - title: "News #4"
-          description: Card description
+          description: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
+            100%">'
           linktext: Learn more
           url: ""
-      description: '<img src="/images/2024 Events/Marsiling Carnival
-        Day/Marsiling_Carnival_Day_2.jpg" alt="Marsiling National Day Carnival"
-        width="100%" height="auto" style="width: 100%">'
+      description: ""
   - announcements:
       title: Upcoming Events
       id: announcements
