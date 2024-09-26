@@ -17,6 +17,16 @@ sections:
       variant: center
       button: Contact Us Now!
       subtitle: Subtitle headline
+      key_highlights:
+        - title: My Home
+          description: Estate
+          url: ""
+        - title: My Heart
+          description: Welfare
+          url: ""
+        - title: My Hope
+          description: Lifeline Learning
+          url: ""
   - infobar:
       title: Our New Marsiling Community Club
       id: infobar
