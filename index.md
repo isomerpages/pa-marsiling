@@ -49,7 +49,9 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
-      description: <img src="Marsiling_Logo.png">
+      description: '<img src="/images/2024 Events/Marsiling Carnival
+        Day/Marsiling_Carnival_Day_2.jpg" alt="Marsiling National Day Carnival"
+        width="100%" height="auto" style="width: 100%">'
   - announcements:
       title: Upcoming Events
       id: announcements
