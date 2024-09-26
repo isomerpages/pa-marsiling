@@ -25,10 +25,28 @@ sections:
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/6subT9E74m4?si=eKX1TCxQfGL8K8u2"
         height="315" width="560"></iframe>
-  - resources:
-      title: Events
-      id: resources
-      button: View all events
+  - announcements:
+      title: Upcoming Events
+      id: announcements
+      announcement_items:
+        - title: "Event #1"
+          date: 20 September 2024
+          announcement: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
+            100%">'
+          link_text: Check out the event Here!
+          link_url: /sample
+        - title: "Event #2"
+          date: 21 September 2024
+          announcement: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
+            100%">'
+          link_text: Check out the Event Here!
+          link_url: /sample2
+        - title: "Event #3"
+          date: 26 September 2024
+          announcement: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
+            100%">'
+          link_text: Check out the Event Here!
+          link_url: /
   - textcards:
       title: Interesting News about Marsiling
       id: textcards
@@ -53,28 +71,10 @@ sections:
             100%">'
           linktext: Learn more
           url: ""
-  - announcements:
-      title: Upcoming Events
-      id: announcements
-      announcement_items:
-        - title: "Event #1"
-          date: 20 September 2024
-          announcement: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
-            100%">'
-          link_text: Check out the event Here!
-          link_url: /sample
-        - title: "Event #2"
-          date: 21 September 2024
-          announcement: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
-            100%">'
-          link_text: Check out the Event Here!
-          link_url: /sample2
-        - title: "Event #3"
-          date: 26 September 2024
-          announcement: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
-            100%">'
-          link_text: Check out the Event Here!
-          link_url: /
+  - resources:
+      title: Events
+      id: resources
+      button: View all events
   - infopic:
       title: Marsiling Estate Development Highlights
       id: infopic
