@@ -2,7 +2,7 @@ logo: /images/Marsiling_Logo.png
 links:
   - title: Home
     url: /
-  - title: Calendar of Events
+  - title: Event Calendar
     url: /events/calendar-of-events/
     sublinks:
       - title: Signature Events
