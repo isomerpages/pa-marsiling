@@ -20,13 +20,13 @@ sections:
       key_highlights:
         - title: My Home
           description: Estate
-          url: "#"
+          url: "#/highlights-of-services/estate-development-services/"
         - title: My Heart
           description: Welfare
-          url: "#"
+          url: "#/highlights-of-services/welfare-services/"
         - title: My Hope
           description: Lifeline Learning
-          url: "#"
+          url: "#/highlights-of-services/rn-services/"
   - infobar:
       title: Our New Marsiling Community Club
       id: infobar
