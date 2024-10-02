@@ -81,12 +81,8 @@ sections:
             100%">'
           linktext: Learn more
           url: ""
-  - resources:
-      title: Events
-      id: resources
-      button: View all events
   - infopic:
-      title: Marsiling Estate Development Highlights
+      title: Upcoming Events
       id: infopic
       description: Description
       button: FInd our More
@@ -127,4 +123,12 @@ sections:
         - title: Workgroup sub-sites
           description: Outreach/ events (to showcase diversity of culture),
             estate/transport related, commlink/volunteering opportunities
+  - infopic:
+      title: Follow us on our social channels
+      id: infopic
+      description: Facebook & Instagram
+      button: Click Here
+      url: /community-overview/contact-us/
+      image: /images/Logos & Others/social_media.png
+      alt: Social Media Page
 ---
