@@ -25,7 +25,7 @@ sections:
           description: Welfare
           url: "#"
         - title: My Hope
-          description: Lifeline Learning
+          description: Lifelong Learning
           url: "#"
   - infobar:
       title: Our New Marsiling Community Club
