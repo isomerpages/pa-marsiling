@@ -102,6 +102,6 @@ Tee GRC team this morning.</div>
 </a>
 </div>
 <blockquote>
-<p>Looking for more Event Highlights? <a href="/all-events/" rel="noopener nofollow" target="_blank">Click Here</a> to view more</p>
+<p>Looking for more Event Highlights? <a href="/past-events/" rel="noopener nofollow" target="_blank">Click Here</a> to view more</p>
 </blockquote>
 <p></p>
