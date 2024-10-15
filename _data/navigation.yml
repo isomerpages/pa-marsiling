@@ -7,7 +7,7 @@ links:
     sublinks:
       - title: Signature Events
         url: /events/signature-events/
-  - title: All Events
+  - title: Past Events
     resource_room: true
   - title: Highlights Of Services
     collection: highlight-of-services
