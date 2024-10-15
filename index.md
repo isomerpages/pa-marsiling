@@ -27,60 +27,6 @@ sections:
         - title: My Hope
           description: Lifelong Learning
           url: "#"
-  - infobar:
-      title: Our New Marsiling Community Club
-      id: infobar
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/6subT9E74m4?si=eKX1TCxQfGL8K8u2"
-        height="315" width="560"></iframe>
-  - announcements:
-      title: Upcoming Events
-      id: announcements
-      announcement_items:
-        - title: "Event #1"
-          date: 20 September 2024
-          announcement: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
-            40%">'
-          link_text: Check out the event Here!
-          link_url: /sample
-        - title: "Event #2"
-          date: 21 September 2024
-          announcement: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
-            40%">'
-          link_text: Check out the Event Here!
-          link_url: /sample2
-        - title: "Event #3"
-          date: 26 September 2024
-          announcement: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
-            40%">'
-          link_text: Check out the Event Here!
-          link_url: /
-  - textcards:
-      title: Interesting News about Marsiling
-      id: textcards
-      cards:
-        - title: "News #1"
-          description: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
-            100%">'
-          linktext: Learn more
-          url: ""
-        - title: "News #2"
-          description: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
-            100%">'
-          linktext: Learn more
-          url: ""
-        - title: "News #3"
-          description: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
-            100%">'
-          linktext: Learn more
-          url: ""
-        - title: "News #4"
-          description: '<img src="/images/Marsiling_Logo.png" height="auto" style="width:
-            100%">'
-          linktext: Learn more
-          url: ""
   - infopic:
       title: Upcoming Events
       id: infopic
@@ -123,6 +69,14 @@ sections:
         - title: Workgroup sub-sites
           description: Outreach/ events (to showcase diversity of culture),
             estate/transport related, commlink/volunteering opportunities
+  - infobar:
+      title: Our New Marsiling Community Club
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/6subT9E74m4?si=eKX1TCxQfGL8K8u2"
+        height="315" width="560"></iframe>
   - infopic:
       title: Follow us on our social channels
       id: infopic
