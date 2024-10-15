@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Join Us.md
-      - Care and Services for residents.md
+      - Care and Services for Residents.md
       - What we Do.md
       - Workgroup Sub Sites/.keep
       - Workgroup Sub Sites/Outreach and events.md
