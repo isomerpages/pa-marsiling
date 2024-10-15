@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/Marsiling Year End Countdown.md
       - Upcoming Events/.keep
       - Signature Events.md
       - Calendar of Events.md
