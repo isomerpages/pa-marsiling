@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Signature Events.md
-      - Calendar of Events.md
+      - Calendar of past Events.md
       - Upcoming Events/Deeparaagam.md
       - Upcoming Events/Deepavali Festive Gift @ Marsiling.md
       - Upcoming Events/Deepavali Light Up.md
