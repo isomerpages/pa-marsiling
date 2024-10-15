@@ -3,10 +3,12 @@ links:
   - title: Home
     url: /
   - title: Event Calendar
-    url: /events/calendar-of-events/
+    url: /events/signature-events/
     sublinks:
       - title: Signature Events
         url: /events/signature-events/
+      - title: Calendar of Past Events
+        url: /events/calendar-of-past-events/
   - title: Past Events
     resource_room: true
   - title: Highlights Of Services
