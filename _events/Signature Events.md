@@ -87,7 +87,7 @@ locations on Saturday, 10 August 2024, from 4.00pm to 9.00pm.</div>
 <div class="isomer-card-link">Check this event out!</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/general-events/marsiling-carnival-day/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Marsiling National Day Carnival" src="/images/2024 Events/Marsiling Carnival Day/Marsiling_Carnival_Day_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Marsiling National Day Carnival</div><div class="isomer-card-description">Check out the highlight videos from our fun-filled day, where families and friends came together to enjoy exciting game booths, thrilling bouncy castles, and mesmerizing shows.</div><div class="isomer-card-link">Check this event out!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/general-events/pm-walkabout/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/rn-events/pm-walkabout/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PM Walkabout" src="/images/2024 Events/PM Walkabout/PM_Walkabout_1.jpg">
