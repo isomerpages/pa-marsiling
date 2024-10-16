@@ -41,7 +41,7 @@ off such a meaningful event!
 </div>
 <h3><strong>Photo Gallery</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="703" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZRxThmBztIYXrhGvxV0DEp1SJA00o_IeWhOD9eL-aJMRb8spS5fV9_-mwmOGhGUC2BNm1D7sHWfAy/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe height="540" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZRxThmBztIYXrhGvxV0DEp1SJA00o_IeWhOD9eL-aJMRb8spS5fV9_-mwmOGhGUC2BNm1D7sHWfAy/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
 <blockquote>
 <p>Looking for other Event Highlights? <a href="/past-events/general-events/" rel="noopener nofollow" target="_blank">Click Here</a> to view more</p>
