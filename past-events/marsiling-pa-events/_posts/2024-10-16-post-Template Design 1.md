@@ -35,8 +35,85 @@ eget pharetra tristique. Pellentesque non enim tincidunt, finibus magna
 quis, efficitur justo. Vestibulum ante ipsum primis in faucibus orci luctus
 et ultrices posuere cubilia curae;</p>
 <p></p>
-<h3>Post Event Image Highlights</h3>
-<div class="iframe-wrapper">
-<iframe height="704" width="1200" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRa0GTaOCI5GYD7DVb7HrRtg8pyCtEKUxhx4A5D01u2bgvkgDMipXuYa61uVBLpHtFM84Iw7Gm8bHTJ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<h3>Testimonials From Participants (Optional)</h3>
+<hr>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Testimonial 1</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Testimonial 2</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Testimonial 3</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
+<h3>Post Event Image Highlights</h3>
+<h4>Video (optional)</h4>
+<div class="iframe-wrapper">
+<iframe height="705" width="1200" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6subT9E74m4?si=eKX1TCxQfGL8K8u2"></iframe>
+</div>
+<h4> Slideshow (optional)</h4>
+<div class="iframe-wrapper">
+<iframe height="704" width="1200" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRa0GTaOCI5GYD7DVb7HrRtg8pyCtEKUxhx4A5D01u2bgvkgDMipXuYa61uVBLpHtFM84Iw7Gm8bHTJ/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+</div>
+<p></p>
+<hr>
+<h3>Follow us </h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
