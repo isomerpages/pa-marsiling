@@ -7,11 +7,11 @@ description: Template Design 1
 image: ""
 variant: tiptap
 ---
-<h1>Title of Event</h1>
+<h1><strong>Title of Event</strong></h1>
 <p></p>
-<h4>Event Date: DD/MM/YYYY<br>Location: 1 Admiralty Drive</h4>
+<h4><strong>Event Date:</strong> DD/MM/YYYY<br><strong>Location: </strong>1 Admiralty Drive</h4>
 <hr>
-<h3>Event Overview</h3>
+<h3><strong>Event Overview</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hero-banner.png">
@@ -78,7 +78,7 @@ Mauris vitae porttitor velit, eget congue enim.</p>
 </div>
 </div>
 </div>
-<h3>Post Event Image Highlights</h3>
+<h3><strong>Post Event Highlights</strong></h3>
 <h4>Video (optional)</h4>
 <div class="iframe-wrapper">
 <iframe height="703" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6subT9E74m4?si=eKX1TCxQfGL8K8u2"></iframe>
