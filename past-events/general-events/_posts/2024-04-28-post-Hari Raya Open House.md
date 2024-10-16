@@ -28,6 +28,10 @@ Our lively emcee kept the energy high, so that everyone will have a memorable
 and enjoyable time while sharing food together.
 <br>
 <br>Can't wait for more celebrations like this with our residents in the future!</p>
+<h3>Post Event Highlights</h3>
+<div class="iframe-wrapper">
+<iframe height="704" width="1200" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYRh61kxW2hffCVEU054L01-tLpxGEyzXLsjsQJEwZnQ2C-suu-z9ffjxB26GIAj8oaTBq1uODN0pU/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <blockquote>
 <p>Check Out Social Media Posts on this Event</p>
 </blockquote>
