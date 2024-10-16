@@ -9,10 +9,12 @@ variant: tiptap
 ---
 <h1><strong>Hari Raya Open House 2024</strong></h1>
 <hr>
-<p></p>
+<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/Hari Raya Open House/Hari_Raya_Open_House_2.jpg">
 </div>
+<p></p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/Hari Raya Open House/Hari_Raya_Open_House_1.jpg">
@@ -32,6 +34,7 @@ and enjoyable time while sharing food together.
 <div class="iframe-wrapper">
 <iframe height="704" width="1200" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYRh61kxW2hffCVEU054L01-tLpxGEyzXLsjsQJEwZnQ2C-suu-z9ffjxB26GIAj8oaTBq1uODN0pU/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p></p>
 <blockquote>
 <p>Check Out Social Media Posts on this Event</p>
 </blockquote>
