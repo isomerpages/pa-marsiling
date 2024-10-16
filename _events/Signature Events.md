@@ -4,7 +4,7 @@ permalink: /events/signature-events/
 variant: tiptap
 description: ""
 ---
-<h1>Marsiling CC Edusave Ceremony </h1>
+<h1>Marsiling CC Edusave Ceremony</h1>
 <p></p>
 <h4>Event Date: 27 January 2024<br>Location: 100 Admiralty Road, 739980</h4>
 <hr>
@@ -44,7 +44,7 @@ off such a meaningful event!
 <iframe height="703" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZRxThmBztIYXrhGvxV0DEp1SJA00o_IeWhOD9eL-aJMRb8spS5fV9_-mwmOGhGUC2BNm1D7sHWfAy/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
 <blockquote>
-<p>Looking for other Event Highlights? <a href="/past-events/" rel="noopener nofollow" target="_blank">Click Here</a> to view more</p>
+<p>Looking for other Event Highlights? <a href="/past-events/general-events/" rel="noopener nofollow" target="_blank">Click Here</a> to view more</p>
 </blockquote>
 <p></p>
 <p></p>
