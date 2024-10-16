@@ -77,7 +77,7 @@ et ultrices posuere cubilia curae;</p>
 <div class="iframe-wrapper">
 <iframe height="705" width="1200" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6subT9E74m4?si=eKX1TCxQfGL8K8u2"></iframe>
 </div>
-<h4>Slideshow (optional)</h4>
+<h4>Slideshow </h4>
 <div class="iframe-wrapper">
 <iframe height="704" width="1200" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRa0GTaOCI5GYD7DVb7HrRtg8pyCtEKUxhx4A5D01u2bgvkgDMipXuYa61uVBLpHtFM84Iw7Gm8bHTJ/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
