@@ -39,7 +39,7 @@ off such a meaningful event!
 <div class="iframe-wrapper">
 <iframe height="703" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Hs6U6ie6T74?si=xB-WYFswDhpCsDv7"></iframe>
 </div>
-<p></p>
+<h4><strong>Photo Gallery</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="703" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZRxThmBztIYXrhGvxV0DEp1SJA00o_IeWhOD9eL-aJMRb8spS5fV9_-mwmOGhGUC2BNm1D7sHWfAy/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
