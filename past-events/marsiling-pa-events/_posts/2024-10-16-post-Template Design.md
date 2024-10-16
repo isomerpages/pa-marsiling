@@ -9,7 +9,52 @@ variant: tiptap
 ---
 <h1><strong>Title of Event</strong></h1>
 <p></p>
-<h4><strong>Event Date:</strong> DD/MM/YYYY<br><strong>Location: </strong>1 Admiralty Drive</h4>
+<h4><strong>Event details </strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 27 January 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11am - 4.30pm (Singapore Time / UTC +8)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100 Admiralty Road, 739980</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Registration for upcoming Events (optional)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://google.com" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h3><strong>Event Overview</strong></h3>
 <p></p>
