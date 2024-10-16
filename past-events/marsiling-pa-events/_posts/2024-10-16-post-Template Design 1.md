@@ -77,13 +77,13 @@ et ultrices posuere cubilia curae;</p>
 <div class="iframe-wrapper">
 <iframe height="705" width="1200" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6subT9E74m4?si=eKX1TCxQfGL8K8u2"></iframe>
 </div>
-<h4> Slideshow (optional)</h4>
+<h4>Slideshow (optional)</h4>
 <div class="iframe-wrapper">
 <iframe height="704" width="1200" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRa0GTaOCI5GYD7DVb7HrRtg8pyCtEKUxhx4A5D01u2bgvkgDMipXuYa61uVBLpHtFM84Iw7Gm8bHTJ/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
 <p></p>
 <hr>
-<h3>Follow us </h3>
+<h3>Contact Us</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -91,27 +91,54 @@ et ultrices posuere cubilia curae;</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Others/social_media.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Facebook</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/MarsilingHome/" rel="noopener nofollow" target="_blank">Click Here</a> to
+check out our Facebook Page</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Youtube</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.youtube.com/@marsilinghome5865/featured" rel="noopener nofollow" target="_blank">Click Here</a> to
+check out our Youtube Channel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Instagram</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/Marsilinghome/" rel="noopener nofollow" target="_blank">Click Here</a> to
+check out our instagram page</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Address</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100 Admiralty Road , Singapore 739980</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Telephone</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>62696768</p>
 </td>
 </tr>
 </tbody>
