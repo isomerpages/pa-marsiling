@@ -5,13 +5,55 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Marsiling CC Edusave Ceremony</strong></h1>
-<p></p>
-<h4><strong>Event Date:</strong> 27 January 2024<br><strong>Location: </strong>100 Admiralty Road, 739980</h4>
+<h4><strong>Event details</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 27 January 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11am - 4.30pm (Singapore Time / UTC +8)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100 Admiralty Road, 739980</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Register (Optional for upcoming Events)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://google.com" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
+<p></p>
 <h2><strong>Event Overview</strong></h2>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/Edusave January 2024/IMG_3476.jpg">
 </div>
