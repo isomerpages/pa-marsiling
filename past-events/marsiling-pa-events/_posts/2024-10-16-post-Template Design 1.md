@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <h1>Title of Event</h1>
 <p></p>
-<h4>Event Date: DD/MM/YYYY<br>Location:  1 Admiralty Drive </h4>
+<h4>Event Date: DD/MM/YYYY<br>Location: 1 Admiralty Drive</h4>
 <hr>
 <h3>Event Overview</h3>
 <p></p>
@@ -35,7 +35,7 @@ eget pharetra tristique. Pellentesque non enim tincidunt, finibus magna
 quis, efficitur justo. Vestibulum ante ipsum primis in faucibus orci luctus
 et ultrices posuere cubilia curae;</p>
 <p></p>
-<h3>Post Event Image  Highlights</h3>
+<h3>Post Event Image Highlights</h3>
 <div class="iframe-wrapper">
 <iframe height="704" width="1200" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRa0GTaOCI5GYD7DVb7HrRtg8pyCtEKUxhx4A5D01u2bgvkgDMipXuYa61uVBLpHtFM84Iw7Gm8bHTJ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
