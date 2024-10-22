@@ -59,7 +59,7 @@ third_nav_title: Upcoming Events
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hero-banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/MYBeats Music Festival 2024/Mybeats_2023.jpg">
 </div>
 <p>
 <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pulvinar
