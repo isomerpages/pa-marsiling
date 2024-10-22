@@ -20,41 +20,53 @@ sections:
       key_highlights:
         - title: My Home
           description: Estate
-          url: "#"
+          url: /highlights-of-services/estate-development-services/
         - title: My Heart
           description: Welfare
-          url: "#"
+          url: /highlights-of-services/welfare-services/
         - title: My Hope
           description: Lifelong Learning
-          url: "#"
+          url: /highlights-of-services/rn-services/
   - infopic:
       title: Upcoming Events
       id: infopic
-      description: Description
+      description: Don’t miss out on exciting events happening in the Marsiling
+        community! Join the fun and get involved!
       button: FInd our More
       image: /images/hero-banner.png
       alt: Image alt text
       url: /highlights-of-services/estate-development-services/
   - infopic:
-      title: Marsiling RN Service Highlights
+      title: New Development
       id: infopic
-      description: Description
+      description: Exciting changes are on the horizon! Discover the latest
+        developments within Marsiling community.
       button: Find out more
       image: /images/hero-banner.png
       alt: Image alt text
       url: /highlights-of-services/rn-services/
   - infopic:
-      title: Marsiling Welfare Service Highlights
+      title: Popular Courses
       id: infopic
-      description: Description
+      description: Marsiling community offers you endless opportunities to pick up new
+        skills, have fun, while making new friends in the process. Come join us
+        today!
       button: Find out More
       url: /highlights-of-services/welfare-services/
       image: /images/hero-banner.png
       alt: Image alt text
+  - infobar:
+      title: Our New Marsiling Community Club
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/6subT9E74m4?si=eKX1TCxQfGL8K8u2"
+        height="315" width="560"></iframe>
   - infocols:
-      title: Community Overview
+      title: Marsiling Welfare Schemes
       id: infocols
-      linktext: Find out more here
+      linktext: Learn more about Marsiling Care, Comlink & FFTH
       url: /what-we-do
       infoboxes:
         - title: What we do
@@ -69,14 +81,6 @@ sections:
         - title: Workgroup sub-sites
           description: Outreach/ events (to showcase diversity of culture),
             estate/transport related, commlink/volunteering opportunities
-  - infobar:
-      title: Our New Marsiling Community Club
-      id: infobar
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/6subT9E74m4?si=eKX1TCxQfGL8K8u2"
-        height="315" width="560"></iframe>
   - infopic:
       title: Follow us on our social channels
       id: infopic
