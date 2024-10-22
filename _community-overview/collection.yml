@@ -2,6 +2,7 @@ collections:
   community-overview:
     output: true
     order:
+      - Resident's Network.md
       - Care and Services for Residents.md
       - What We Do.md
       - Workgroup Sub Sites/.keep
