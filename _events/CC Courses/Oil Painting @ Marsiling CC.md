@@ -38,7 +38,7 @@ third_nav_title: CC Courses
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Marsiling CC</p>
+<p>Mr Low Tho Seng, Marsiling CC</p>
 </td>
 </tr>
 <tr>
