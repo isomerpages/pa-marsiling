@@ -57,8 +57,9 @@ third_nav_title: Upcoming Events
 <h3><strong>Event Overview</strong></h3>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/Northbound Countdown Festival/NorthboundFest_Coundown_Festival.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/MYBeats Music Festival 2024/MYBeats_2024.jpg">
 </div>
 <p>
 <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pulvinar
