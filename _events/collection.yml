@@ -2,12 +2,9 @@ collections:
   events:
     output: true
     order:
-      - RN Courses/Basic Balloon Sculpting @ Marsiling Zone 2 RN.md
-      - RN Courses/.keep
-      - CC Courses/Oil Painting @ Marsiling CC.md
-      - CC Courses/.keep
       - Signature Events.md
       - Calendar of past Events.md
+      - Upcoming Events/.keep
       - Upcoming Events/CNY 2025.md
       - Upcoming Events/MYBeats Music Festival 2024.md
       - Upcoming Events/Northbound Fest Countdown Festival.md
@@ -22,5 +19,8 @@ collections:
       - Upcoming Events/Marsiling ACWP.md
       - Upcoming Events/Marsiling CNY Dinner.md
       - Upcoming Events/Marsiling Overseas Workplan.md
-      - Upcoming Events/.keep
       - Upcoming Events/Marsiling Year End Countdown.md
+      - CC Courses/.keep
+      - CC Courses/Oil Painting @ Marsiling CC.md
+      - RN Courses/.keep
+      - RN Courses/Basic Balloon Sculpting @ Marsiling Zone 2 RN.md
