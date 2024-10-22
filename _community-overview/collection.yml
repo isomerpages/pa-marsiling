@@ -2,11 +2,11 @@ collections:
   community-overview:
     output: true
     order:
-      - Join Us.md
       - Care and Services for Residents.md
       - What We Do.md
       - Workgroup Sub Sites/.keep
       - Workgroup Sub Sites/Outreach and events.md
       - Workgroup Sub Sites/Estate and Transport.md
       - Workgroup Sub Sites/Commlink and Volunteering opportunities.md
+      - Join Us.md
       - Contact Us.md
