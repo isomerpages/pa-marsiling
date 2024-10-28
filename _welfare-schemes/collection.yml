@@ -1,4 +1,5 @@
 collections:
   welfare-schemes:
     output: true
-    order: []
+    order:
+      - North West Emergency Relief Fund.md
