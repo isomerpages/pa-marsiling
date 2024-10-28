@@ -123,13 +123,13 @@ hesitate to reach out. Our team is here to listen and offer the support
 you need. We offer Schemes that can improve your life.
 <br>
 </p>
-<h4><br><strong>North West Emergency Fund</strong> </h4>
+<h4><br><strong>North West Emergency Fund</strong></h4>
 <p>We Provide immediate relief to tide residents through their financial
 difficulties due to unforeseen circumstances such as death of sole breadwinner,
 fire, emergency household situations or disaster.
 <br>
-<br><a href="#" rel="noopener nofollow" target="_blank">Click Here</a> to find
-out more.
+<br><a href="/welfare-schemes/north-west-emergency-relief-fund/" rel="noopener nofollow" target="_blank">Click Here</a> to
+find out more.
 <br>
 <br>
 </p>
@@ -139,8 +139,8 @@ out more.
 or families who are temporarily unable to work, looking for a job or earning
 a low income and require assistance.
 <br>
-<br><a href="#" rel="noopener nofollow" target="_blank">Click Here</a> to find
-out more.
+<br><a href="/welfare-schemes/comcare-short-to-medium-term-assistance-smta/" rel="noopener nofollow" target="_blank">Click Here</a> to
+find out more.
 <br>
 </p>
 <blockquote>
