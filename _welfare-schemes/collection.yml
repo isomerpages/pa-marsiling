@@ -1,0 +1,4 @@
+collections:
+  welfare-schemes:
+    output: true
+    order: []
