@@ -68,10 +68,7 @@ image: /images/RN Courses 2024/balloon_craft_9.jpg
 <td rowspan="1" colspan="1">
 <p>Marsiling Zone 2 RN
 <br>@ 8 Marsiling Drive, #01-18 ,730008</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="sign_up" src="/images/sign_up.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.onepa.gov.sg/courses/basic-balloon-sculpting-c027114041"><img style="width: 100%" height="auto" width="100%" alt="sign_up" src="/images/sign_up.png"></a>
 </td>
 </tr>
 </tbody>
