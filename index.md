@@ -23,7 +23,7 @@ sections:
           url: /highlights-of-services/estate-development-services/
         - title: My Heart
           description: Welfare
-          url: /highlights-of-services/welfare-services/
+          url: /highlights-of-services/my-heart-welfare/
         - title: My Hope
           description: Lifelong Learning
           url: /highlights-of-services/rn-services/
