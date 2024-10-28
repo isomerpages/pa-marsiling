@@ -79,18 +79,9 @@ image: /images/CC Courses 2024/Oil_Painting.jpg
 <p>#01-04 (All Dates)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Registration for the Course</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.onepa.gov.sg/courses/oil-painting-c027115007" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a>
-</p>
-</td>
-</tr>
 </tbody>
-</table>
+</table><a class="isomer-image-wrapper" href="https://www.onepa.gov.sg/courses/oil-painting-c027115007"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/sign_up.png"></a>
+<p></p>
 <hr>
 <h3><strong>Course Overview</strong></h3>
 <div class="isomer-image-wrapper">
