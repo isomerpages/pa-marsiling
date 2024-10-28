@@ -2,7 +2,6 @@ collections:
   community-overview:
     output: true
     order:
-      - Care and Services for Residents.md
       - What We Do.md
       - Workgroup Sub Sites/.keep
       - Workgroup Sub Sites/Outreach and events.md
