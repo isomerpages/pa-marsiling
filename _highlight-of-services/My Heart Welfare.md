@@ -117,12 +117,33 @@ expenses, and planning for the future.</p>
 </details>
 </div>
 <p></p>
-<hr>
 <h3><strong>Need Assistance?</strong></h3>
 <p>If you or someone you know could benefit from our care and services, don’t
 hesitate to reach out. Our team is here to listen and offer the support
-you need. Contact us at [phone number] or visit us at [location] to learn
-more about how we can assist you.</p>
-<p>At Marsiling PA community club, we are more than just a place to meet—we
-are a community that cares.</p>
+you need. We offer Schemes that can improve your life.
+<br>
+</p>
+<h4><br><strong>North West Emergency Fund</strong> </h4>
+<p>We Provide immediate relief to tide residents through their financial
+difficulties due to unforeseen circumstances such as death of sole breadwinner,
+fire, emergency household situations or disaster.
+<br>
+<br><a href="#" rel="noopener nofollow" target="_blank">Click Here</a> to find
+out more.
+<br>
+<br>
+</p>
+<h4><br><strong>ComCare Short-to-Medium-Term Assistance (SMTA)</strong></h4>
+<p></p>
+<p>We provide temporary financial assistance for lower-income individuals
+or families who are temporarily unable to work, looking for a job or earning
+a low income and require assistance.
+<br>
+<br><a href="#" rel="noopener nofollow" target="_blank">Click Here</a> to find
+out more.
+<br>
+</p>
+<blockquote>
+<h4>At Marsiling PA community club, we are more than just a place to meet—we are a community that cares.</h4>
+</blockquote>
 <p></p>
