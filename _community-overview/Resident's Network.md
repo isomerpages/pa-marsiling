@@ -6,7 +6,7 @@ description: Resident's Network
 ---
 <h1>Marsiling Constituency - Resident's Network List</h1>
 <hr>
-<h4><strong>Find Out the information about our respective Resident's Network here </strong></h4>
+<h4><strong>Find Out the information about our respective Resident's Network here</strong></h4>
 <h4><br><strong>Marsiling Zone 1 RN</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -194,7 +194,7 @@ description: Resident's Network
 </div>
 </details>
 <details class="isomer-details">
-<summary>CM/RCM in charge &amp; Email Contact</summary>
+<summary>DCD/RCM in charge &amp; Email Contact</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -389,7 +389,7 @@ description: Resident's Network
 </div>
 </details>
 <details class="isomer-details">
-<summary>CM/RCM in charge &amp; Email Contact</summary>
+<summary>DCD/RCM in charge &amp; Email Contact</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
