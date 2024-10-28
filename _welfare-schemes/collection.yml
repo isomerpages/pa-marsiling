@@ -2,4 +2,5 @@ collections:
   welfare-schemes:
     output: true
     order:
+      - ComCare Short to Medium Term Assistance (SMTA).md
       - North West Emergency Relief Fund.md
