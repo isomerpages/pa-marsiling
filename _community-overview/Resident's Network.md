@@ -61,7 +61,7 @@ description: Resident's Network
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="mailto:Troy_LIM@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Troy_LIM@pa.gov.sg</a>&nbsp;</p>
+<p>CM: <strong>Troy Lim</strong>&nbsp;<a href="mailto:Troy_LIM@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Troy_LIM@pa.gov.sg</a>&nbsp;</p>
 </li>
 <li>
 <p>RCM: <strong>Jeslin Tay</strong>, <strong>9277 7117</strong>&nbsp;/ Jeslin_TAY_from.
