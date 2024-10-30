@@ -2,4 +2,5 @@ collections:
   event-calendar:
     output: true
     order:
+      - CC & RN Events.md
       - Event Highlights.md
