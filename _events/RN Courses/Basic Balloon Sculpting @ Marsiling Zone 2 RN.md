@@ -74,7 +74,10 @@ image: /images/RN Courses 2024/balloon_craft_9.jpg
 </tbody>
 </table>
 <hr>
-<h3><strong>Course Overview</strong></h3><a class="isomer-image-wrapper" href="https://www.onepa.gov.sg/courses/basic-balloon-sculpting-c027114041"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/RN Courses 2024/balloon_craft_9.jpg"></a>
+<h3><strong>Course Overview</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RN Courses 2024/balloon_craft_9.jpg">
+</div>
 <p>
 <br>Balloon Sculpting has been getting more popular in Singapore these days.
 It is a must-have for event give away &amp; children's party, balloons
