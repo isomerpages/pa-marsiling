@@ -7,12 +7,12 @@ description: Resident's Network
 <h1>Marsiling Constituency - Resident's Network List</h1>
 <hr>
 <h4><strong>Find Out the information about our respective Resident's Network here</strong></h4>
-<h4><br><strong>Marsiling Zone 1 RN</strong></h4>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>RN Address &amp; Contact</summary>
+<summary>Marsiling Zone 1 RN</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>Blk 32 Marsiling Drive #01-339 S(730032)</p>
 </li>
@@ -20,124 +20,92 @@ description: Resident's Network
 <p><strong>Tel: 6368 2532&nbsp;</strong>
 </p>
 </li>
-</ul>
+<li>
 <p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7977.142732774448!2d103.76823908933954!3d1.4325097628478192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da12532096fa39%3A0x2398712dd78ed26b!2sMarsiling!5e0!3m2!1sen!2ssg!4v1730288342390!5m2!1sen!2ssg"></iframe>
 </div>
-</details>
-<details class="isomer-details">
-<summary>Block Coverage</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>Block 22 – 37 Marsiling Drive&nbsp;</p>
 </li>
 <li>
-<p>No. of Blocks 16&nbsp;</p>
-</li>
-<li>
-<p>No. of Units :2096&nbsp;</p>
-</li>
-<li>
-<p>Noticeboard: 20 nos (20 posters)&nbsp;</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary>RN Centre Opening Hours</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>Thur &amp; Sun: OFF&nbsp;</p>
-</li>
-<li>
-<p>Mon/ Wed /Fri/Sat: 9:30am – 6:00pm&nbsp;</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary>CM/RCM in charge &amp; Email Contact</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>CM: <strong>Troy Lim</strong>&nbsp;<a href="mailto:Troy_LIM@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Troy_LIM@pa.gov.sg</a>&nbsp;</p>
-</li>
-<li>
-<p>RCM: <strong>Jeslin Tay</strong>, <strong>9277 7117</strong>&nbsp;/ Jeslin_TAY_from.
-<a href="mailto:TP@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TP@pa.gov.sg</a>&nbsp;</p>
-</li>
-</ul>
-</div>
-</details>
-</div>
+<p>Images of the RN</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Entrance</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<h4><strong>Marsiling Zone 2 RN</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_10_30_194629.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Interior</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ol>
+</div>
+</details>
 <details class="isomer-details">
-<summary>RN Address &amp; Contact</summary>
+<summary>Marsiling Zone 2 RN</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>Blk 8 Marsiling Drive #01-18 S(730008)&nbsp;&nbsp;</p>
 </li>
 <li>
 <p><strong>Tel: 6610 6732</strong>&nbsp;</p>
 </li>
-</ul>
+<li>
 <p></p>
+<div class="iframe-wrapper">
+<iframe style="border:0;" height="300" width="400" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.5572251818553!2d103.7740905249659!3d1.440610048545823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da130019c1ecb7%3A0x2058fff1b28cecdb!2sMarsiling%20Zone%202%20Residents'%20Network!5e0!3m2!1sen!2ssg!4v1730288975381!5m2!1sen!2ssg"></iframe>
 </div>
-</details>
-<details class="isomer-details">
-<summary>Block Coverage</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>Block 6 – 21 Marsiling Drive&nbsp;</p>
-<p>(Blk 12A: S731012 Blk 12B: S732012, Blk 12C: S733012)&nbsp;</p>
 </li>
 <li>
-<p>No. of Blocks 16&nbsp;</p>
-</li>
-<li>
-<p>No. of Units :2134&nbsp;</p>
-</li>
-<li>
-<p>Noticeboard: 23 nos (posters)&nbsp;&nbsp;</p>
-</li>
-</ul>
+<p>Images of the RN</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Entrance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/marsiling_zone_2_rn.jpg">
 </div>
-</details>
-<details class="isomer-details">
-<summary>RN Centre Opening Hours</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>Fri &amp; Sun: OFF&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Interior</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
-<li>
-<p>Mon/Tue/Thu: 9:00am -6:00pm&nbsp;</p>
-</li>
-<li>
-<p>Wed: 1:00pm-10:00pm&nbsp;</p>
-</li>
-<li>
-<p>Sat: 8:30am-5:30pm&nbsp;</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary>CM/RCM in charge &amp; Email Contact</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>CM: <strong>Serene Seah</strong>&nbsp;/Serene_SEAH@pa.gov.sg&nbsp;</p>
-</li>
-<li>
-<p>RCM: <strong>Hong Choon</strong>,<strong>90426014</strong>&nbsp;// Hong_Choon_LIM_from.TP@pa.gov.sg</p>
-</li>
-</ul>
+</ol>
 </div>
 </details>
 </div>
