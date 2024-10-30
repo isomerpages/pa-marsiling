@@ -1,4 +1,5 @@
 collections:
   event-calendar:
     output: true
-    order: []
+    order:
+      - Event Highlights.md
