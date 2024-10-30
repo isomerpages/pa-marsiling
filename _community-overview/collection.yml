@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - What We Do.md
+      - CC & RN Interest Group/Sample Page.md
       - CC & RN Interest Group/.keep
       - Join Us.md
       - Contact Us.md
