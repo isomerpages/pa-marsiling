@@ -2,4 +2,5 @@ collections:
   courses-folder:
     output: true
     order:
+      - RN Courses/.keep
       - CC Courses/.keep
