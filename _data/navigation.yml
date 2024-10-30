@@ -5,8 +5,6 @@ links:
   - title: Events
     url: "#"
     sublinks:
-      - title: Calendar of Past Events
-        url: /events/calendar-of-past-events/
       - title: Event Highlights
         url: "#"
       - title: CC Events
