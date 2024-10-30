@@ -72,6 +72,32 @@ sapien justo, eu dapibus ligula bibendum eget.</div>
 sapien justo, eu dapibus ligula bibendum eget.</div>
 <div class="isomer-card-link">Click Here to view the Event.</div>
 </div>
+</a><a rel="noopener noreferrer nofollow" href="/upcoming-events/marsiling-acwp/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Marsiling ACWP" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Marsiling ACWP</div><div class="isomer-card-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pulvinar sapien justo, eu dapibus ligula bibendum eget.</div><div class="isomer-card-link">Click Here to View this Event.</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/upcoming-events/marsiling-cny-dinner/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Marsiling CNY Dinner" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Marsiling CNY Dinner</div>
+<div class="isomer-card-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pulvinar
+sapien justo, eu dapibus ligula bibendum eget.</div>
+<div class="isomer-card-link">Click Here to View this Event.</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/upcoming-events/marsiling-overseas-workplan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Marsiling Overseas Workplan" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Marsiling Overseas Workplan</div><div class="isomer-card-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pulvinar sapien justo, eu dapibus ligula bibendum eget.</div><div class="isomer-card-link">Click Here to View this Event.</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/upcoming-events/marsiling-year-end-countdown/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Marsiling Year End Countdown" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Marsiling Year End Countdown</div>
+<div class="isomer-card-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pulvinar
+sapien justo, eu dapibus ligula bibendum eget.</div>
+<div class="isomer-card-link">Click Here to View this Event.</div>
+</div>
 </a>
 </div>
 <p></p>
