@@ -1,0 +1,4 @@
+collections:
+  courses-folder:
+    output: true
+    order: []
