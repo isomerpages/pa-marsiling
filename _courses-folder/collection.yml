@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - RN Courses/.keep
+      - CC Courses/Oil Painting @ Marsiling CC.md
       - CC Courses/.keep
