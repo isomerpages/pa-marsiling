@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Signature Events.md
       - Calendar of past Events.md
       - Upcoming Events/.keep
       - Upcoming Events/CNY 2025.md
