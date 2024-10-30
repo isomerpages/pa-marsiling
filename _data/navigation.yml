@@ -3,15 +3,15 @@ links:
   - title: Home
     url: /
   - title: Events
-    url: /events/signature-events/
+    url: "#"
     sublinks:
-      - title: Signature Events
-        url: /events/signature-events/
       - title: Calendar of Past Events
         url: /events/calendar-of-past-events/
-      - title: CC Courses
+      - title: Event Highlights
+        url: "#"
+      - title: CC Events
         url: /cc-courses/oil-painting-marsiling-cc/
-      - title: RN Courses
+      - title: RN Events
         url: /rn-courses/basic-balloon-sculpting-marsiling-zone-2-rn/
   - title: My Marsiling
     collection: my-marsiling
