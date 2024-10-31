@@ -2,15 +2,8 @@ logo: /images/Marsiling_Logo.png
 links:
   - title: Home
     url: /
-  - title: Events
-    url: "#"
-    sublinks:
-      - title: Event Highlights
-        url: "#"
-      - title: CC Events
-        url: /cc-courses/oil-painting-marsiling-cc/
-      - title: RN Events
-        url: /rn-courses/basic-balloon-sculpting-marsiling-zone-2-rn/
+  - title: Event Calendar
+    collection: event-calendar
   - title: My Marsiling
     collection: my-marsiling
   - title: Community Overview
