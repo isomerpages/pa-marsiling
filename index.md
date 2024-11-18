@@ -33,7 +33,7 @@ sections:
       description: Don’t miss out on exciting events happening in the Marsiling
         community! Join the fun and get involved!
       button: FInd our More
-      image: /images/hero-banner.png
+      image: /images/Resized_Upcoming_Events.png
       alt: Image alt text
       url: /highlights-of-services/estate-development-services/
   - infopic:
@@ -53,7 +53,7 @@ sections:
         today!
       button: Find out More
       url: /highlights-of-services/welfare-services/
-      image: /images/hero-banner.png
+      image: /images/Resized_Popular_Course_Pic.png
       alt: Image alt text
   - infobar:
       title: Our New Marsiling Community Club
