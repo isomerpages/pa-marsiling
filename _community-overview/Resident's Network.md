@@ -403,7 +403,7 @@ description: Resident's Network
 </div>
 </details>
 <details class="isomer-details">
-<summary>Marsiling Zone 9 RN - Blk 418 Woodlands Street 41</summary>
+<summary>Marsiling Zone 9 RN - Blk 418 Woodlands St 41</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ol data-tight="true" class="tight">
 <li>
@@ -453,7 +453,7 @@ description: Resident's Network
 </div>
 </details>
 <details class="isomer-details">
-<summary>Marsiling Zone 10 RN - Blk 310 Woodlands Street 31</summary>
+<summary>Marsiling Zone 10 RN - Blk 310 Woodlands St31</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ol data-tight="true" class="tight">
 <li>
