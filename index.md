@@ -33,7 +33,7 @@ sections:
       description: Don’t miss out on exciting events happening in the Marsiling
         community! Join the fun and get involved!
       button: FInd our More
-      image: /images/Resized_Upcoming_Events.png
+      image: /images/Photo_Gallery.png
       alt: Image alt text
       url: /event-calendar/event-highlights/
   - infopic:
