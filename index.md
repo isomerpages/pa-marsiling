@@ -67,7 +67,7 @@ sections:
       title: Marsiling Welfare Schemes
       id: infocols
       linktext: Learn more about Marsiling Care, Comlink & FFTH
-      url: /what-we-do
+      url: /community-overview/what-we-do/
       infoboxes:
         - title: What we do
           description: Zone specific Information - RN Committee, courses, interest groups,
