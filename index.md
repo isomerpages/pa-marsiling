@@ -35,7 +35,7 @@ sections:
       button: FInd our More
       image: /images/Resized_Upcoming_Events.png
       alt: Image alt text
-      url: /highlights-of-services/estate-development-services/
+      url: /event-calendar/event-highlights/
   - infopic:
       title: New Development
       id: infopic
@@ -44,7 +44,7 @@ sections:
       button: Find out more
       image: /images/hero-banner.png
       alt: Image alt text
-      url: /highlights-of-services/rn-services/
+      url: /highlights-of-services/estate-development-services/
   - infopic:
       title: Popular Courses
       id: infopic
@@ -52,7 +52,7 @@ sections:
         skills, have fun, while making new friends in the process. Come join us
         today!
       button: Find out More
-      url: /highlights-of-services/welfare-services/
+      url: /my-marsiling/my-hope-lifelong-learning/
       image: /images/Resized_Popular_Course_Pic.png
       alt: Image alt text
   - infobar:
