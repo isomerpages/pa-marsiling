@@ -124,6 +124,10 @@ or community aid programs.</p>
 <p><strong>Workshops:</strong> Financial literacy sessions on budgeting, managing
 expenses, and planning for the future.</p>
 </li>
+<li>
+<p><strong>Marsiling Student Care Grant: </strong>Providing children books
+to family in need.</p>
+</li>
 </ul>
 </div>
 </details>
