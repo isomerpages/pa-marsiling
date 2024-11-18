@@ -6,8 +6,9 @@ description: Join Us
 ---
 <p></p>
 <p></p>
+<h2></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Join Us/Join_Us.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Join_Us_Cover_Picture.jpg">
 </div>
 <h2><strong>Join Us</strong></h2>
 <p>At Marsiling PA, we believe....</p>
