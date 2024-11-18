@@ -23,6 +23,11 @@ image: /images/2024 Events/Edusave Ceremony June
 lives. From food assistance to home visits, our volunteers are here to
 help residents manage difficult situations and stay connected with their
 community.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC00462.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Home Visits:</strong> Our volunteers regularly check in on elderly
@@ -104,6 +109,12 @@ tech skills and stay connected with loved ones online.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>For residents facing financial difficulties, we offer guidance and support
 through financial aid programs and resources.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MG_2091.jpg">
+</div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Assistance Programs:</strong> Help with applications for government
