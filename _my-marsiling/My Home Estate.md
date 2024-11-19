@@ -4,7 +4,6 @@ permalink: /my-marsiling/my-home-estate/
 variant: tiptap
 description: My Home - Estate
 ---
-<p></p>
 <h2><strong>Upcoming Estate Developments &amp; Marsiling 2025 Plans</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image1.jpg">
