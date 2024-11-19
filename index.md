@@ -20,13 +20,13 @@ sections:
       key_highlights:
         - title: My Home
           description: Estate
-          url: /highlights-of-services/estate-development-services/
+          url: /my-marsiling/my-home-estate/
         - title: My Heart
           description: Welfare
-          url: /highlights-of-services/my-heart-welfare/
+          url: /my-marsiling/my-heart-welfare/
         - title: My Hope
           description: Lifelong Learning
-          url: /highlights-of-services/rn-services/
+          url: /my-marsiling/my-hope-lifelong-learning/
   - infopic:
       title: Upcoming Events
       id: infopic
