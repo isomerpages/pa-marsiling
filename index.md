@@ -53,7 +53,7 @@ sections:
         today!
       button: Find out More
       url: /my-marsiling/my-hope-lifelong-learning/
-      image: /images/popular_events.jpg
+      image: /images/popular_events_v2.jpg
       alt: Image alt text
   - infobar:
       title: Our New Marsiling Community Club
