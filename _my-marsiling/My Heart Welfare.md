@@ -6,13 +6,12 @@ description: ""
 image: /images/2024 Events/Edusave Ceremony June
   2024/WhatsApp_Image_2024_06_22_at_12_34_39_PM__2_.jpg
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240601_212703.jpg">
-</div>
 <h2><strong>Care and Services for Residents</strong></h2>
-<p>At Marsiling PA ...</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240601_212703_v2.jpg">
+</div>
 <p></p>
+<p>At Marsiling PA ...</p>
 <h3><strong>Services Offered</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
