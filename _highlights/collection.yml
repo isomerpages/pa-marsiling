@@ -2,7 +2,6 @@ collections:
   highlights:
     output: true
     order:
-      - Community Contributions (Gaza & Infaq Kasih in FB).md
       - Course & Activities.md
       - Highlights.md
       - Cultural/.keep
@@ -12,3 +11,4 @@ collections:
       - General/.keep
       - Enrichment/.keep
       - Others/.keep
+      - Community Contributions (Gaza & Infaq Kasih in FB).md
