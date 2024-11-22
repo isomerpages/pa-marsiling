@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - What We Do.md
+      - About Us.md
       - Volunteer with Marsiling.md
       - CC (Contact Us).md
       - Resident's Network (Contact Us).md
