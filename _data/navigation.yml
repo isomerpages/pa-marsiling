@@ -7,6 +7,6 @@ links:
   - title: My Marsiling
     collection: my-marsiling
   - title: About Us
-    collection: community-overview
+    collection: about-us
   - title: News Room
     resource_room: true
