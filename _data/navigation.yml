@@ -4,8 +4,10 @@ links:
     url: /
   - title: Highlights
     collection: highlights
-  - title: My Marsiling
-    collection: my-marsiling
+  - title: Welfare Matters
+    url: /welfare-matters/
+  - title: Estate Matters
+    url: /estate-matters/
   - title: About Us
     collection: about-us
   - title: News Room
