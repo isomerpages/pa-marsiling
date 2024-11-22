@@ -24,7 +24,7 @@ sections:
           url: /my-marsiling/welfare-matters/
         - title: Course & Activities
           description: ""
-          url: /my-marsiling/course-and-activities/
+          url: /highlights/course-and-activities/
   - infopic:
       title: Upcoming Events
       id: infopic
