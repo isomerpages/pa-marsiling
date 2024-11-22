@@ -2,6 +2,5 @@ collections:
   my-marsiling:
     output: true
     order:
-      - Course & Activities.md
       - Estate Matters.md
       - Welfare Matters.md
