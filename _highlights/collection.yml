@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Course & Activities.md
-      - Event Highlights.md
+      - Highlights.md
