@@ -12,10 +12,9 @@ and collective growth. Whether it's through education, social activities,
 or support services, everything we do is aimed at improving the quality
 of life for our residents.</p>
 <h3><strong>Our Mission</strong></h3>
-<p>We are committed to fostering a sense of belonging and empowerment for
-every resident. Our goal is to create a community where everyone feels
-valued, supported, and inspired to contribute to the well-being of their
-neighbors and surroundings.</p>
+<p>Spark and Nurture Community Participation for a Caring and United Singapore</p>
+<p>Click <a href="https://go.gov.sg/c2030" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+read more about Community 2030.</p>
 <h2><strong>How We Make an Impact</strong></h2>
 <h4><strong>Community Engagement and Social Events</strong></h4>
 <p>We believe in the power of connection. Our club organizes regular events
