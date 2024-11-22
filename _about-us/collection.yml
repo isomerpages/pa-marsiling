@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - What We Do.md
-      - CC & RN Interest Group/Sample Page.md
-      - CC & RN Interest Group/.keep
       - Volunteer with Marsiling.md
       - CC (Contact Us).md
       - Resident's Network (Contact Us).md
