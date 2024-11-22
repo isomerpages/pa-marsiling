@@ -13,12 +13,9 @@ description: Resident's Network (Contact Us)
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Blk 32 Marsiling Drive #01-339 S(730032)
 <br><strong>Tel: 6368 2532&nbsp;</strong>
-</p>
-<p><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
-</p>
-<p>Facebook:
-<br>IG:</p>
-<p>
+<br><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
+<br>Facebook:
+<br>IG:
 <br>Images of the RN</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -52,13 +49,12 @@ description: Resident's Network (Contact Us)
 <details class="isomer-details">
 <summary>Marsiling Zone 2 RN - Blk 8 Marsiling Drive</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Blk 8 Marsiling Drive #01-18 S(730008)&nbsp;&nbsp;</p>
-<p><strong>Tel: 6610 6732</strong>&nbsp;</p>
-<p><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
-</p>
-<p>Facebook:
-<br>IG:</p>
-<p>Images of the RN</p>
+<p>Blk 8 Marsiling Drive #01-18 S(730008)&nbsp;&nbsp;
+<br><strong>Tel: 6610 6732</strong>&nbsp;
+<br><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
+<br>Facebook:
+<br>IG:
+<br>Images of the RN</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -93,12 +89,10 @@ description: Resident's Network (Contact Us)
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Blk 123 Marsiling Rise #01-98 S(730123)&nbsp;</p>
 <p><strong>Tel: 6368 6362</strong>
-</p>
-<p><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
-</p>
-<p>Facebook:
-<br>IG:</p>
-<p>Images of the RN</p>
+<br><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
+<br>Facebook:
+<br>IG:
+<br>Images of the RN</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -131,14 +125,12 @@ description: Resident's Network (Contact Us)
 <details class="isomer-details">
 <summary>Marsiling Zone 4 RN - Blk 160 Woodlands St 13</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Blk 160 Woodlands St 13 #01-649 S(730160)&nbsp;</p>
-<p><strong>Tel: 6367 2357</strong>
-</p>
-<p><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
-</p>
-<p>Facebook:
-<br>IG:</p>
-<p>Images of the RN</p>
+<p>Blk 160 Woodlands St 13 #01-649 S(730160)&nbsp;
+<br><strong>Tel: 6367 2357</strong>
+<br><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
+<br>Facebook:
+<br>IG:
+<br>Images of the RN</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -171,14 +163,12 @@ description: Resident's Network (Contact Us)
 <details class="isomer-details">
 <summary>Marsiling Zone 5 RN - Blk 178 Woodlands St 13</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Blk 178 Woodlands St 13 #01-301 S(730178)&nbsp;</p>
-<p><strong>Tel: 6365 7454</strong>
-</p>
-<p><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
-</p>
-<p>Facebook:
-<br>IG:</p>
-<p>Images of the RN</p>
+<p>Blk 178 Woodlands St 13 #01-301 S(730178)&nbsp;
+<br><strong>Tel: 6365 7454</strong>
+<br><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
+<br>Facebook:
+<br>IG:
+<br>Images of the RN</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
