@@ -1,5 +1,5 @@
 collections:
-  community-overview:
+  about-us:
     output: true
     order:
       - What We Do.md
