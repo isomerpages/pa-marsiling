@@ -18,13 +18,13 @@ sections:
       key_highlights:
         - title: Estate
           description: ""
-          url: /my-marsiling/my-home-estate/
+          url: /my-marsiling/estate-matters/
         - title: Welfare
           description: ""
-          url: /my-marsiling/my-heart-welfare/
+          url: /my-marsiling/welfare-matters/
         - title: Course & Activities
           description: ""
-          url: /my-marsiling/my-hope-lifelong-learning/
+          url: /my-marsiling/course-and-activities/
   - infopic:
       title: Upcoming Events
       id: infopic
