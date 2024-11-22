@@ -2,6 +2,6 @@ collections:
   my-marsiling:
     output: true
     order:
-      - My Hope Lifelong Learning.md
+      - Course & Activities.md
       - My Home Estate.md
       - My Heart Welfare.md
