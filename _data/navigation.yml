@@ -2,8 +2,8 @@ logo: /images/Marsiling_Logo.png
 links:
   - title: Home
     url: /
-  - title: Event Calendar
-    collection: event-calendar
+  - title: Highlights
+    collection: highlights
   - title: My Marsiling
     collection: my-marsiling
   - title: Community Overview
