@@ -15,17 +15,15 @@ sections:
       url: /contact-us/
       title: "Marsiling: Our Community, Our Home"
       variant: center
-      button: Contact Us Now!
-      subtitle: Subtitle headline
       key_highlights:
-        - title: My Home
-          description: Estate
+        - title: Estate
+          description: ""
           url: /my-marsiling/my-home-estate/
-        - title: My Heart
-          description: Welfare
+        - title: Welfare
+          description: ""
           url: /my-marsiling/my-heart-welfare/
-        - title: My Hope
-          description: Lifelong Learning
+        - title: Course & Activities
+          description: ""
           url: /my-marsiling/my-hope-lifelong-learning/
   - infopic:
       title: Upcoming Events
