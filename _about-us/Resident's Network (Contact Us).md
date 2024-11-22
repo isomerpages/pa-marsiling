@@ -201,14 +201,12 @@ description: Resident's Network (Contact Us)
 <details class="isomer-details">
 <summary>Marsiling Zone 6 RN - Blk 102 Woodlands St 13</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Blk 102 Woodlands St 13 #01-236 S(730102)&nbsp;</p>
-<p><strong>Tel: 6363 3870</strong>
-</p>
-<p><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
-</p>
-<p>Facebook:
-<br>IG:</p>
-<p>Images of the RN</p>
+<p>Blk 102 Woodlands St 13 #01-236 S(730102)&nbsp;
+<br><strong>Tel: 6363 3870</strong>
+<br><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
+<br>Facebook:
+<br>IG:
+<br>Images of the RN</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -241,14 +239,12 @@ description: Resident's Network (Contact Us)
 <details class="isomer-details">
 <summary>Marsiling Zone 7 RN - Blk 206 Marsiling Drive</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>206 Marsiling Drive, Admiralty Park, #01-298, Singapore 730206&nbsp;</p>
-<p><strong>Tel: 6365 7454</strong>
-</p>
-<p><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
-</p>
-<p>Facebook:
-<br>IG:</p>
-<p>Images of the RN</p>
+<p>206 Marsiling Drive, Admiralty Park, #01-298, Singapore 730206&nbsp;
+<br><strong>Tel: 6365 7454</strong>
+<br><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
+<br>Facebook:
+<br>IG:
+<br>Images of the RN</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -278,14 +274,12 @@ description: Resident's Network (Contact Us)
 <details class="isomer-details">
 <summary>Marsiling Zone 8 RN - Blk 2 Marsiling Drive</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Blk 2 Marsiling Drive #01-45 S(730002)&nbsp;</p>
-<p><strong>Tel: 6996 1759</strong>
-</p>
-<p><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
-</p>
-<p>Facebook:
-<br>IG:</p>
-<p>Images of the RN</p>
+<p>Blk 2 Marsiling Drive #01-45 S(730002)&nbsp;
+<br><strong>Tel: 6996 1759</strong>
+<br><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
+<br>Facebook:
+<br>IG:
+<br>Images of the RN</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -315,14 +309,12 @@ description: Resident's Network (Contact Us)
 <details class="isomer-details">
 <summary>Marsiling Zone 9 RN - Blk 418 Woodlands St 41</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>418 Woodlands Street 41, Block 418, Singapore 730418&nbsp;</p>
-<p><strong>Tel: 6996 1759</strong>
-</p>
-<p><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
-</p>
-<p>Facebook:
-<br>IG:</p>
-<p>Images of the RN</p>
+<p>418 Woodlands Street 41, Block 418, Singapore 730418&nbsp;
+<br><strong>Tel: 6996 1759</strong>
+<br><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
+<br>Facebook:
+<br>IG:
+<br>Images of the RN</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -355,14 +347,12 @@ description: Resident's Network (Contact Us)
 <details class="isomer-details">
 <summary>Marsiling Zone 10 RN - Blk 310 Woodlands St31</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>310 Woodlands Street 31, #01-02, Singapore 730310</p>
-<p><strong>Tel: 6996 1759</strong>
-</p>
-<p><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
-</p>
-<p>Facebook:
-<br>IG:</p>
-<p>Images of the RN</p>
+<p>310 Woodlands Street 31, #01-02, Singapore 730310
+<br><strong>Tel: 6996 1759</strong>
+<br><strong>Contact Person Email: </strong><a href="mailto:example@gmail.com" rel="noopener noreferrer nofollow" target="_blank">example@gmail.com</a>
+<br>Facebook:
+<br>IG:
+<br>Images of the RN</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
