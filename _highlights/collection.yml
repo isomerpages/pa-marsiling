@@ -2,12 +2,12 @@ collections:
   highlights:
     output: true
     order:
-      - Others/.keep
-      - Enrichment/.keep
-      - General/.keep
-      - Culinary/.keep
-      - Sports/.keep
-      - Arts & Theatre/.keep
       - Course & Activities.md
       - Highlights.md
       - Cultural/.keep
+      - Arts & Theatre/.keep
+      - Sports/.keep
+      - Culinary/.keep
+      - General/.keep
+      - Enrichment/.keep
+      - Others/.keep
