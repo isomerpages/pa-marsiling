@@ -2,6 +2,7 @@ collections:
   categories:
     output: true
     order:
+      - Culinary/.keep
       - Sports/.keep
       - Arts & Theatre/.keep
       - Cultural/.keep
