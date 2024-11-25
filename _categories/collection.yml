@@ -2,10 +2,10 @@ collections:
   categories:
     output: true
     order:
-      - Community Contributions/.keep
-      - Enrichment/.keep
-      - General/.keep
-      - Culinary/.keep
-      - Sports/.keep
-      - Arts & Theatre/.keep
       - Cultural/.keep
+      - Arts & Theatre/.keep
+      - Sports/.keep
+      - Culinary/.keep
+      - General/.keep
+      - Enrichment/.keep
+      - Community Contributions/.keep
