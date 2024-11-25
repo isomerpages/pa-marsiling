@@ -2,6 +2,7 @@ collections:
   categories:
     output: true
     order:
+      - Community Contributions/.keep
       - Enrichment/.keep
       - General/.keep
       - Culinary/.keep
