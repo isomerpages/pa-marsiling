@@ -4,5 +4,5 @@ collections:
     order:
       - Highlights.md
       - Course & Activities.md
-      - A/.keep
-      - A/Cultural.md
+      - Categories/.keep
+      - Categories/Cultural.md
