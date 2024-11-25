@@ -2,6 +2,7 @@ collections:
   upcoming-events:
     output: true
     order:
+      - Northbound Fest Countdown Festival.md
       - MYBeats Music Festival 2024.md
       - CNY 2025.md
       - Upcoming Events/.keep
