@@ -2,5 +2,6 @@ collections:
   highlights:
     output: true
     order:
+      - Categories/.keep
       - Course & Activities.md
       - Highlights.md
