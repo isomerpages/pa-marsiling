@@ -4,7 +4,7 @@ permalink: /highlights/courses-and-activities/
 variant: tiptap
 description: Courses & Activities
 ---
-<h2><strong>All   Courses &amp; Activities</strong></h2>
+<h2><strong>All Courses &amp; Activities</strong></h2>
 <hr>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/upcoming-events/northbound-fest-countdown-festival/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Northbound-Fest Countdown Festival" src="/images/2024 Events/Northbound Countdown Festival/NorthboundFest_Coundown_Festival.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Northbound-Fest Countdown Festival</div><div class="isomer-card-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pulvinar sapien justo, eu dapibus ligula bibendum eget.</div><div class="isomer-card-link">Click Here to View the Event.</div></div></a>
