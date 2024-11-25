@@ -3,7 +3,12 @@ links:
   - title: Home
     url: /
   - title: Highlights
-    collection: highlights
+    url: /highlights/
+    sublinks:
+      - title: Highlights
+        url: /highlights/
+      - title: Course & Activities
+        url: /highlights/course-and-activities/
   - title: Welfare Matters
     url: /welfare-matters/
   - title: Estate Matters
