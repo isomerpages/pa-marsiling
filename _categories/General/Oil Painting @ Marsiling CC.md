@@ -119,52 +119,27 @@ trial session for the public. He also contributed to PA Passion art events</p>
 <p></p>
 <hr>
 <h3>Contact Us</h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Others/social_media.png">
-</div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Facebook</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/MarsilingHome/" rel="noopener nofollow" target="_blank">Click Here</a> to
-check out our Facebook Page</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Youtube</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/@marsilinghome5865/featured" rel="noopener nofollow" target="_blank">Click Here</a> to
-check out our Youtube Channel</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Instagram</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.instagram.com/Marsilinghome/" rel="noopener nofollow" target="_blank">Click Here</a> to
-check out our instagram page</p>
-</td>
+<th rowspan="1" colspan="3">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Address</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p>100 Admiralty Road , Singapore 739980</p>
 </td>
 </tr>
@@ -172,8 +147,31 @@ check out our instagram page</p>
 <td rowspan="1" colspan="1">
 <p>Telephone</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p>62696768</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><a href="mailto:PA_MARSILINGCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_MARSILINGCC@pa.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Social Media Pages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/Marsilinghome/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Others/Instagram_Icon.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/MarsilingHome/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Others/Facebook_Icon.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/@marsilinghome5865/featured"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Others/Youtube_Icon.png"></a>
 </td>
 </tr>
 </tbody>
