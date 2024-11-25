@@ -1,5 +1,5 @@
 collections:
-  my-marsiling:
+  marsiling-matters:
     output: true
     order:
       - Estate Matters.md
