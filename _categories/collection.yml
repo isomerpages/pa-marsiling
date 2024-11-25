@@ -1,4 +1,5 @@
 collections:
   categories:
     output: true
-    order: []
+    order:
+      - Cultural/.keep
