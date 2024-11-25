@@ -100,7 +100,7 @@ might include the rhythmic ball apparatus.</p>
 <h4><strong>Training Provider(s)</strong></h4>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="_" src="https://www.onepa.gov.sg/-/media/Images/TrainingProviders/Liu-Meishan-9A651322EDE2EC11815100155D464809.png?h=144&amp;w=144&amp;rev=da49b76d2a9040349978fff08a77f636&amp;hash=021257B1B990CA76B7ED79142F75BDC2">
+<img style="width: 20%;" height="auto" width="100%" alt="_" src="https://www.onepa.gov.sg/-/media/Images/TrainingProviders/Liu-Meishan-9A651322EDE2EC11815100155D464809.png?h=144&amp;w=144&amp;rev=da49b76d2a9040349978fff08a77f636&amp;hash=021257B1B990CA76B7ED79142F75BDC2">
 </div>
 <p><strong>Liu Meishan</strong>
 </p>
