@@ -2,4 +2,5 @@ collections:
   categories:
     output: true
     order:
+      - Arts & Theatre/.keep
       - Cultural/.keep
