@@ -28,17 +28,7 @@ third_nav_title: Community Contributions
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>61 Choa Chu Kang Dr, Singapore 689715</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Registration</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/671b590fa237e7e34bf20952" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
