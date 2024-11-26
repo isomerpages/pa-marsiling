@@ -47,11 +47,11 @@ description: Courses & Activities
 <a rel="noopener noreferrer nofollow" href="/categories/community-contribution/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Community Contribution" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Community Contributions" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Community Contribution</div>
+<div class="isomer-card-title">Community Contributions</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Click here to view the Category.</div>
 </div>
