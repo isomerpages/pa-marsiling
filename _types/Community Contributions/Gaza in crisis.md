@@ -83,7 +83,7 @@ support Gaza.</p>
 <h3></h3>
 <hr>
 <h3>Check out social media posts on this event!</h3>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Instagram</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -95,6 +95,14 @@ support Gaza.</p>
 </div>
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Facebook</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="756" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMarsilingHome%2Fposts%2Fpfbid0khgpgCaxSM13WbkvKRJ4ASBeUcA2GabZ7HS8F9weEhEiCYwv1aYctHweiiSkC9Srl&amp;show_text=true&amp;width=500"></iframe>
 </div>
 </div>
 </details>
