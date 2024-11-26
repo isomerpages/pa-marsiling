@@ -81,7 +81,10 @@ together to support and uplift one another in our community.</p>
 </div>
 </details>
 </div>
-<p></p>
+<h4>Slideshow</h4>
+<div class="iframe-wrapper">
+<iframe height="430" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1gGm77vzHiW3ldMfv5wY1aePK-L2Bw0LdolEbPR8nw2ZmGi655e0FAAKA4340zge_34CLVdpnerSP/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+</div>
 <h3>Contact Us</h3>
 <table style="minWidth: 100px">
 <colgroup>
