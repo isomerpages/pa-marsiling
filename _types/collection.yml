@@ -1,5 +1,5 @@
 collections:
-  categories:
+  types:
     output: true
     order:
       - Cultural/Oil Painting @ Marsiling CC.md
