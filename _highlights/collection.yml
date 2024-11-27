@@ -4,12 +4,12 @@ collections:
     order:
       - Highlights.md
       - Courses & Activities.md
-      - Categories/.keep
-      - Categories/Cultural.md
-      - Categories/Arts & Theatre.md
-      - Categories/Sports.md
-      - Categories/Culinary.md
-      - Categories/General.md
-      - Categories/Enrichment.md
-      - Categories/Others.md
-      - Categories/Community Contribution.md
+      - Themes/.keep
+      - Themes/Cultural.md
+      - Themes/Arts & Theatre.md
+      - Themes/Sports.md
+      - Themes/Culinary.md
+      - Themes/General.md
+      - Themes/Enrichment.md
+      - Themes/Others.md
+      - Themes/Community Contribution.md
