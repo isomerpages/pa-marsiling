@@ -4,10 +4,7 @@ permalink: /estate-matters/
 variant: tiptap
 description: Estate Matters
 ---
-<h2><strong>Upcoming Estate Developments </strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image1.jpg">
-</div>
+<h2><strong>Upcoming Estate Developments</strong></h2>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>
