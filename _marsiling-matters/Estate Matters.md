@@ -35,5 +35,56 @@ description: Estate Matters
 </tbody>
 </table>
 <hr>
-<h2></h2>
+<h3>Completed Projects</h3>
+<hr>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Silver Zone" src="/images/Estate Development/Silver_Zone.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Silver Zone</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BLK 148 and 171 playground upgrades" src="/images/Estate Development/Block_148_and_171_upgrades.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">BLK 148 and 171 playground upgrades</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Skybridge" src="/images/Estate Development/Skybridge.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Skybridge</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
 <p></p>
