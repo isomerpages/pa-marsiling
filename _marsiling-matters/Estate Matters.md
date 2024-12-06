@@ -6,6 +6,9 @@ description: Estate Matters
 ---
 <h2><strong>Upcoming Estate Developments</strong></h2>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Upcoming_Estate_Development.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -31,56 +34,6 @@ description: Estate Matters
 </tr>
 </tbody>
 </table>
-<p></p>
 <hr>
-<h2><strong>New Marsiling CC Updates</strong></h2>
-<hr>
-<blockquote>
-<p>Here is a quote</p>
-</blockquote>
-<p></p>
-<p><strong>Here is what's going to happen with our new community center</strong>
-</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Change #1</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Description here...</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Change #2</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Description here...</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Change #3</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Description here...</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Change #4</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Description here...</p>
-</div>
-</details>
-</div>
-<h2><strong>Historical Development</strong></h2>
-<hr>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Building #1</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Building #2</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Building #3</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
+<h2></h2>
 <p></p>
