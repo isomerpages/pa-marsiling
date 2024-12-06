@@ -1,5 +1,5 @@
 collections:
-  courses-folder:
+  courses-and-activities:
     output: true
     order:
       - Courses & Activities.md
