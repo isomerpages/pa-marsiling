@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Estate Matters/.keep
-      - Completed projects.md
       - Future & Ongoing Projects.md
