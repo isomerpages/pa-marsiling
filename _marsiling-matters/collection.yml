@@ -2,5 +2,6 @@ collections:
   marsiling-matters:
     output: true
     order:
+      - Estate Matters/.keep
       - Estate Matters.md
       - Welfare Matters.md
