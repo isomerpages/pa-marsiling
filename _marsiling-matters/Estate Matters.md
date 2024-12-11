@@ -35,7 +35,7 @@ description: Estate Matters
 </tbody>
 </table>
 <hr>
-<h3>Completed Projects</h3>
+<h3><strong>Completed Projects</strong></h3>
 <hr>
 <p></p>
 <div class="isomer-card-grid">
