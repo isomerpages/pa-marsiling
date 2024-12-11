@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Estate Matters/.keep
-      - Estate Matters/Future & Ongoing Projects.md
+      - Estate Matters/Future &#47 Ongoing Projects.md
       - Estate Matters/Completed projects.md
       - Welfare Matters.md
