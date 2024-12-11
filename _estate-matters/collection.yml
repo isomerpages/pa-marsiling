@@ -2,4 +2,5 @@ collections:
   estate-matters:
     output: true
     order:
+      - Completed projects.md
       - Future & Ongoing Projects.md
