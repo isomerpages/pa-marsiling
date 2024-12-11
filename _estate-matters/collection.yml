@@ -2,5 +2,4 @@ collections:
   estate-matters:
     output: true
     order:
-      - Estate Matters/Completed projects.md
       - Estate Matters/.keep
