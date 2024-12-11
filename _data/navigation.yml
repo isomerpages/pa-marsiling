@@ -12,11 +12,6 @@ links:
   - title: Welfare Matters
     url: /welfare-matters/
   - title: Estate Matters
-    url: /estate-matters/
-    sublinks:
-      - title: Completed Projects
-        url: /estate-matters/completed-projects/
-      - title: Future/ On-going Projects
-        url: /estate-matters/future-ongoing-projects/
+    url: /estate-matters/future-ongoing-projects/
   - title: About Us
     collection: about-us
