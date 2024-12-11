@@ -1,5 +1,0 @@
-collections:
-  estate-matters:
-    output: true
-    order:
-      - Estate Matters/.keep
