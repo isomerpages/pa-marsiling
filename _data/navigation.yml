@@ -13,12 +13,10 @@ links:
     url: /welfare-matters/
   - title: Estate Matters
     url: /estate-matters/
-  - title: About Us
-    collection: about-us
-  - title: Estate Matters
-    url: /estate-matters/
     sublinks:
       - title: Completed Projects
         url: /estate-matters/completed-projects/
       - title: Future/ On-going Projects
-        url: /permalink
+        url: /estate-matters/future-ongoing-projects/
+  - title: About Us
+    collection: about-us
