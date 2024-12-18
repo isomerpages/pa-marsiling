@@ -5,7 +5,7 @@ variant: tiptap
 description: Future & Ongoing Projects
 third_nav_title: Estate Matters
 ---
-<h2><strong>Upcoming Estate Developments</strong></h2>
+<h2><strong> New Marsiling CC Coming your way in 2026 </strong></h2>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Upcoming_Estate_Development.png">
@@ -43,22 +43,22 @@ third_nav_title: Estate Matters
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Johor Bahru RTS Link" src="/images/Estate Development/JB_RTS_link.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Johor Bahru RTS Link</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="LUP - BLK 176, 115 &amp; 119" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">LUP - BLK 176, 115 &amp; 119</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
@@ -67,24 +67,30 @@ third_nav_title: Estate Matters
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="BKE extension" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">BKE extension</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="TEL Line - (Full completion)" src="/images/Estate Development/TEL.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">TEL Line - (Full completion)</div>
+<div class="isomer-card-description">Faster and more convenient MRT route to Changi Airport.</div>
 </div>
 </div>
+</div>
+<h3><strong>Major Upcoming Quality of Life Changes!</strong></h3>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Linkway_Coming_Your_Way__13_July_2024_.png">
 </div>
 <p></p>
