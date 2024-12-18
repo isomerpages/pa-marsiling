@@ -5,7 +5,7 @@ variant: tiptap
 description: Future & Ongoing Projects
 third_nav_title: Estate Matters
 ---
-<h2><strong> New Marsiling CC Coming your way in 2026 </strong></h2>
+<h2><strong>New Marsiling CC Coming your way in 2026</strong></h2>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Upcoming_Estate_Development.png">
