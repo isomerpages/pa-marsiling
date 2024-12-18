@@ -71,7 +71,7 @@ third_nav_title: Estate Matters
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Before </strong>
+<p><strong>Before</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,6 +146,40 @@ third_nav_title: Estate Matters
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Market_After__4.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Block 113 Drop off Porch</p>
+</blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Before</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>After</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Estate Development/113_DOP_01_ori__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/113_DOP_01_20240927__1_.jpg">
 </div>
 </td>
 </tr>
