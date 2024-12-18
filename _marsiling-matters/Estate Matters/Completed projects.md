@@ -5,7 +5,7 @@ variant: tiptap
 description: Completed projects
 third_nav_title: Estate Matters
 ---
-<h3><strong>Completed Projects</strong></h3>
+<h2><strong>Completed Projects</strong></h2>
 <hr>
 <p></p>
 <div class="isomer-card-grid">
@@ -57,4 +57,98 @@ third_nav_title: Estate Matters
 </div>
 </div>
 </div>
+<p></p>
+<h3><strong>Before &amp; After Comparison</strong></h3>
+<hr>
+<blockquote>
+<p>Marsiling Market and Hawker Centre</p>
+</blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Before </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>After</strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Market_Before.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Market_After.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Hawker_Center_Before.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Hawker_Center_After.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Masiling_Market_Before_2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Market_After_2.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Market_Before_3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Market_After_3.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Market_Before_4.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Market_After__4.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
