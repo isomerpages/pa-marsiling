@@ -109,8 +109,10 @@ third_nav_title: Estate Matters
 </tr>
 </tbody>
 </table>
+<h3><strong>Block 113 Drop off Porch</strong></h3>
+<hr>
 <blockquote>
-<p>Block 113 Drop off Porch</p>
+<p>Before &amp; After Comparison</p>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
