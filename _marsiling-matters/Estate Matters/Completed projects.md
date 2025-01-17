@@ -58,10 +58,10 @@ third_nav_title: Estate Matters
 </div>
 </div>
 <p></p>
-<h3><strong>Before &amp; After Comparison</strong></h3>
+<h3><strong>Marsiling Market and Hawker Centre</strong></h3>
 <hr>
 <blockquote>
-<p>Marsiling Market and Hawker Centre</p>
+<p>Before &amp; After Comparison</p>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
@@ -78,20 +78,6 @@ third_nav_title: Estate Matters
 <p><strong>After</strong>
 </p>
 </td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Market_Before.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Market_After.png">
-</div>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -111,20 +97,6 @@ third_nav_title: Estate Matters
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Masiling_Market_Before_2.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Market_After_2.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Market_Before_3.png">
 </div>
 </td>
@@ -132,20 +104,6 @@ third_nav_title: Estate Matters
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Market_After_3.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Market_Before_4.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Marsiling_Market_After__4.png">
 </div>
 </td>
 </tr>
