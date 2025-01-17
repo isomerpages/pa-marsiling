@@ -89,8 +89,42 @@ third_nav_title: Estate Matters
 </div>
 <h3><strong>Major Upcoming Quality of Life Changes!</strong></h3>
 <hr>
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Estate Development/Linkway_Coming_Your_Way__13_July_2024_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Covered Linkway Construction image" src="/images/Estate Development/Poster_1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Covered Linkway Construction Beginning at block 154 &amp; 182!</div>
+<div class="isomer-card-description">Ready by Q1 2025!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Linkway Construction" src="/images/Estate Development/Poster_2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Linkway Construction between Marsiling Block 185A, 187A and Marsiling
+Secondary School</div>
+<div class="isomer-card-description">Coming soon : July 2024</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Linkway Project image" src="/images/Estate Development/Poster_3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Linkway Project At woodlands Street 13 Between Block 178 and 183</div>
+<div class="isomer-card-description">Commencement : Q3 2024 Completion: Q2 2025</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Another project" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
