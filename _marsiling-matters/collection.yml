@@ -2,6 +2,7 @@ collections:
   marsiling-matters:
     output: true
     order:
+      - Estate Matters/Upgrades Coming Your Way!.md
       - Estate Matters/.keep
       - Estate Matters/Future &#47 Ongoing Projects.md
       - Estate Matters/Completed projects.md
