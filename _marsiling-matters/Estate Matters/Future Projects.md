@@ -5,7 +5,7 @@ variant: tiptap
 description: Future Projects
 third_nav_title: Estate Matters
 ---
-<h2><strong>Future/ On-going Projects </strong></h2>
+<h2><strong>Future/ On-going Projects</strong></h2>
 <hr>
 <p></p>
 <div class="isomer-card-grid">
