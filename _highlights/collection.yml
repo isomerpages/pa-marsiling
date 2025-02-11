@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - CC Courses/.keep
       - Courses & Activities.md
       - Highlights.md
       - Courses & Activities/.keep
