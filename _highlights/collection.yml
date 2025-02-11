@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Highlights.md
-      - Categories/.keep
-      - Categories/Cultural.md
-      - Categories/Arts & Theatre.md
-      - Categories/Sports.md
-      - Categories/Culinary.md
-      - Categories/General.md
-      - Categories/Enrichment.md
-      - Categories/Others.md
-      - Categories/Community Contribution.md
+      - Courses & Activities/.keep
+      - Courses & Activities/Cultural.md
+      - Courses & Activities/Arts & Theatre.md
+      - Courses & Activities/Sports.md
+      - Courses & Activities/Culinary.md
+      - Courses & Activities/General.md
+      - Courses & Activities/Enrichment.md
+      - Courses & Activities/Others.md
+      - Courses & Activities/Community Contribution.md
