@@ -33,7 +33,7 @@ sections:
       button: FInd our More
       image: /images/events_v2.jpg
       alt: Image alt text
-      url: /event-calendar/event-highlights/
+      url: /upcoming-events/northbound-fest-countdown-festival/
   - infopic:
       title: New Development
       id: infopic
@@ -42,7 +42,7 @@ sections:
       button: Find out more
       image: /images/hero-banner.png
       alt: Image alt text
-      url: /my-marsiling/my-home-estate/
+      url: /estate-matters/upgrades-coming-your-way/
   - infopic:
       title: Popular Courses
       id: infopic
@@ -50,7 +50,7 @@ sections:
         skills, have fun, while making new friends in the process. Come join us
         today!
       button: Find out More
-      url: /my-marsiling/my-hope-lifelong-learning/
+      url: /highlights/courses-and-activities/
       image: /images/popular_events_v2.jpg
       alt: Image alt text
   - infobar:
@@ -65,7 +65,7 @@ sections:
       title: Marsiling Welfare Schemes
       id: infocols
       linktext: Learn more about Marsiling Care, Comlink & FFTH
-      url: /community-overview/what-we-do/
+      url: /welfare-matters/
       infoboxes:
         - title: What we do
           description: Zone specific Information - RN Committee, courses, interest groups,
