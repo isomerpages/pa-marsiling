@@ -2,6 +2,5 @@ collections:
   courses-and-activities:
     output: true
     order:
-      - RN Courses/Basic Balloon Sculpting @ Marsiling Zone 2 RN.md
       - RN Courses/.keep
       - CC Courses/.keep
