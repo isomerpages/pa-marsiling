@@ -2,5 +2,6 @@ collections:
   courses-and-activities:
     output: true
     order:
+      - Courses & Activities.md
       - RN Courses/.keep
       - CC Courses/.keep
