@@ -2,8 +2,8 @@ collections:
   highlights:
     output: true
     order:
-      - Courses & Activities.md
       - Highlights.md
+      - Courses & Activities.md
       - Categories/.keep
       - Categories/Cultural.md
       - Categories/Arts & Theatre.md
