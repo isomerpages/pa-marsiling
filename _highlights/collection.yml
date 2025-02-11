@@ -2,8 +2,6 @@ collections:
   highlights:
     output: true
     order:
-      - RN Courses/.keep
-      - CC Courses/.keep
       - Courses & Activities.md
       - Highlights.md
       - Courses & Activities/.keep
@@ -15,3 +13,5 @@ collections:
       - Courses & Activities/Enrichment.md
       - Courses & Activities/Others.md
       - Courses & Activities/Community Contribution.md
+      - RN Courses/.keep
+      - CC Courses/.keep
