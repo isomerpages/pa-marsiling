@@ -5,7 +5,7 @@ variant: tiptap
 description: Cultural Activities
 third_nav_title: Courses & Activities
 ---
-<h2><strong>Cultural Courses &amp; Activities</strong></h2>
+<h2><strong>Courses &amp; Activities - Cultural </strong></h2>
 <hr>
 <p></p>
 <p></p>
