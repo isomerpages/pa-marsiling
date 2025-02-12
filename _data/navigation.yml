@@ -2,13 +2,13 @@ logo: /images/Marsiling_Logo.png
 links:
   - title: Home
     url: /
-  - title: Highlights
+  - title: Courses & Activities
     url: /highlights/
     sublinks:
-      - title: Highlights
-        url: /highlights/
       - title: Courses & Activities
         url: /highlights/course-activities/cultural/
+      - title: Highlights
+        url: /highlights/
   - title: Welfare Matters
     url: /welfare-matters/
   - title: Estate Matters
