@@ -5,10 +5,10 @@ links:
   - title: Courses & Activities
     url: /highlights/
     sublinks:
-      - title: Courses & Activities
-        url: /highlights/course-activities/cultural/
       - title: Highlights
         url: /highlights/
+      - title: Courses & Activities
+        url: /highlights/course-activities/cultural/
   - title: Welfare Matters
     url: /welfare-matters/
   - title: Estate Matters
