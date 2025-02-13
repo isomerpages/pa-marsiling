@@ -24,7 +24,7 @@ sections:
           url: /welfare-matters/
         - title: Course & Activities
           description: ""
-          url: /highlights/courses-and-activities/
+          url: /highlights/
   - infopic:
       title: Upcoming Events
       id: infopic
