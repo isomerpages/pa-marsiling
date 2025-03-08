@@ -74,7 +74,7 @@ third_nav_title: Welfare Matters
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Christmas with Comlink+ Kids" src="/images/481910944_1174415500707897_5650193663073879047_n.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Christmas with Comlink+ Kids" src="/images/hero-banner.png">
 </div>
 </div>
 <div class="isomer-card-body">
