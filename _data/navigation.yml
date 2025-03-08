@@ -11,6 +11,15 @@ links:
         url: /highlights/course-activities/cultural/
   - title: Welfare Matters
     url: /welfare-matters/
+    sublinks:
+      - title: Health Support
+        url: /welfare-matters/health-support/
+      - title: Financial Support
+        url: /welfare-matters/financial-support/
+      - title: Education Support
+        url: /welfare-matters/education-support/
+      - title: Food Support
+        url: /welfare-matters/food-support/
   - title: Estate Matters
     url: /estate-matters/upgrades-coming-your-way/
     sublinks:
