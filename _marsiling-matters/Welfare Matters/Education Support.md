@@ -56,14 +56,14 @@ third_nav_title: Welfare Matters
 </div>
 </div>
 </div>
-<h2><strong>ComLink+ </strong></h2>
+<h2><strong>ComLink+</strong></h2>
 <hr>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Glyph Community's annual Glyphmas Party" src="/images/SYN_4063.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Glyph Community's annual Glyphmas Party" src="/images/481910944_1174415500707897_5650193663073879047_n.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -74,7 +74,7 @@ third_nav_title: Welfare Matters
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Christmas with Comlink+ Kids" src="/images/MG_2543.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Christmas with Comlink+ Kids" src="/images/481910944_1174415500707897_5650193663073879047_n.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -87,7 +87,7 @@ third_nav_title: Welfare Matters
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Artist Impression of Comlink+ Containers" src="/images/SYN_3748.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Artist Impression of Comlink+ Containers" src="/images/WhatsApp_Image_2025_02_26_at_9_06_18_PM.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
