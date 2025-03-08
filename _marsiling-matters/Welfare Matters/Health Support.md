@@ -32,4 +32,28 @@ third_nav_title: Welfare Matters
 </div>
 </div>
 </div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NTUC Health Active Ageing Centre @ Blk 180A" src="/images/Estate Development/NTUC.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">NTUC Health Active Ageing Centre @ Blk 180A</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sunlove Active Ageing Centre @ Marsiling at Blk 3" src="/images/Estate Development/Care_Corner.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sunlove Active Ageing Centre @ Marsiling at Blk 3</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
 <p></p>
