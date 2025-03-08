@@ -12,7 +12,7 @@ third_nav_title: Welfare Matters
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ready-for-School" src="/images/Estate Development/NTUC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ready-for-School" src="/images/SYN_4063.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -23,7 +23,7 @@ third_nav_title: Welfare Matters
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Edusave, Marsiling Bursary &amp; Ready-for-School" src="/images/Estate Development/Care_Corner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Edusave, Marsiling Bursary &amp; Ready-for-School" src="/images/MG_2543.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -36,7 +36,7 @@ third_nav_title: Welfare Matters
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Edusave Awards" src="/images/Estate Development/NTUC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Edusave Awards" src="/images/SYN_3748.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
