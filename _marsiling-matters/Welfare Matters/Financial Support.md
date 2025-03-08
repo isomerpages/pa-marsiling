@@ -60,7 +60,7 @@ third_nav_title: Welfare Matters
 </div>
 </div>
 </div>
-<h2><strong>My $1 Deal </strong></h2>
+<h2><strong>My $1 Deal</strong></h2>
 <hr>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -93,7 +93,7 @@ third_nav_title: Welfare Matters
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MYT Gives 14 Nov 24" src="/images/Copy_of_TWB_2413.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="MYT Gives 14 Nov 24" src="/images/Copy_of_IMG__72_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -104,7 +104,7 @@ third_nav_title: Welfare Matters
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MYT Gives 6 Dec 24" src="/images/Copy_of_Copy_of_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="MYT Gives 6 Dec 24" src="/images/IMG_7427.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -117,7 +117,7 @@ third_nav_title: Welfare Matters
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MYT Gives 1 Mar 25" src="/images/Copy_of_TWB_2413.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="MYT Gives 1 Mar 25" src="/images/1RL4680.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
