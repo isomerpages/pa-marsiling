@@ -2,11 +2,11 @@ collections:
   marsiling-matters:
     output: true
     order:
+      - Welfare Matters/.keep
+      - Welfare Matters/Welfare Matters.md
       - Welfare Matters/Food Support.md
       - Welfare Matters/Education Support.md
       - Welfare Matters/Financial Support.md
-      - Welfare Matters/.keep
-      - Welfare Matters/Welfare Matters.md
       - Welfare Matters/Health Support.md
       - Estate Matters/Upgrades Coming Your Way!.md
       - Estate Matters/.keep
