@@ -4,10 +4,10 @@ collections:
     order:
       - Welfare Matters/.keep
       - Welfare Matters/Welfare Matters.md
-      - Welfare Matters/Food Support.md
-      - Welfare Matters/Education Support.md
-      - Welfare Matters/Financial Support.md
       - Welfare Matters/Health Support.md
+      - Welfare Matters/Financial Support.md
+      - Welfare Matters/Education Support.md
+      - Welfare Matters/Food Support.md
       - Estate Matters/Upgrades Coming Your Way!.md
       - Estate Matters/.keep
       - Estate Matters/Future Projects.md
