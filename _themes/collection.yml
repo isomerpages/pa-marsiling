@@ -2,6 +2,7 @@ collections:
   themes:
     output: true
     order:
+      - General/.keep
       - Cultural/.keep
       - Cultural/Oil Painting @ Marsiling CC.md
       - Arts & Theatre/Performing Arts Hub of the North.md
