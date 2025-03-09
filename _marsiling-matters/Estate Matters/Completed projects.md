@@ -274,7 +274,6 @@ third_nav_title: Estate Matters
 <p></p>
 <h3><strong>Enhancements to Bus Services</strong></h3>
 <hr>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -343,6 +342,44 @@ third_nav_title: Estate Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
+<p></p>
+<h3><strong>Supermarket Convenience across Marsiling</strong></h3>
+<hr>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sheng Shiong @ Marsiling Mall" src="/images/Copy_of__MG_7467_copy.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sheng Shiong @ Marsiling Mall</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NTUC Fairprice @ Woodlands Civic Centre &amp; Marsiling MRT" src="/images/WhatsApp_Image_2025_03_03_at_10_26_01_AM.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">NTUC Fairprice @ Woodlands Civic Centre &amp; Marsiling MRT</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New Mini-Mart @ Blk 187" src="/images/WhatsApp_Image_2025_02_27_at_7_55_35_PM.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">New Mini-Mart @ Blk 187</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
