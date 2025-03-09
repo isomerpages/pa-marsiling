@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Highlights.md
+      - Courses & Activities/Upcoming Events.md
       - Courses & Activities/.keep
       - Courses & Activities/Cultural.md
       - Courses & Activities/Arts & Theatre.md
