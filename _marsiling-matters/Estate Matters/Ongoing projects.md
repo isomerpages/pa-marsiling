@@ -368,7 +368,7 @@ Secondary School</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">New fitness station</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Near 204 Marsiling Drive</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -385,4 +385,53 @@ Secondary School</div>
 </div>
 <h2><strong>Neighbourhood Renewal Programme (NRP)</strong></h2>
 <hr>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Zone 6 Roof Terrace near Blk 113 Marsiling Rise (Therapeutic Gardens)" src="/images/Copy_of_Rejuvenation_of_Marsiling_in_2022__2_Dec_2021__R_01.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Zone 6 Roof Terrace near Blk 113 Marsiling Rise (Therapeutic Gardens)</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="High &amp; Low Linkway from Blk 134 to 142 Marsiling Road" src="/images/134_to_142_linkway.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">High &amp; Low Linkway from Blk 134 to 142 Marsiling Road</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Drop Off Porch near to Blk 113 Woodlands St 13" src="/images/Estate Development/113_DOP_01_20240927__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Drop Off Porch near to Blk 113 Woodlands St 13</div>
+<div class="isomer-card-description">test</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="135" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
 <p></p>
