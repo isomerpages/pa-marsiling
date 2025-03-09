@@ -335,6 +335,54 @@ Secondary School</div>
 </div>
 <h2><strong>Rejuvenation of Arcadia Park</strong></h2>
 <hr>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New multi-purpose hardcourt" src="/images/Multi_purpose_Hardcourt.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">New multi-purpose hardcourt</div>
+<div class="isomer-card-description">Near 204 Marsiling Drive</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New landscaping" src="/images/asd.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">New landscaping</div>
+<div class="isomer-card-description">Near 204 Marsiling Drive</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New fitness station" src="/images/Fitness_Station.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">New fitness station</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="135" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
 <h2><strong>Neighbourhood Renewal Programme (NRP)</strong></h2>
 <hr>
 <p></p>
