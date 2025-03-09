@@ -186,6 +186,32 @@ third_nav_title: Estate Matters
 </div>
 </div>
 </div>
+<p><strong>Lane Reduction (D2 to D1) along Marsiling Drive</strong>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Before" src="/images/f201a8c2_3ab3_4594_877a_cd1230d5ac7c.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Before</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="After" src="/images/f201a8c2_3ab3_4594_877a_cd1230d5ac7c.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">After</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
 <h3><strong>Block 113 Drop off Porch</strong></h3>
 <hr>
 <blockquote>
