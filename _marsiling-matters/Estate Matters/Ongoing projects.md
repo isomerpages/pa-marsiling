@@ -169,7 +169,7 @@ Secondary School</div>
 </div>
 </div>
 </div>
-<h3>Skipped R&amp;R -&gt; </h3>
+<h4>Skipped R&amp;R -&gt; Moved to hidden &gt; R&amp;R Stuff</h4>
 <h2><strong>Community Improvement Projects Committee (CIPC)</strong></h2>
 <hr>
 <p></p>
