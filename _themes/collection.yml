@@ -2,13 +2,11 @@ collections:
   themes:
     output: true
     order:
-      - Senior Activities/.keep
-      - Youth Activities/.keep
-      - Cultural/Oil Painting @ Marsiling CC.md
       - Cultural/.keep
+      - Cultural/Oil Painting @ Marsiling CC.md
       - Arts & Theatre/.keep
-      - Sports/Rhythmic Gymnastics.md
       - Sports/.keep
+      - Sports/Rhythmic Gymnastics.md
       - Culinary/.keep
       - Enrichment/.keep
       - Others/.keep
@@ -16,3 +14,5 @@ collections:
       - Community Contributions/Gaza in crisis.md
       - Community Contributions/Infaq Kasih.md
       - Community Contributions/Marsiling Urban Farms.md
+      - Youth Activities/.keep
+      - Senior Activities/.keep
