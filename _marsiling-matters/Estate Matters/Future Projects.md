@@ -246,4 +246,28 @@ Secondary School</div>
 </div>
 </div>
 </div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="R&amp;R to 22 Blks at Blk 1 to 5A, 201 to 218 Marsiling Drive/Lane/Crescent" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">R&amp;R to 22 Blks at Blk 1 to 5A, 201 to 218 Marsiling Drive/Lane/Crescent</div>
+<div class="isomer-card-description">Zone 6 Murals</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="R&amp;R to 22 Blks at 122 to 143 Marsiling Rise/Road" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">R&amp;R to 22 Blks at 122 to 143 Marsiling Rise/Road</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
 <p></p>
