@@ -1,4 +1,5 @@
 collections:
   hidden:
     output: true
-    order: []
+    order:
+      - R&R Stuff.md
