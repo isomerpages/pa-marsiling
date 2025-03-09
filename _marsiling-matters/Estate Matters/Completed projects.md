@@ -112,8 +112,8 @@ third_nav_title: Estate Matters
 </table>
 <h3><strong>Silver Zone Enhancements</strong></h3>
 <hr>
-<p>Marsiling Drive</p>
-<p></p>
+<p><strong>Silver Zone Gateways</strong>
+</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -145,6 +145,43 @@ third_nav_title: Estate Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Marsiling Drive</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
+<p><strong>Red-Amber-Green arrows at following junctions</strong>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Junction of Marsiling Road &amp; Marsling Rise" src="/images/0ff0d820_3034_4b01_ac94_62b95de61ed1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Junction of Marsiling Road &amp; Marsling Rise</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Junction of Marsiling Road &amp; Marsling Drive" src="/images/70e28eca_1f3a_4ca8_aaee_d564d2ddc59c.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Junction of Marsiling Road &amp; Marsling Drive</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Junction of Marsiling Drive / Admiralty Road" src="/images/20b16288_c50d_4f4a_9f3e_5d9d50a5e52d.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Junction of Marsiling Drive / Admiralty Road</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
