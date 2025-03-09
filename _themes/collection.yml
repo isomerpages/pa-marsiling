@@ -2,6 +2,8 @@ collections:
   themes:
     output: true
     order:
+      - General/Exciting Activity and Course Offerings for Residents of all
+        Ages.md
       - General/Kampung Spirit and Communal Bonds.md
       - General/.keep
       - Cultural/.keep
