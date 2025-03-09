@@ -2,6 +2,7 @@ collections:
   themes:
     output: true
     order:
+      - General/Kampung Spirit and Communal Bonds.md
       - General/.keep
       - Cultural/.keep
       - Cultural/Oil Painting @ Marsiling CC.md
