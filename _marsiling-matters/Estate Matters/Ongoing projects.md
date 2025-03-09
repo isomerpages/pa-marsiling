@@ -309,6 +309,30 @@ Secondary School</div>
 </div>
 <h2><strong>EV Charging Locations</strong></h2>
 <hr>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BlueSG   EV Charger" src="/images/image009.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">BlueSG EV Charger</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Volt EV Charger" src="/images/WhatsApp_Image_2025_03_03_at_10_23_38_AM.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Volt EV Charger</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
 <h2><strong>Rejuvenation of Arcadia Park</strong></h2>
 <hr>
 <h2><strong>Neighbourhood Renewal Programme (NRP)</strong></h2>
