@@ -159,4 +159,28 @@ third_nav_title: Senior Activities
 </div>
 <h3><strong>International Women's Day</strong></h3>
 <hr>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Internation Women's Day 1" src="/images/Copy_of__MG_4736.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Internation Women's Day 1</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Internation Women's Day 2" src="/images/Copy_of__MG_4430.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Internation Women's Day 2</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
 <p></p>
