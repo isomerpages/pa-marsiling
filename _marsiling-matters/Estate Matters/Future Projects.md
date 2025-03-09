@@ -142,6 +142,34 @@ third_nav_title: Estate Matters
 </div>
 </div>
 </div>
+<p></p>
+<h2><strong>Community Improvement Projects Committee (CIPC)</strong></h2>
+<hr>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Shelter" src="/images/Copy_of_Msl_zone_5___4__117_of_117_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Shelter</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Playground" src="/images/Copy_of_Zone_5___171_new_pg.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Playground</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
 <h2><strong>Linkway Projects</strong></h2>
 <hr>
 <div class="isomer-card-grid">
@@ -237,6 +265,54 @@ Secondary School</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Blk 19 to Bus Stop across Marsiling Lane</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 1 to 7A" src="/images/Block_1_to_Block_7A.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Blk 1 to 7A</div>
+<div class="isomer-card-description">Test</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="(New) MS Grove Blk 187A to Blk 146" src="/images/Blk_19_Marsiling_Lane.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Blk(New) MS Grove Blk 187A to Blk 146</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="(New) An-Nur Mosque to Bus Stop B46119" src="/images/Linkway_from_Bus_Stop_to_An_Nur_Mosque.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">(New) An-Nur Mosque to Bus Stop B46119</div>
+<div class="isomer-card-description">Test</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="123" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
