@@ -110,10 +110,10 @@ third_nav_title: Estate Matters
 </tr>
 </tbody>
 </table>
+<p></p>
 <h3><strong>Silver Zone Enhancements</strong></h3>
 <hr>
-<p><strong>Silver Zone Gateways</strong>
-</p>
+<h4><strong>Silver Zone Gateways</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -149,8 +149,7 @@ third_nav_title: Estate Matters
 </div>
 </div>
 </div>
-<p><strong>Red-Amber-Green arrows at following junctions</strong>
-</p>
+<h4><strong>Red-Amber-Green arrows at following junctions</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -186,8 +185,7 @@ third_nav_title: Estate Matters
 </div>
 </div>
 </div>
-<p><strong>Lane Reduction (D2 to D1) along Marsiling Drive</strong>
-</p>
+<h4><strong>Lane Reduction (D2 to D1) along Marsiling Drive</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -208,6 +206,119 @@ third_nav_title: Estate Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">After</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
+<h4><strong>Raised Zebra Crossing (dual 1 Lane) with Silver Zone bollards / Lower Speed Limits</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lower Speed Limits" src="/images/Lowr_Speed_limits.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Lower Speed Limits</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Raised Zebra Crossing (dual 1 lane) with Silver Zone bollards" src="/images/7bb43ddf_fdb6_49a2_8943_eeffa115787d.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Raised Zebra Crossing (dual 1 lane) with Silver Zone bollards</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
+<h4><strong>Bus Friendly Road Humps</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Marsiling Road" src="/images/85cf6a16_dd7a_4a05_974f_217f202bdcb4.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Marsiling Road</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Marsiling Drive" src="/images/d85f8756_b853_485f_baa6_ab60399fa5d4.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Marsiling Drive</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Marsiling Drive 2" src="/images/5e3516c7_2aa8_4374_b647_852df9ec62ff.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Marsiling Drive 2</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
+<p></p>
+<h3><strong>Enhancements to Bus Services</strong></h3>
+<hr>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New Bus Service 967" src="/images/Launch_of_Bus_Service_967__3_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">New Bus Service 967</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Enhancements to Services 856, 856A, 856B" src="/images/Copy_of_Service_856__26_Sept_2024_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Enhancements to Services 856, 856A, 856B</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Enhancements to Service 903/903M" src="/images/Copy_of_903M.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Enhancements to Service 903/903M</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Enhancements to Service 911" src="/images/Copy_of_911.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Enhancements to Service 911</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
