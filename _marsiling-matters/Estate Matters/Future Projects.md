@@ -217,7 +217,30 @@ Secondary School</div>
 </div>
 </div>
 </div>
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 180C to Blk 12" src="/images/Blk_12_to_180C_Marsling_Lane.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Blk 180C to Blk 12</div>
+<div class="isomer-card-description">Test</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 19 to Bus Stop across Marsiling Lane" src="/images/Blk_19_Marsiling_Lane.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Blk 19 to Bus Stop across Marsiling Lane</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
 <h3><strong>Repair and Redecoration (R&amp;R)</strong></h3>
 <hr>
 <p></p>
