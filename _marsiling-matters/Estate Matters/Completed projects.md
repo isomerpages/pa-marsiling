@@ -192,7 +192,7 @@ third_nav_title: Estate Matters
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Before" src="/images/f201a8c2_3ab3_4594_877a_cd1230d5ac7c.png">
+<img style="width: 100%" height="auto" width="100%" alt="Before" src="/images/eb3e2539_8c78_466b_a861_9cb5b718e4a0.png">
 </div>
 </div>
 <div class="isomer-card-body">
