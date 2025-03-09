@@ -170,6 +170,54 @@ third_nav_title: Estate Matters
 </div>
 </div>
 </div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New Announcements in 2025" src="/images/Blk_167.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">New Announcements in 2025</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="High Covered Linkway/Linkways" src="/images/Copy_of_High_and_Low_Covered_Linkway_across_Woodlands_Street_13_near_Block_154.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">High Covered Linkway/Linkways</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Drop-off" src="/images/Estate Development/113_DOP_01_20240927__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Drop-off</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="123" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
 <h2><strong>Linkway Projects</strong></h2>
 <hr>
 <div class="isomer-card-grid">
