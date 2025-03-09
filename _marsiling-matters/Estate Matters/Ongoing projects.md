@@ -245,5 +245,12 @@ Secondary School</div>
 </div>
 </div>
 </div>
-<h2></h2>
+<h2><strong>Lift Upgrading Program (LUP)</strong></h2>
+<hr>
+<h2><strong>EV Charging Locations</strong></h2>
+<hr>
+<h2><strong>Rejuvenation of Arcadia Park</strong></h2>
+<hr>
+<h2><strong>Neighbourhood Renewal Programme (NRP)</strong></h2>
+<hr>
 <p></p>
