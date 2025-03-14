@@ -20,6 +20,6 @@ third_nav_title: Courses & Activities
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Click Here to View the Event.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/themes/community-contributions/marsiling-urban-farms/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Marsiling Urban Farms" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Marsiling Urban Farms</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Click Here to View More.</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/themes/community-contributions/marsiling-urban-farms/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Marsiling Urban Farms" src="/images/Copy_of_WhatsApp_Image_2025_01_11_at_8_07_46_AM.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Marsiling Urban Farms</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Click Here to View More.</div></div></a>
 </div>
 <p></p>
