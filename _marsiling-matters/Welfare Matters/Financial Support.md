@@ -60,8 +60,27 @@ third_nav_title: Welfare Matters
 </div>
 </div>
 </div>
-<h2><strong>My $1 Deal</strong></h2>
+<h2><strong>MY Marsiling $1 Deal: Easing Your Cost of Living</strong></h2>
+<blockquote>
+<p>We understand that rising costs are a concern for many residents and are
+committed to supporting you through practical, meaningful initiatives to
+bring financial relief to our residents.</p>
+</blockquote>
 <hr>
+<p>We launched the MY Marsiling $1 Deal to bring immediate relief by offering
+essential groceries at just $1 each:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Eggs, Rice &amp; Cooking Oil at only $1</p>
+</li>
+<li>
+<p>First run (March 2024) helped over 10,000 households across Marsiling-Woodlands
+GRC</p>
+</li>
+<li>
+<p>Next round coming soon to benefit even more residents</p>
+</li>
+</ul>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -71,7 +90,6 @@ third_nav_title: Welfare Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Launch @888 Plaza</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -82,13 +100,29 @@ third_nav_title: Welfare Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Blk 160 Linkhouse Woodlands Street 13 @ Marsiling</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 </div>
 <p></p>
-<h2><strong>Marsiling-Yew Tee Gives: Humanitarian Aid for Gaza</strong></h2>
+<h2><strong>Marsiling-Yew Tee Gives: Compassion in Action for Gaza</strong></h2>
+<blockquote>
+<p>Our community showed remarkable generosity through the Marsiling-Yew Tee
+Gives campaign for humanitarian aid to Gaza. A heartfelt thank-you to all
+residents and donors—your compassion is making a real difference across
+the world.</p>
+</blockquote>
 <hr>
+<ul data-tight="true" class="tight">
+<li>
+<p>Raised $600,478 from donations and community briyani sales</p>
+</li>
+<li>
+<p>Contributions demonstrated the kindness and unity of Marsiling residents</p>
+</li>
+<li>
+<p>Funds provided critical humanitarian aid via trusted partners at the frontline.</p>
+</li>
+</ul>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -98,7 +132,6 @@ third_nav_title: Welfare Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">MYT Gives 14 Nov 24</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -109,7 +142,6 @@ third_nav_title: Welfare Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">MYT Gives 6 Dec 24</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 </div>
@@ -122,13 +154,25 @@ third_nav_title: Welfare Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">MYT Gives 1 Mar 25</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 </div>
 <p></p>
-<h2><strong>Free Night Parking and Sunday Parking</strong></h2>
+<h2><strong>Free Night Parking: Supporting a connected and family-friendly Marsiling</strong></h2>
 <hr>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>At 21 blocks</strong> and <strong>Free Sunday/Public Holiday Parking at 19 blocks</strong> since
+2018.</p>
+</li>
+<li>
+<p>Supports families with multiple vehicles, reducing parking costs and enhancing
+convenience for residents and visitors.</p>
+</li>
+<li>
+<p>Parking schemes make it easier for family and friends to gather regularly.</p>
+</li>
+</ul>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -138,18 +182,16 @@ third_nav_title: Welfare Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Free Night Parking and Sunday Parking</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MYT Gives 6 Dec 24" src="/images/IMG_7427.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="0" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">MYT Gives 6 Dec 24</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">This is a title for your card</div>
 </div>
 </div>
 </div>
