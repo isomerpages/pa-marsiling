@@ -337,18 +337,129 @@ that bring our older blocks up to par with modern BTOs.</p>
 <p><strong>36 Blocks</strong> (144–179 Woodlands St 11/13)
 <br><em>1 Dec 2022 – 31 Oct 2024</em>
 </p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+</div>
+</div>
+</div>
 <p><strong>21 Blocks</strong> (101–121 Woodlands St 13 / Marsiling Rise)
 <br><em>3 Apr 2023 – 29 Sep 2024</em>
 </p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+</div>
+</div>
+</div>
 <p><strong>13 Blocks</strong> (6–15, 16–19 Marsiling Lane/Drive)
 <br><em>25 Aug 2023 – 22 Mar 2025</em>
 </p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+</div>
+</div>
+</div>
 <p><strong>22 Blocks</strong> (122–143 Marsiling Rise/Road)
 <br><em>25 Aug 2023 – 21 Mar 2025</em>
 </p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+</div>
+</div>
+</div>
 <p><strong>22 Blocks</strong> (1–5A, 201–218 Marsiling Dr/Ln/Cres)
 <br><em>1 Sep 2024 – 1 Mar 2026</em>
 </p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+</div>
+</div>
+</div>
 <h2><strong>Community Improvement Projects Committee (CIPC)</strong></h2>
 <hr>
 <blockquote>
@@ -622,7 +733,7 @@ network in Marsiling! In 2024, seven charging locations were introduced,
 and by the end of 2025, we’ll add 15 more—tripling our total to 22 stations.</p>
 </blockquote>
 <p></p>
-<p><strong>EV Charging Points Deployed in 2024 - Blks 29A, 185, 7A, 2A, 22/27, 182, 187 </strong>
+<p><strong>EV Charging Points Deployed in 2024 - Blks 29A, 185, 7A, 2A, 22/27, 182, 187</strong>
 </p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
