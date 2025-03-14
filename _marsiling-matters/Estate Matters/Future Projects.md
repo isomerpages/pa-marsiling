@@ -27,67 +27,6 @@ cycling paths will begin construction in late 2025 and wrap up by end-2026.</p>
 </div>
 <hr>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Johor Bahru RTS Link" src="/images/Estate Development/JB_RTS_link.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Johor Bahru RTS Link</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LUP - BLK 176, 115 &amp; 119" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">LUP - BLK 176, 115 &amp; 119</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BKE extension" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">BKE extension</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TEL Line - (Full completion)" src="/images/Estate Development/TEL.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">TEL Line - (Full completion)</div>
-<div class="isomer-card-description">Faster and more convenient MRT route to Changi Airport.</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="New Concept Resident's Corners" src="/images/Screenshot_2025_03_09_102216.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">New Concept Resident's Corners</div>
-<div class="isomer-card-description">New Resident's Corners</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="asd" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
 <p></p>
 <h2><strong>Social Corridor @ Woodlands</strong></h2>
 <p><strong>(Project name TBC pending NParks' updates)</strong>
@@ -157,11 +96,11 @@ top priority—we’ll keep you closely informed every step of the way!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Evolving Demographics with Upcoming BTOs in Marsiling" src="/images/WhatsApp_Image_2025_03_02_at_9_08_49_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Woodlands Checkpoint Redevelopment" src="/images/Estate Development/Untitled_2_01.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Evolving Demographics with Upcoming BTOs in Marsiling</div>
+<div class="isomer-card-title">Woodlands Checkpoint Redevelopment</div>
 </div>
 </div>
 </div>
@@ -169,7 +108,7 @@ top priority—we’ll keep you closely informed every step of the way!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Woodlands Checkpoint Redevelopment" src="/images/Untitled_2_03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Woodlands Checkpoint Redevelopment" src="/images/Estate Development/Untitled_2_02.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -179,11 +118,11 @@ top priority—we’ll keep you closely informed every step of the way!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Evolving Demographics with Upcoming BTOs in Marsiling" src="/images/WhatsApp_Image_2025_03_02_at_9_08_49_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Woodlands Checkpoint Redevelopment" src="/images/Estate Development/Untitled_2_04.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Evolving Demographics with Upcoming BTOs in Marsiling</div>
+<div class="isomer-card-title">Woodlands Checkpoint Redevelopment</div>
 </div>
 </div>
 </div>
