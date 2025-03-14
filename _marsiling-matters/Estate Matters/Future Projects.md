@@ -7,6 +7,37 @@ third_nav_title: Estate Matters
 ---
 <h2><strong>New Cycling Paths Connecting Towns</strong></h2>
 <hr>
+<blockquote>
+<p>Get ready for <strong>a new 18km cycling path</strong> stretching from Marsiling
+to across Woodlands town, Sembawang town and beyond! Marsiling’s expanded
+cycling paths will begin construction in late 2025 and wrap up by end-2026.</p>
+</blockquote>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New Cycling Paths Connecting Towns" src="/images/Screenshot_2025_03_09_095821.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">New Cycling Paths Connecting Towns</div>
+<div class="isomer-card-description">A new 18km cycling path.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Social Corridor @ Woodlands" src="/images/hero-banner.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Social Corridor @ Woodlands</div>
+<div class="isomer-card-description">Social Corridor with play and fitness equipment under MRT Track near Blk
+168/173</div>
+</div>
+</div>
+</div>
+<hr>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -60,55 +91,6 @@ third_nav_title: Estate Matters
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="New Cycling Paths Connecting Towns" src="/images/Screenshot_2025_03_09_095821.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">New Cycling Paths Connecting Towns</div>
-<div class="isomer-card-description">A new 18km cycling path.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Social Corridor @ Woodlands" src="/images/hero-banner.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Social Corridor @ Woodlands</div>
-<div class="isomer-card-description">Social Corridor with play and fitness equipment under MRT Track near Blk
-168/173</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Woodlands Checkpoint Redevelopment" src="/images/Untitled_2_03.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Woodlands Checkpoint Redevelopment</div>
-<div class="isomer-card-description">New ICA Checkpoint.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Evolving Demographics with Upcoming BTOs in Marsiling" src="/images/WhatsApp_Image_2025_03_02_at_9_08_49_PM.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Evolving Demographics with Upcoming BTOs in Marsiling</div>
-<div class="isomer-card-description">Marsiling Peak II</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="New Concept Resident's Corners" src="/images/Screenshot_2025_03_09_102216.png">
 </div>
 </div>
@@ -143,7 +125,7 @@ third_nav_title: Estate Matters
 </div>
 </div>
 <p></p>
-<h2><strong>Social Corridor @ Woodlands </strong></h2>
+<h2><strong>Social Corridor @ Woodlands</strong></h2>
 <p><strong>(Project name TBC pending NParks' updates)</strong>
 </p>
 <blockquote>
@@ -176,10 +158,96 @@ for bonding and recreation—right at your doorstep!</p>
 </div>
 </div>
 </div>
-<h2><strong>Woodlands Checkpoint Redevelopment</strong></h2>
-<p></p>
+<h2><strong>Better Journeys Ahead: Woodlands Checkpoint Redevelopment</strong></h2>
+<blockquote>
+<p>Phase 1 kicks off in 2025 and runs through 2028, promising major improvements
+for Marsiling. This long-term project, announced by ICA, aims to ease Causeway
+jams and congestion on roads and buses. Your comfort and safety are our
+top priority—we’ll keep you closely informed every step of the way!</p>
+</blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>15-minute customs clearance targeted during peak hours once fully complete.</strong>
+</p>
+</li>
+<li>
+<p><strong>RTS opening in 2026 and BKE extension to significantly improve daily commutes.</strong>
+</p>
+</li>
+<li>
+<p><strong>Noise barriers will be installed near residential areas, minimizing inconvenience and ensuring comfort for residents during construction.</strong>
+</p>
+</li>
+</ul>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Woodlands Checkpoint Redevelopment" src="/images/Untitled_2_03.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Woodlands Checkpoint Redevelopment</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Evolving Demographics with Upcoming BTOs in Marsiling" src="/images/WhatsApp_Image_2025_03_02_at_9_08_49_PM.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Evolving Demographics with Upcoming BTOs in Marsiling</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Woodlands Checkpoint Redevelopment" src="/images/Untitled_2_03.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Woodlands Checkpoint Redevelopment</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Evolving Demographics with Upcoming BTOs in Marsiling" src="/images/WhatsApp_Image_2025_03_02_at_9_08_49_PM.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Evolving Demographics with Upcoming BTOs in Marsiling</div>
+</div>
+</div>
+</div>
 <h2><strong>Evolving Demographics with Upcoming BTOs in Marsiling</strong></h2>
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Evolving Demographics with Upcoming BTOs in Marsiling" src="/images/WhatsApp_Image_2025_03_02_at_9_08_49_PM.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Evolving Demographics with Upcoming BTOs in Marsiling</div>
+<div class="isomer-card-description">Marsiling Peak II</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Woodlands Checkpoint Redevelopment" src="/images/Untitled_2_03.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Woodlands Checkpoint Redevelopment</div>
+<div class="isomer-card-description">New ICA Checkpoint.</div>
+</div>
+</div>
+</div>
 <p></p>
 <h2><strong>New Concept Resident's Corners</strong></h2>
 <p></p>
