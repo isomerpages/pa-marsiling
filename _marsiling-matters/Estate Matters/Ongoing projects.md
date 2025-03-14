@@ -22,50 +22,6 @@ Orchestra (MCO)</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Marsiling Chinese Orchestra (MCO)" src="/images/Copy_of_Photo_21_7_24__9_42_22_PM.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Marsiling Chinese Orchestra (MCO)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Marsiling Chinese Orchestra (MCO) 2" src="/images/Copy_of_ST5_9118.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Marsiling Chinese Orchestra (MCO)</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bulan Bahasa" src="/images/IMG__66_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Bulan Bahasa Celebration</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bulan Bahasa Celebration" src="/images/IMG__65_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Bulan Bahasa Celebration</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Versatile Course Rooms &amp; Event Hall" src="https://placehold.co/600x400">
 </div>
 </div>
