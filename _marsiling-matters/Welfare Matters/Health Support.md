@@ -5,7 +5,31 @@ variant: tiptap
 description: Health Support
 third_nav_title: Welfare Matters
 ---
-<h2><strong>Active Ageing in Marsiling: Vibrant Spaces for Seniors’ Golden Years</strong></h2>
+<h2><strong>Active Ageing in Marsiling: Vibrant Spaces for Seni</strong></h2>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Free Wheelchair Loans" src="/images/Copy_of_Wheelchair_loan_B.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Free Wheelchair Loans</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Free Wheelchair Loans" src="/images/WhatsApp_Image_2025_03_10_at_3_38_12_PM.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Free Wheelchair Loans</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
+<h2><strong>ors’ Golden Years</strong></h2>
 <blockquote>
 <p>Marsiling's <strong>Active Ageing Centres and Senior Activity Care Centres</strong>,
 launched in <strong>2019</strong>, are dedicated to promoting active, healthy,
@@ -262,9 +286,44 @@ essential mobility aids regardless of their circumstances:</p>
 </div>
 </div>
 <p></p>
-<h2><strong>COVID-19 Response</strong></h2>
+<h2><strong>Marsiling Together: United &amp; Caring During COVID-19</strong></h2>
+<blockquote>
+<p>Marsiling stepped up during the pandemic to care for residents, providing
+immediate relief and support:</p>
+</blockquote>
 <hr>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Essential Protection:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Distributed essential supplies like masks, sanitizers, and hygiene products,
+benefiting over 2,000 households.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Six Rounds of Mask Distribution:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ensured residents were well-protected at all times.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>#SGUnited Buka Puasa Meals Initiative:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Volunteers distributed <strong>daily free meals</strong> for buka puasa
+during Ramadan 2020, supporting vulnerable families and frontline healthcare
+heroes.</p>
+</li>
+</ul>
+</li>
+</ul>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -274,18 +333,16 @@ essential mobility aids regardless of their circumstances:</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Handing out Meals</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Copy_of_SBB_6740.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Handing out meals</div>
 </div>
 </div>
 </div>
