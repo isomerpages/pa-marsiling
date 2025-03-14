@@ -5,54 +5,37 @@ variant: tiptap
 description: On-going projects
 third_nav_title: Estate Matters
 ---
-<h2><strong>New Marsiling CC</strong></h2>
+<h2><strong>The New Community Club: Bright Future for Marsiling</strong></h2>
 <hr>
-<h4><strong>Performing Arts Hub of the North</strong></h4>
+<blockquote>
+<p>By June 2026, a four-storey Marsiling Community Club CC will rise beside
+Marsiling Market and Hawker Centre—bringing arts, sports, and exciting
+activities right to our doorstep.</p>
+</blockquote>
+<p></p>
+<p><strong>Performing Arts Hub of the North</strong> -A Dedicated auditorium
+and hall for local performers, schools, and concerts. Ready to welcome
+more vibrant talents to join resident groups such as the Marsiling Chinese
+Orchestra (MCO)</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MCO 1" src="/images/Copy_of_Photo_21_7_24__9_42_22_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Marsiling Chinese Orchestra (MCO)" src="/images/Copy_of_Photo_21_7_24__9_42_22_PM.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">MCO 1</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Marsiling Chinese Orchestra (MCO)</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MCO 2" src="/images/Copy_of_ST5_9118.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Marsiling Chinese Orchestra (MCO) 2" src="/images/Copy_of_ST5_9118.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">MCO 2</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bulan Bahasa 1" src="/images/IMG__66_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Bulan Bahasa 1</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bulan Bahasa 2" src="/images/IMG__65_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Bulan Bahasa 2</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Marsiling Chinese Orchestra (MCO)</div>
 </div>
 </div>
 </div>
@@ -60,23 +43,47 @@ third_nav_title: Estate Matters
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Activity Hall" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Bulan Bahasa" src="/images/IMG__66_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Activity Hall</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Bulan Bahasa Celebration</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kitchen" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Bulan Bahasa Celebration" src="/images/IMG__65_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Kitchen</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Bulan Bahasa Celebration</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Versatile Course Rooms &amp; Event Hall" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Versatile Course Rooms &amp; Event Halls</div>
+<div class="isomer-card-description">Suited for a variety of sports (badminton, sepak takraw) and more exciting
+options like rock climbing.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cooking Kitchen for Classes &amp; Group Activities" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cooking Kitchen for Classes &amp; Group Activities</div>
+<div class="isomer-card-description">Perfect for community cooking sessions, culinary interest groups, and
+family workshops.</div>
 </div>
 </div>
 </div>
