@@ -16,24 +16,12 @@ cycling paths will begin construction in late 2025 and wrap up by end-2026.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="New Cycling Paths Connecting Towns" src="/images/Screenshot_2025_03_09_095821.png">
+<img style="width: 100%" height="auto" width="100%" alt="New Cycling Paths Connecting Towns" src="/images/Estate Development/20250226_Woodlands_Cycling_Network_Banner_Artwork_Full.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">New Cycling Paths Connecting Towns</div>
 <div class="isomer-card-description">A new 18km cycling path.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Social Corridor @ Woodlands" src="/images/hero-banner.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Social Corridor @ Woodlands</div>
-<div class="isomer-card-description">Social Corridor with play and fitness equipment under MRT Track near Blk
-168/173</div>
 </div>
 </div>
 </div>
