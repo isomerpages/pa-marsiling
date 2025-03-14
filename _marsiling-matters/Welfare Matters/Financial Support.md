@@ -6,6 +6,10 @@ description: Financial Support
 third_nav_title: Welfare Matters
 ---
 <h2><strong>E2i Centre</strong></h2>
+<blockquote>
+<p>E2i opened its Service Centre at Woodlands Civic Centre in 2024, to provide
+coaching and job matching services for residents.</p>
+</blockquote>
 <hr>
 <p></p>
 <div class="isomer-card-grid">
@@ -17,7 +21,6 @@ third_nav_title: Welfare Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">NTUC Health Active Ageing Centre @ Blk 172</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -28,7 +31,6 @@ third_nav_title: Welfare Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">E2i Centre</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 </div>
