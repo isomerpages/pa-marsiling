@@ -273,21 +273,21 @@ and more!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Zumba" src="/images/Themes/Copy_of_IMG__141_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Zumba</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="asd" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Zumba" src="/images/Themes/Copy_of_Sports_Activities.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Zumba</div>
 </div>
 </div>
 </div>
@@ -296,21 +296,21 @@ and more!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Yogalates" src="/images/Themes/WhatsApp_Image_2025_02_27_at_12_53_14_PM.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Yogalates</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="asd" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Yogalates" src="/images/Themes/WhatsApp_Image_2025_02_27_at_12_54_19_PM.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Yogalates</div>
 </div>
 </div>
 </div>
@@ -319,11 +319,11 @@ and more!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Sepak Takraw" src="/images/Themes/Copy_of_Copy_of_Sepak_Takraw.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Sepak Takraw</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -342,21 +342,21 @@ and more!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="K-Pop" src="/images/Themes/WhatsApp_Image_2025_03_07_at_15_28_57.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">K-Pop</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="asd" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="K-Pop" src="/images/Themes/WhatsApp_Image_2025_03_07_at_15_28_57__1_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">K-Pop</div>
 </div>
 </div>
 </div>
@@ -365,21 +365,21 @@ and more!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Cardio (HPB)" src="/images/Themes/WhatsApp_Image_2025_02_27_at_1_17_30_PM.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Cardio (HPB)</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="asd" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Cardio (HPB)" src="/images/Themes/WhatsApp_Image_2025_02_27_at_12_52_51_PM.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Cardio (HPB)</div>
 </div>
 </div>
 </div>
@@ -388,23 +388,21 @@ and more!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Brisk Walk" src="/images/Themes/Copy_of_Hijrah_Walk.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Brisk Walk</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Brisk Walk" src="/images/Themes/Copy_of_Brisk_Walk__2_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Brisk Walk</div>
 </div>
 </div>
 </div>
@@ -439,11 +437,11 @@ and more!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Inter-Generational Programs" src="/images/Themes/Copy_of__MG_1057_copy.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Inter-Generational Programs</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -462,21 +460,21 @@ and more!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Environmental Awareness Initiatives" src="/images/Themes/Copy_of_Copy_of_IMG_7425.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Environmental Awareness Initiatives</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="asd" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Environmental Awareness Initiatives" src="/images/Themes/Copy_of_Copy_of_DSC08725.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Environmental Awareness Initiatives</div>
 </div>
 </div>
 </div>
@@ -485,21 +483,21 @@ and more!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="CPR and First Aid Training Sessions" src="/images/Copy_of__MG_8434.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">CPR and First Aid Training Sessions</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="asd" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="CPR and First Aid Training Sessions" src="/images/Copy_of_Lifesaver_course.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">CPR and First Aid Training Sessions</div>
 </div>
 </div>
 </div>
@@ -508,44 +506,44 @@ and more!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Covid-19 Distribution" src="/images/Themes/Copy_of_Copy_of_IMG_20200815_162201_908.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Covid-19 Distribution</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="asd" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Covid-19 Distribution" src="/images/Themes/Copy_of_Copy_of_SBB_6740.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Covid-19 Distribution</div>
 </div>
 </div>
 </div>
-<h4><strong>(Low res) Vaccination at CC during Covid</strong></h4>
+<h4><strong>Vaccination at CC during Covid</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Vaccination at CC during Covid" src="/images/Themes/167215803_1762773247237217_4958579392440552072_n.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Vaccination at CC during Covid</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="asd" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Vaccination at CC during Covid" src="/images/Themes/167322624_1762773243903884_3332984106483693534_n.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Vaccination at CC during Covid</div>
 </div>
 </div>
 </div>
