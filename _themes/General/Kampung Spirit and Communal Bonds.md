@@ -5,6 +5,93 @@ variant: tiptap
 description: '"Kampung Spirit" and Communal Bonds'
 third_nav_title: General
 ---
+<h2><strong>Marsiling Kampung Spirit: Celebrating Unity, Culture &amp; Community!</strong></h2>
+<hr>
+<p>Marsiling is alive with vibrant activities that nurture our kampung spirit
+and bring neighbours together through celebrations, culture, and compassion.</p>
+<p><strong>🎉 Festive Celebrations &amp; Community Bonding</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>New Year Countdown (MY Countdown):</strong> Thousands gather at
+Woodlands Stadium to welcome the New Year with fireworks and performances.</p>
+</li>
+<li>
+<p><strong>National Day Celebrations:</strong> Annual dinners and family carnivals
+that unite residents in patriotic spirit.</p>
+</li>
+<li>
+<p><strong>Festive Light-Ups:</strong> Marsiling shines brightly during key
+festivals, thanks to partnerships with local temples, mosques, and merchants,
+spreading joy to residents of all faiths.</p>
+</li>
+</ul>
+<p><strong>🎁 Supporting Our Community</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Festive Gift Distributions:</strong> Reaching over <strong>2,000 lower-income households</strong> during
+key festivals (CNY Hong Bao, Bingkisan Kasih, Navarasai Medai, Christmas
+Gift of Love).</p>
+</li>
+<li>
+<p><strong>Marsiling Pawsome:</strong> Free pet health screenings and education
+for pet owners, improving pet welfare and care.</p>
+</li>
+</ul>
+<p><strong>🎶 Cultural Spotlight</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Get moving with MY Beats and Rolling Good Times:</strong> Music,
+dance, and entertainment for everyone!</p>
+</li>
+<li>
+<p><strong>Get together at Deeparagam, Pongal Celebrations, MY Beats, Rolling Good Times:</strong> Celebrating
+diversity and cultural vibrancy.</p>
+</li>
+</ul>
+<p><strong>🍽️ Iftar Utara @ Marsiling</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Annual Ramadan tradition attended by over <strong>7,000 residents</strong>,
+promoting harmony and understanding among communities of all backgrounds.</p>
+</li>
+</ul>
+<p><strong>🐾 Special Community Initiatives</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Marsiling’s Pawsome Event:</strong> Pet health screenings and welfare
+education for pet owners.</p>
+</li>
+</ul>
+<p><strong>🌟 Honoured Guests in Marsiling</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visits by Senior Minister Lee Hsien Loong and former President Halimah
+Yacob (PopFest, Community Scouts Launch), highlighting Marsiling’s vibrant
+community spirit.</p>
+</li>
+</ul>
+<p><strong>🎶 Signature Events &amp; Activities</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Arts &amp; Leisure:</strong> Karaoke, board games, and music sessions.</p>
+</li>
+<li>
+<p><strong>Health &amp; Wellness:</strong> Qigong, brisk-walking clubs, Zumba,
+and more!</p>
+</li>
+<li>
+<p><strong>Learning &amp; Growth:</strong> SkillsFuture, CPAP fitness classes,
+nutrition workshops.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
 <h3><strong>Festive Light-Up for CNY</strong></h3>
 <hr>
 <div class="isomer-card-grid">
