@@ -564,28 +564,31 @@ completion: Q2 2026, subject to clearance]</div>
 </div>
 <h2><strong>Lift Upgrading Program (LUP)</strong></h2>
 <hr>
-<p></p>
+<blockquote>
+<p>Residents in Blocks 115, 119, and 176 will soon enjoy lift access on every
+floor—especially helpful for seniors and those with mobility challenges.
+In close collaboration with HDB, the Lift Upgrading Program is making progress
+and scheduled for completion by:</p>
+</blockquote>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Block 176" src="/images/Screenshot_2025_03_09_175202.png">
+<img style="width: 100%" height="auto" width="100%" alt="Block 176 : 1Q 2027" src="/images/Screenshot_2025_03_09_175202.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Block 176</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Block 176 : 1Q 2027</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Block 119" src="/images/Screenshot_2025_03_09_175233.png">
+<img style="width: 100%" height="auto" width="100%" alt="Block 119 : 2Q 2026" src="/images/Screenshot_2025_03_09_175233.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Block 119</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Block 119 : 2Q 2026</div>
 </div>
 </div>
 </div>
@@ -597,8 +600,7 @@ completion: Q2 2026, subject to clearance]</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Block 115</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Block 115 : 4Q 2026</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -608,13 +610,20 @@ completion: Q2 2026, subject to clearance]</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Empty Card</div>
 </div>
 </div>
 </div>
-<h2><strong>EV Charging Locations</strong></h2>
+<h2><strong>Accelerating Green Mobility in Marsiling</strong></h2>
 <hr>
+<blockquote>
+<p>We’re driving a greener future for Marsiling with an expanded EV charging
+network in Marsiling! In 2024, seven charging locations were introduced,
+and by the end of 2025, we’ll add 15 more—tripling our total to 22 stations.</p>
+</blockquote>
+<p></p>
+<p><strong>EV Charging Points Deployed in 2024 - Blks 29A, 185, 7A, 2A, 22/27, 182, 187 </strong>
+</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -624,7 +633,6 @@ completion: Q2 2026, subject to clearance]</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">BlueSG EV Charger</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -635,33 +643,85 @@ completion: Q2 2026, subject to clearance]</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Volt EV Charger</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 </div>
-<h2><strong>Rejuvenation of Arcadia Park</strong></h2>
+<p><strong>Coming in 1H 2025 - Blks 4/5, 181, 13A, 15/16, 6/7, 104/105, 152/153, 178/179</strong>
+</p>
+<p><strong>Coming in 2H 2025 - Blks 119/120, 34A, 134/141, 201/206, 182, 10/13, 17/21</strong>
+</p>
+<h2><strong>Arcadia Park Revitalization: A Brighter, Healthier Community Space</strong></h2>
+<hr>
+<blockquote>
+<p>We’re giving Arcadia Park near Blk 204 Marsiling Drive a fresh new look,
+ensuring it meets the evolving needs of our community. Completion is targeted
+for 2Q 2025, and residents can look forward to:</p>
+</blockquote>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Multi-purpose hardcourt for sports and activities" src="/images/Multi_purpose_Hardcourt.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Multi-purpose hardcourt for sports and activities</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Refreshed landscaping" src="/images/asd.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Refreshed landscaping</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New fitness station for adults and seniors" src="/images/Fitness_Station.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">New fitness station for adults and seniors</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Convenient bicycle parking" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Convenient bicycle parking</div>
+</div>
+</div>
+</div>
+<h2><strong>Neighbourhood Renewal Programme (NRP) Updates</strong></h2>
 <hr>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="New multi-purpose hardcourt" src="/images/Multi_purpose_Hardcourt.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Drop-off porch near Blk 113 Woodlands St 13 – Awarded" src="/images/Copy_of_Rejuvenation_of_Marsiling_in_2022__2_Dec_2021__R_01.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">New multi-purpose hardcourt</div>
-<div class="isomer-card-description">Near 204 Marsiling Drive</div>
+<div class="isomer-card-title">Drop-off porch near Blk 113 Woodlands St 13 – Awarded</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="New landscaping" src="/images/asd.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="High &amp; low linkway from Blk 134 to 142 Marsiling Rd – Completed" src="/images/134_to_142_linkway.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">New landscaping</div>
-<div class="isomer-card-description">Near 204 Marsiling Drive</div>
+<div class="isomer-card-title">High &amp; low linkway from Blk 134 to 142 Marsiling Rd – Completed</div>
 </div>
 </div>
 </div>
@@ -669,12 +729,11 @@ completion: Q2 2026, subject to clearance]</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="New fitness station" src="/images/Fitness_Station.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Linkway from Blk 122 to 124 Marsiling Rise – Completed" src="/images/Estate Development/113_DOP_01_20240927__1_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">New fitness station</div>
-<div class="isomer-card-description">Near 204 Marsiling Drive</div>
+<div class="isomer-card-title">Linkway from Blk 122 to 124 Marsiling Rise – Completed</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -684,60 +743,33 @@ completion: Q2 2026, subject to clearance]</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Empty Card</div>
 </div>
 </div>
 </div>
-<h2><strong>Neighbourhood Renewal Programme (NRP)</strong></h2>
-<hr>
+<p><strong>Looking Ahead (Subject to MND)</strong>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="High &amp; low sheltered linkway from Blk 17 to 18 Marsiling Lane" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">High &amp; low sheltered linkway from Blk 17 to 18 Marsiling Lane</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Potential water play area near Blk 18 Marsiling Lane" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Potential water play area near Blk 18 Marsiling Lane</div>
+</div>
+</div>
+</div>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Zone 6 Roof Terrace near Blk 113 Marsiling Rise (Therapeutic Gardens)" src="/images/Copy_of_Rejuvenation_of_Marsiling_in_2022__2_Dec_2021__R_01.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Zone 6 Roof Terrace near Blk 113 Marsiling Rise (Therapeutic Gardens)</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="High &amp; Low Linkway from Blk 134 to 142 Marsiling Road" src="/images/134_to_142_linkway.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">High &amp; Low Linkway from Blk 134 to 142 Marsiling Road</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Drop Off Porch near to Blk 113 Woodlands St 13" src="/images/Estate Development/113_DOP_01_20240927__1_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Drop Off Porch near to Blk 113 Woodlands St 13</div>
-<div class="isomer-card-description">test</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="135" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-</div>
-</div>
-</div>
 <p></p>
