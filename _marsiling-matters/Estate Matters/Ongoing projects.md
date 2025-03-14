@@ -91,23 +91,26 @@ family workshops.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Foyer" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Open Foyer for Community &amp; Celebrations" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Foyer</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Open Foyer for Community &amp; Celebrations</div>
+<div class="isomer-card-description">Positioned between the hawker centre and neighbourhood shops; a versatile
+space for carnivals, wellness sessions, movie nights, and live football
+screenings</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Gym" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Modern Gym Facilities" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Gym</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Modern Gym Facilities</div>
+<div class="isomer-card-description">Designed with a refreshing view and equipped with up-to-date amenities
+for fitness enthusiasts</div>
 </div>
 </div>
 </div>
@@ -115,23 +118,24 @@ family workshops.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Supermarket" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Basement Supermarket" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Supermarket</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Basement Supermarket</div>
+<div class="isomer-card-description">Complements the nearby market and serves residents throughout the day.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Course Room &amp; Event Halls" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Ground-Floor F&amp;B Outlets" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Course Room &amp; Event Halls</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Ground-Floor F&amp;B Outlets</div>
+<div class="isomer-card-description">Ideal for a casual hangout, enjoying a meal or watching everyday life
+unfold.</div>
 </div>
 </div>
 </div>
@@ -139,12 +143,13 @@ family workshops.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Green Building" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Environmentally Sustainable Design" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Green Building</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Environmentally Sustainable Design</div>
+<div class="isomer-card-description">Super-low energy usage, solar panels and a rooftop green garden our dedication
+to a greener future.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -161,6 +166,66 @@ family workshops.</div>
 </div>
 <h2><strong>Large Scale Town Sheltered Linkways</strong></h2>
 <hr>
+<blockquote>
+<p>Marsiling is has proven to overcome two decades of accessibility hurdles
+with an exciting network of eight major linkways! &nbsp;Our bold initiative
+now seamlessly connects the neighborhood’s old and new estates, bringing
+everyone closer to the markets, shops, and community spaces we love—making
+daily commutes simpler and community gatherings livelier.</p>
+</blockquote>
+<p></p>
+<h4><strong>Energising Our Community Hubs</strong></h4>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 1 → Blk 7A (Skybridge)" src="/images/Block_1_to_Block_7A.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Blk 1 → Blk 7A (Skybridge)</div>
+<div class="isomer-card-description">A game-changing connection that finally adds direct lift access for Blk
+1, linking residents to the bustling market area.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 180C → Blk 16" src="/images/Blk_12_to_180C_Marsling_Lane.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Blk 180C → Blk 16</div>
+<div class="isomer-card-description">Offers effortless strolls from Blks 180A–C and the 130–140 series to Marsiling
+Market.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 19 → Bus Stop across Marsiling Lane" src="/images/Blk_19_Marsiling_Lane.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Blk 19 → Bus Stop across Marsiling Lane</div>
+<div class="isomer-card-description">For quick, sheltered trips for market-goers on the move.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Empty Card</div>
+</div>
+</div>
+</div>
+<h4><strong>Connecting New BTOs &amp; Mature Estates</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
