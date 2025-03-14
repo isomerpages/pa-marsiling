@@ -7,8 +7,28 @@ third_nav_title: Courses & Activities
 ---
 <h2><strong>Upcoming Events</strong></h2>
 <hr>
-<h4><strong>Woodlands Health Campus </strong></h4>
-<p></p>
+<h4><strong>Advancing Healthcare in Woodlands</strong></h4>
+<p><strong>Woodlands Health Campus (WHC)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1,800-bed, fully integrated hospital campus opening in <strong>2024</strong>
+</p>
+</li>
+<li>
+<p>Closer care for Marsiling/Woodlands, plus community health outreach</p>
+</li>
+</ul>
+<p><strong>Woodlands Polyclinic</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>One-stop primary care for acute, chronic, women’s, child, and dental needs</p>
+</li>
+<li>
+<p><strong>Upgrading mid-2025</strong>, stays operational throughout</p>
+</li>
+</ul>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -18,7 +38,6 @@ third_nav_title: Courses & Activities
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Woodlands Polyclinic</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -29,7 +48,6 @@ third_nav_title: Courses & Activities
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Woodlands Health Campus</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 </div>
