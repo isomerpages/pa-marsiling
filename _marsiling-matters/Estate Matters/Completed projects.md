@@ -399,11 +399,11 @@ cultural exchanges</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="76" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Johor Bahru RTS Link Entrance" src="/images/Estate Development/Artist_s_Impression_for_RTS_Link_of_Woodlands_North_Station__Entrance_A_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">Johor Bahru RTS Link Entrance</div>
 </div>
 </div>
 </div>
