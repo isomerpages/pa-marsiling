@@ -5,31 +5,7 @@ variant: tiptap
 description: Health Support
 third_nav_title: Welfare Matters
 ---
-<h2><strong>Active Ageing in Marsiling: Vibrant Spaces for Seni</strong></h2>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Free Wheelchair Loans" src="/images/Copy_of_Wheelchair_loan_B.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Free Wheelchair Loans</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Free Wheelchair Loans" src="/images/WhatsApp_Image_2025_03_10_at_3_38_12_PM.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Free Wheelchair Loans</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-</div>
-</div>
-</div>
-<h2><strong>ors’ Golden Years</strong></h2>
+<h2><strong>Active Ageing in Marsiling: Vibrant Spaces for Seniors’ Golden Years</strong></h2>
 <blockquote>
 <p>Marsiling's <strong>Active Ageing Centres and Senior Activity Care Centres</strong>,
 launched in <strong>2019</strong>, are dedicated to promoting active, healthy,
