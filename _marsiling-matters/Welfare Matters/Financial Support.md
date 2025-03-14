@@ -35,9 +35,52 @@ coaching and job matching services for residents.</p>
 </div>
 </div>
 <p></p>
-<h2><strong>Marsiling Career</strong></h2>
+<h2><strong>Marsiling Careers: Helping Residents Secure Jobs</strong></h2>
+<blockquote>
+<p>Marsiling Careers has stood with our residents through challenging times,
+launching dedicated job-support initiatives since <strong>2020</strong> to
+protect livelihoods during COVID-19</p>
+</blockquote>
 <hr>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Career Fair for Mature Workers</strong> (Jan 2020):</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Supported <strong>437 older job seekers</strong> connecting with <strong>13 employers</strong>.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>SkillsFuture Roadshow &amp; Back-to-Work Programmes</strong> (M³
+initiative):</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Benefited over <strong>800 residents</strong>, equipping them with essential
+skills training.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Continued Job Support:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Strong partnership with SkillsFuture and employers, helping residents
+stay employable and find lasting jobs.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Empowering Women &amp; Mature Workers:</strong>
+</p>
+</li>
+<li>
+<p>Specialised support via "Back to Work Women" and <strong><a href="https://www.facebook.com/maju.bersama.m3?__cft__%5b0%5d=AZXKHeHefRtxBBsJfuC__XZ36jlga0gma3NefO1-WP4-_Y6CVFYhmuSorH6dGlhdltDDsSS6WoEJrgnHhiO-lgUt5loNvTOnGrlt-kLeMxkSrXNsD3LtRDHgFhYonVGC7QITeELw2S4MXcMSqBs9NhBdCXYDKX6vRofd1EdrAf5abA&amp;__tn__=-%5dK-R" rel="noopener noreferrer nofollow" target="_blank">M³</a></strong> launched
+its fourth focus area (FA4) on Employment and Employability initiatives,
+boosting skills and confidence.</p>
+</li>
+</ul>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -47,7 +90,6 @@ coaching and job matching services for residents.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">M3 FA4</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -58,7 +100,6 @@ coaching and job matching services for residents.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Launched Career Fair</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 </div>
