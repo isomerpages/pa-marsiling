@@ -5,6 +5,7 @@ variant: tiptap
 description: On-going projects
 third_nav_title: Estate Matters
 ---
+<h2></h2>
 <h2><strong>The New Community Club: Bright Future for Marsiling</strong></h2>
 <hr>
 <blockquote>
@@ -324,31 +325,121 @@ and visitors, shielding them from rain or shine.</div>
 </div>
 </div>
 </div>
-<h4>Skipped R&amp;R -&gt; Moved to hidden &gt; R&amp;R Stuff</h4>
+<h2><strong>Repair and Redecoration (R&amp;R)</strong></h2>
+<blockquote>
+<p><strong>A Brighter Marsiling </strong>
+<br>By end-2025, every housing block will have completed its Repair &amp;
+Redecoration (R&amp;R) cycle Over the past five years, we’ve rejuvenated
+Marsiling with fresh facades, anti-slip screeded floors, and vibrant murals
+that bring our older blocks up to par with modern BTOs.</p>
+</blockquote>
+<h4><strong>Ongoing &amp; Recent R&amp;R Projects</strong></h4>
+<p><strong>36 Blocks</strong> (144–179 Woodlands St 11/13)
+<br><em>1 Dec 2022 – 31 Oct 2024</em>
+</p>
+<p><strong>21 Blocks</strong> (101–121 Woodlands St 13 / Marsiling Rise)
+<br><em>3 Apr 2023 – 29 Sep 2024</em>
+</p>
+<p><strong>13 Blocks</strong> (6–15, 16–19 Marsiling Lane/Drive)
+<br><em>25 Aug 2023 – 22 Mar 2025</em>
+</p>
+<p><strong>22 Blocks</strong> (122–143 Marsiling Rise/Road)
+<br><em>25 Aug 2023 – 21 Mar 2025</em>
+</p>
+<p><strong>22 Blocks</strong> (1–5A, 201–218 Marsiling Dr/Ln/Cres)
+<br><em>1 Sep 2024 – 1 Mar 2026</em>
+</p>
 <h2><strong>Community Improvement Projects Committee (CIPC)</strong></h2>
 <hr>
+<blockquote>
+<p>The Community Improvement Projects Committee (CIPC) is committed to creating
+a more caring, inclusive living environment that supports residents’ daily
+needs. Over the last five years, CIPC has delivered 34 new amenities, including
+drop-off points, sheltered linkways, barrier-free ramps, and upgraded playgrounds
+and fitness corners. These efforts build on earlier improvements—14 projects
+from 2015 to 2020 and 17 in FY 2021/2022—to benefit residents of all ages
+and abilities.</p>
+</blockquote>
+<p><strong>Total Projects (2020–2025)</strong>
+<br><strong>FY 2019/20/21: 12 projects</strong>
+<br><strong>FY 2021/22: 2 projects</strong>
+<br><strong>FY 2022/23: 6 projects</strong>
+<br><strong>FY 2023/24: 6 projects</strong>
+<br><strong>FY 2024/25: 8 projects</strong>
+<br><strong>(Grand Total: 34)</strong>
+</p>
+<p></p>
+<h4><strong>Key Completed &amp; Ongoing Projects (2020–2024)</strong></h4>
+<p><strong>Sheltered Linkways &amp; Drop-off Porches</strong>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 12 Marsiling Lane: Low covered linkway over existing BFA ramp to bus stop [Completed]" src="/images/Copy_of_Msl_zone_5___4__117_of_117_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Blk 12 Marsiling Lane: Low covered linkway over existing BFA ramp to bus
+stop [Completed]</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 148: Barrier-free access ramp [Completed]" src="/images/Copy_of_Zone_5___171_new_pg.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Blk 148: Barrier-free access ramp [Completed]</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 204 Marsiling Drive: Drop-off porch with low covered linkway [Completed]" src="/images/Estate Development/113_DOP_01_20240927__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Blk 204 Marsiling Drive: Drop-off porch with low covered linkway [Completed]</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 106 Woodlands St 13: Shelter over BFA ramp [Estimated completion: Q2 2026, subject to clearance]" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Blk 106 Woodlands St 13: Shelter over BFA ramp [Estimated completion:
+Q2 2026, subject to clearance]</div>
+</div>
+</div>
+</div>
+<p><strong>Playgrounds, Fitness Corners &amp; Other Amenities</strong>
+</p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Shelter" src="/images/Copy_of_Msl_zone_5___4__117_of_117_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 35: New fitness corner [Completed]" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Shelter</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Blk 35: New fitness corner [Completed]</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Playground" src="/images/Copy_of_Zone_5___171_new_pg.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 148/151: Upgraded playground &amp; senior fitness corner [Completed]" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Playground</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Blk 148/151: Upgraded playground &amp; senior fitness corner [Completed]</div>
 </div>
 </div>
 </div>
@@ -356,23 +447,47 @@ and visitors, shielding them from rain or shine.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="New Announcements in 2025" src="/images/Blk_167.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 171: Upgraded playground &amp; adult fitness corner [Completed]" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">New Announcements in 2025</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Blk 171: Upgraded playground &amp; adult fitness corner [Completed]</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="High Covered Linkway/Linkways" src="/images/Copy_of_High_and_Low_Covered_Linkway_across_Woodlands_Street_13_near_Block_154.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 119, Blk 26, Blk 160, Blk 123: Playground and fitness corner upgrades [Estimated completion: Q1 2026]" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">High Covered Linkway/Linkways</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Blk 119, Blk 26, Blk 160, Blk 123: Playground and fitness corner upgrades
+[Estimated completion: Q1 2026]</div>
+</div>
+</div>
+</div>
+<p><strong>CIPC FY 24/25 1st Stage</strong>
+</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sheltered linkway over BFA ramp from Blk 167 to coffeeshop" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sheltered linkway over BFA ramp from Blk 167 to coffeeshop</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sheltered linkway between Blk 15 and 16" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sheltered linkway between Blk 15 and 16</div>
 </div>
 </div>
 </div>
@@ -380,23 +495,70 @@ and visitors, shielding them from rain or shine.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Drop-off" src="/images/Estate Development/113_DOP_01_20240927__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Drop-off porch at Blk 4" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Drop-off</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Drop-off porch at Blk 4</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="123" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Playground upgrade at Blk 25" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Playground upgrade at Blk 25</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Adult fitness corner upgrade at Blk 3" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Adult fitness corner upgrade at Blk 3</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="High covered linkway from Blk 32 to Blk 204" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">High covered linkway from Blk 32 to Blk 204</div>
+</div>
+</div>
+</div>
+<p><strong>Additional Upcoming Works (Under Large Scale Townwide Initiative)</strong>
+</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staircase, covered linkway, and outdoor lift between Blk 1 and Marsiling Drive [In progress]" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Staircase, covered linkway, and outdoor lift between Blk 1 and Marsiling
+Drive [In progress]</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Linkway from Blk 146 Woodlands St 13 Bus Stop to traffic light [Estimated completion: Q2 2026, subject to clearance]" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Linkway from Blk 146 Woodlands St 13 Bus Stop to traffic light [Estimated
+completion: Q2 2026, subject to clearance]</div>
 </div>
 </div>
 </div>
