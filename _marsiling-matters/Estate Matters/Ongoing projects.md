@@ -100,7 +100,7 @@ unfold.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Environmentally Sustainable Design" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Environmentally Sustainable Design" src="/images/Estate Development/Upcoming_Estate_Development.png">
 </div>
 </div>
 <div class="isomer-card-body">
