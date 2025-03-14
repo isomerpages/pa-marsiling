@@ -22,7 +22,7 @@ Orchestra (MCO)</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Versatile Course Rooms &amp; Event Hall" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Versatile Course Rooms &amp; Event Hall" src="/images/Copy_of_Classroom.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -34,7 +34,7 @@ options like rock climbing.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cooking Kitchen for Classes &amp; Group Activities" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Cooking Kitchen for Classes &amp; Group Activities" src="/images/Culinary_Studio_2.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -48,7 +48,7 @@ family workshops.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Open Foyer for Community &amp; Celebrations" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Open Foyer for Community &amp; Celebrations" src="/images/MCC_FT_S1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -61,7 +61,7 @@ screenings</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Modern Gym Facilities" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Modern Gym Facilities" src="/images/MCC_FT_S2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
