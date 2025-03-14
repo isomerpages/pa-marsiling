@@ -5,9 +5,31 @@ variant: tiptap
 description: Health Support
 third_nav_title: Welfare Matters
 ---
-<h2><strong>Active Ageing Centres &amp; Senior Activity Care Centres</strong></h2>
+<h2><strong>Active Ageing in Marsiling: Vibrant Spaces for Seniors’ Golden Years</strong></h2>
+<blockquote>
+<p>Marsiling's <strong>Active Ageing Centres and Senior Activity Care Centres</strong>,
+launched in <strong>2019</strong>, are dedicated to promoting active, healthy,
+and independent lives for our seniors.</p>
+</blockquote>
 <hr>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Enhancing Quality of Life:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wide range of activities and programmes to support active ageing.</p>
+</li>
+<li>
+<p>Social engagement opportunities to combat loneliness and isolation.</p>
+</li>
+<li>
+<p>Promotes independence and mental well-being among seniors.</p>
+</li>
+</ul>
+</li>
+</ul>
+<h4><strong>Conveniently Located Centres</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -17,7 +39,6 @@ third_nav_title: Welfare Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">NTUC Health Active Ageing Centre @ Blk 172</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -28,7 +49,6 @@ third_nav_title: Welfare Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Care Corner AAC WL16 @ Blk 16</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 </div>
@@ -41,7 +61,6 @@ third_nav_title: Welfare Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">NTUC Health Active Ageing Centre @ Blk 180A</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -52,14 +71,56 @@ third_nav_title: Welfare Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sunlove Active Ageing Centre @ Marsiling at Blk 3</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 </div>
 <p></p>
-<h2><strong>Community Health Posts &amp; Health Screening</strong></h2>
+<h2><strong>Marsiling Health Posts: Putting Community Health First</strong></h2>
+<blockquote>
+<p>Marsiling’s <strong>Community Health Posts</strong>, in collaboration with
+Woodlands Health, NTUC Health, MSD, and other key partners, ensure residents
+have convenient and free access to vital preventative healthcare.</p>
+</blockquote>
 <hr>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Health Screenings &amp; Checks (2018–2024):</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Over <strong>2,000 seniors</strong> benefited from Functional Health Screenings.</p>
+</li>
+<li>
+<p>Free renal screenings and bone density scans provided through partnerships
+(e.g., 1doc).</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Special Health Initiatives for Seniors:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Pneumonia vaccinations</strong> and innovative <strong>digital therapy programmes</strong> reached
+over <strong>1,000 seniors</strong> in 2022.</p>
+</li>
+<li>
+<p>Post-Covid health management programmes, including early-stage cognitive
+decline detection.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Educational Health Talks:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Regular sessions to empower residents with knowledge about personal health
+and proactive wellness.</p>
+</li>
+</ul>
+</li>
+</ul>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -69,7 +130,6 @@ third_nav_title: Welfare Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">NTUC Health Screening</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -80,35 +140,59 @@ third_nav_title: Welfare Matters
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Live the Life</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 </div>
 <p></p>
-<h2><strong>Free TCM Services</strong></h2>
+<h2><strong>Free TCM Care at Marsiling: Ensuring Affordable Access to Quality Holistic Care</strong></h2>
+<blockquote>
+<p>Marsiling partners with Sian Chay Medical Institution at Blk 1 Marsiling
+Drive to offer free Traditional Chinese Medicine (TCM) services to residents
+in rental flats, ensuring healthcare remains accessible regardless of financial
+circumstances.</p>
+</blockquote>
 <hr>
-<p></p>
+<p><strong>Affordable and Accessible Care:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Free TCM consultations, subsidised medicine, acupuncture, and tuina therapy.</p>
+</li>
+<li>
+<p>Open to all residents, regardless of race or religion.</p>
+</li>
+</ul>
+<p><strong>Strong Community Impact:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Serving Marsiling since August 2020, extending Sian Chay’s commitment
+since 2017.</p>
+</li>
+<li>
+<p>Supports holistic well-being and helps residents maintain good health
+without financial stress.</p>
+</li>
+</ul>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Free_TCM_Services_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="TCM Care" src="/images/Free_TCM_Services_1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">TCM Care</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Free_TCM_Services_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="TCM Care" src="/images/Free_TCM_Services_2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">TCM Care</div>
 </div>
 </div>
 </div>
@@ -116,23 +200,21 @@ third_nav_title: Welfare Matters
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Free_TCM_Services_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="TCM Care" src="/images/Free_TCM_Services_3.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">TCM Care</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Free_TCM_Services_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="TCM Care" src="/images/Free_TCM_Services_4.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">TCM Care</div>
 </div>
 </div>
 </div>
