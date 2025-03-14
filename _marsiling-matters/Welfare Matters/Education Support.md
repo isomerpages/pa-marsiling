@@ -158,11 +158,11 @@ programmes, focusing on:</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Christmas with Comlink+ Kids" src="/images/hero-banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="Glyph Community's annual Glyphmas Party" src="/images/Welfare Matters/480703899_1174415617374552_887365151813610883_n.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Christmas with Comlink+ Kids</div>
+<div class="isomer-card-title">Glyph Community's annual Glyphmas Party</div>
 </div>
 </div>
 </div>
@@ -180,11 +180,11 @@ programmes, focusing on:</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Test" src="/images/hero-banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="Artist Impression of Comlink+ Containers" src="/images/Welfare Matters/WhatsApp_Image_2025_02_26_at_9_03_11_PM.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Test</div>
+<div class="isomer-card-title">Artist Impression of Comlink+ Containers</div>
 </div>
 </div>
 </div>
