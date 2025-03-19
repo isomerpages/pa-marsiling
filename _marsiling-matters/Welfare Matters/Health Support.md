@@ -253,7 +253,7 @@ essential mobility aids regardless of their circumstances:</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Free Wheelchair Loans" src="/images/WhatsApp_Image_2025_03_10_at_3_38_12_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Free Wheelchair Loans" src="/images/Welfare Matters/WhatsApp_Image_2025_03_10_at_3_42_25_PM.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
