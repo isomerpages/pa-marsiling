@@ -56,7 +56,7 @@ and independent lives for our seniors.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NTUC Health Active Ageing Centre @ Blk 180A" src="/images/Estate Development/NTUC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="NTUC Health Active Ageing Centre @ Blk 180A" src="/images/Welfare Matters/WhatsApp_Image_2025_03_27_at_09_31_02_f8b7ea8f.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
