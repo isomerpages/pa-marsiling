@@ -2,5 +2,6 @@ collections:
   my-home:
     output: true
     order:
+      - "The New Community Club: Bright Future for Marsiling.md"
       - Remaking Our Heartland (ROH) Initiative.md
       - Marsiling Our Home.md
