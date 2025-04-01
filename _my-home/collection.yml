@@ -2,6 +2,7 @@ collections:
   my-home:
     output: true
     order:
+      - Neighbourhood Renewal Programme (NRP) Updates.md
       - "Arcadia Park Revitalization: A Brighter, Healthier Community Space.md"
       - "Social Corridor @ Woodlands: A New Hub for Play & Fitness.md"
       - Accelerating Green Mobility in Marsiling.md
