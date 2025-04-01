@@ -1,4 +1,5 @@
 collections:
   my-home:
     output: true
-    order: []
+    order:
+      - Marsiling Our Home.md
