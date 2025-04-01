@@ -2,4 +2,5 @@ collections:
   my-home:
     output: true
     order:
+      - Remaking Our Heartland (ROH) Initiative.md
       - Marsiling Our Home.md
