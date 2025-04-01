@@ -2,6 +2,7 @@ collections:
   my-home:
     output: true
     order:
+      - "Rapid Transit System (RTS): A New Era of Cross Border Convenience.md"
       - "Silver Zone Enhancement: A Safer, More Inclusive Space for Seniors.md"
       - "HIP for Marsiling Rise: Safer, Better Homes for Over 3,000 Families.md"
       - Neighbourhood Renewal Programme (NRP) Updates.md
