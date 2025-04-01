@@ -2,6 +2,7 @@ collections:
   my-home:
     output: true
     order:
+      - CIPC Delivers 34 New Amenities for a More Caring, Inclusive Living.md
       - Energizing Our Town with New Cycling Paths.md
       - Repair and Redecoration (R&R).md
       - Major Connectivity Boost in Marsiling.md
