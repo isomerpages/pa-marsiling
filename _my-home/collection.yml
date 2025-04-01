@@ -1,0 +1,4 @@
+collections:
+  my-home:
+    output: true
+    order: []
