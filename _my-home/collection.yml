@@ -2,6 +2,7 @@ collections:
   my-home:
     output: true
     order:
+      - Repair and Redecoration (R&R).md
       - Major Connectivity Boost in Marsiling.md
       - "The New Community Club: Bright Future for Marsiling.md"
       - Remaking Our Heartland (ROH) Initiative.md
