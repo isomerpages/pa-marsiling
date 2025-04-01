@@ -25,7 +25,7 @@ of affordable, heartland meals</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Marsiling Market" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Marsiling Market" src="/images/Estate Development/Marsiling_Market_After.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -35,7 +35,7 @@ of affordable, heartland meals</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Marsiling Hawker Centre" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Marsiling Hawker Centre" src="/images/Estate Development/Marsiling_Hawker_Center_Before.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -82,21 +82,21 @@ more dining, shopping, and entertainment choices</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Marsiling Mall" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Causeway Point" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Marsiling Mall</div>
+<div class="isomer-card-title">Causeway Point</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Marsiling Mall" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Woods Square" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Marsiling Mall</div>
+<div class="isomer-card-title">Woods Square</div>
 </div>
 </div>
 </div>
@@ -112,7 +112,7 @@ Integrated Transport Hub (WITH) enables faster travel</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bus Interchange" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Bus Interchange" src="/images/Estate Development/Copy_of__MG_7878.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -122,7 +122,7 @@ Integrated Transport Hub (WITH) enables faster travel</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Woodlands Station" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Woodlands Station" src="/images/Estate Development/TEL.png">
 </div>
 </div>
 <div class="isomer-card-body">
