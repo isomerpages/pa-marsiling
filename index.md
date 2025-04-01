@@ -16,13 +16,13 @@ sections:
       title: "Marsiling: Our Community, Our Home"
       variant: center
       key_highlights:
-        - title: Estate
+        - title: My Home
           description: ""
           url: /estate-matters/upgrades-coming-your-way/
-        - title: Welfare
+        - title: My Heart
           description: ""
           url: /welfare-matters/
-        - title: Course & Activities
+        - title: My Hope
           description: ""
           url: /highlights/
   - infopic:
