@@ -2,6 +2,7 @@ collections:
   my-home:
     output: true
     order:
+      - "Social Corridor @ Woodlands: A New Hub for Play & Fitness.md"
       - Accelerating Green Mobility in Marsiling.md
       - "Elevating Our Community: New Lifts Coming 2026 & 2027.md"
       - CIPC Delivers 34 New Amenities for a More Caring, Inclusive Living.md
