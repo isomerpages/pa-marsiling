@@ -2,14 +2,16 @@ logo: /images/Marsiling_Logo.png
 links:
   - title: Home
     url: /
-  - title: Courses & Activities
-    url: /highlights/
+  - title: My Home
+    url: /estate-matters/upgrades-coming-your-way/
     sublinks:
-      - title: Highlights
-        url: /highlights/
-      - title: Courses & Activities
-        url: /highlights/course-activities/cultural/
-  - title: Welfare Matters
+      - title: Future Projects
+        url: /estate-matters/future-projects/
+      - title: Upgrades Coming Your Way!
+        url: /estate-matters/upgrades-coming-your-way/
+      - title: Completed Projects
+        url: /estate-matters/completed-projects/
+  - title: My Heart
     url: /welfare-matters/
     sublinks:
       - title: Health Support
@@ -20,14 +22,12 @@ links:
         url: /welfare-matters/education-support/
       - title: Food Support
         url: /welfare-matters/food-support/
-  - title: Estate Matters
-    url: /estate-matters/upgrades-coming-your-way/
+  - title: My Hope
+    url: /highlights/
     sublinks:
-      - title: Future Projects
-        url: /estate-matters/future-projects/
-      - title: Upgrades Coming Your Way!
-        url: /estate-matters/upgrades-coming-your-way/
-      - title: Completed Projects
-        url: /estate-matters/completed-projects/
+      - title: Highlights
+        url: /highlights/
+      - title: Courses & Activities
+        url: /highlights/course-activities/cultural/
   - title: About Us
     collection: about-us
