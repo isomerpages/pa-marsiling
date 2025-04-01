@@ -11,6 +11,8 @@ links:
         url: /estate-matters/upgrades-coming-your-way/
       - title: Completed Projects
         url: /estate-matters/completed-projects/
+  - title: My Home
+    collection: my-home
   - title: My Heart
     url: /welfare-matters/
     sublinks:
