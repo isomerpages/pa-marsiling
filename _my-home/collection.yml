@@ -2,6 +2,7 @@ collections:
   my-home:
     output: true
     order:
+      - "HIP for Marsiling Rise: Safer, Better Homes for Over 3,000 Families.md"
       - Neighbourhood Renewal Programme (NRP) Updates.md
       - "Arcadia Park Revitalization: A Brighter, Healthier Community Space.md"
       - "Social Corridor @ Woodlands: A New Hub for Play & Fitness.md"
