@@ -2,6 +2,7 @@ collections:
   my-home:
     output: true
     order:
+      - "Better Journeys Ahead: Woodlands Checkpoint Redevelopment.md"
       - Advancing Healthcare in Woodlands.md
       - "Exciting Bus Service Upgrades: Faster, Easier Travel Around Our
         Marsiling Home.md"
