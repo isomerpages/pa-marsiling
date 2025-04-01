@@ -141,7 +141,7 @@ each way</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Rapid Transit System" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Rapid Transit System" src="/images/Estate Development/Artist_s_Impression_for_RTS_Link_of_Woodlands_North_Station__Entrance_A_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -151,7 +151,7 @@ each way</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Rapid Transit System" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Rapid Transit System" src="/images/Estate Development/Copy_of_Artist_s_Impression_for_RTS_Link_of_Woodlands_North_Station__Entrance_B_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -169,7 +169,7 @@ clearance to about 20 minutes</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Woodlands Checkpoint Expansion" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Woodlands Checkpoint Expansion" src="/images/Estate Development/Untitled_2_02.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -179,7 +179,7 @@ clearance to about 20 minutes</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Woodlands Checkpoint Expansion" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Woodlands Checkpoint Expansion" src="/images/Artist_Impression_of_Woodlands_Checkpoint_Phase_1_Extension.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -199,7 +199,7 @@ including the National Library, ServiceSG Centre, SSO, CDC, HDB, and CPF</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Woodlands Civic Centre" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Woodlands Civic Centre" src="/images/Estate Development/Screenshot_2025_04_01_230101.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -209,7 +209,7 @@ including the National Library, ServiceSG Centre, SSO, CDC, HDB, and CPF</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Woodlands Civic Centre" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Woodlands Civic Centre" src="/images/Estate Development/Screenshot_2025_04_01_230038.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -229,7 +229,7 @@ Mall, and Fuchun Neighbourhood Centre</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Marsiling Hawker Centre" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Marsiling Hawker Centre" src="/images/Estate Development/Marsiling_Hawker_Center_After.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -239,7 +239,7 @@ Mall, and Fuchun Neighbourhood Centre</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Marsiling Mall" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Marsiling Mall" src="/images/Estate Development/Marsiling_Mall__1_.png">
 </div>
 </div>
 <div class="isomer-card-body">
