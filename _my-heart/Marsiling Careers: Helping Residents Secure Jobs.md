@@ -54,11 +54,11 @@ skills and confidence.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="M3 FA4" src="/images/Copy_of_M3_FA4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="M³  FA4" src="/images/Copy_of_M3_FA4.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">M3 FA4</div>
+<div class="isomer-card-title">M³ FA4</div>
 </div>
 </div>
 <div class="isomer-card">
