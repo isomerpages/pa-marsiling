@@ -18,7 +18,7 @@ sections:
       key_highlights:
         - title: My Home
           description: ""
-          url: /estate-matters/upgrades-coming-your-way/
+          url: /my-home/marsiling-our-home/
         - title: My Heart
           description: ""
           url: /welfare-matters/
