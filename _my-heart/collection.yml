@@ -1,0 +1,4 @@
+collections:
+  my-heart:
+    output: true
+    order: []
