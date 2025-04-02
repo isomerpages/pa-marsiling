@@ -2,6 +2,7 @@ collections:
   my-heart:
     output: true
     order:
+      - "Marsiling's New Residents' Corners: Inclusive Spaces for All.md"
       - "Marsiling Urban Farms: Growing Fresh, Sustainable Food Together.md"
       - "Marsiling Yew Tee Gives: Compassion in Action for Gaza.md"
       - "MY Marsiling $1 Deal: Easing Your Cost of Living.md"
