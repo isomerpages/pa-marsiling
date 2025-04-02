@@ -2,4 +2,5 @@ collections:
   my-hope:
     output: true
     order:
+      - "Marsiling: Performing Arts & Culture Hub of the North!.md"
       - "Marsiling Heartbeat: Exciting, United & Full of Life!.md"
