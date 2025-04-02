@@ -50,7 +50,7 @@ and the YMCA in Zone 5</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Happy PCF Kids" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Happy PCF Kids" src="/images/Estate Development/Copy_of_DPP_0014.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -60,7 +60,7 @@ and the YMCA in Zone 5</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ND Carnival pre schools" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="ND Carnival pre schools" src="/images/Estate Development/SYN_0255.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -72,7 +72,7 @@ and the YMCA in Zone 5</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tree planting by NTUC Kids" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Tree planting by NTUC Kids" src="/images/Estate Development/KV1_062.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -82,7 +82,7 @@ and the YMCA in Zone 5</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Z10 Tree Planting Day" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Z10 Tree Planting Day" src="/images/Estate Development/IMG_20250208_WA0028.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
