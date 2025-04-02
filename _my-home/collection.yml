@@ -2,6 +2,7 @@ collections:
   my-home:
     output: true
     order:
+      - "A Vibrant Transformation: 5221 New BTO Homes.md"
       - "Better Journeys Ahead: Woodlands Checkpoint Redevelopment.md"
       - Advancing Healthcare in Woodlands.md
       - "Exciting Bus Service Upgrades: Faster, Easier Travel Around Our
