@@ -8,5 +8,32 @@ links:
     collection: my-heart
   - title: My-Hope
     collection: my-hope
+  - title: My Home
+    url: /my-home/marsiling-our-home/
+    sublinks:
+      - title: Marsiling Our Home
+        url: /my-home/marsiling-our-home/
+      - title: Remaking Our Heartland
+        url: /my-home/remaking-our-heartland-roh-initiative/
+      - title: The New Community Club
+        url: /my-home/the-new-community-club-bright-future-for-marsiling/
+  - title: My Heart
+    url: /my-heart/marsiling-cares-supporting-over-2-500-families-every-month/
+    sublinks:
+      - title: Marsiling Cares
+        url: /my-heart/marsiling-cares-supporting-over-2-500-families-every-month/
+      - title: Marsiling Student Celebration
+        url: /my-heart/celebrating-supporting-marsiling-students-brighter-futures-ahead/
+      - title: Marsiling ComLink+
+        url: /my-heart/comlink-plus-empowering-marsiling-families-transforming-lives/
+  - title: My Hope
+    url: /my-hope/marsiling-heartbeat-exciting-united-full-of-life/
+    sublinks:
+      - title: Marsiling Heartbeat
+        url: /my-hope/marsiling-heartbeat-exciting-united-full-of-life/
+      - title: Performing Arts & Culture Hub
+        url: /my-hope/marsiling-performing-arts-culture-hub-of-the-north/
+      - title: Marsiling Kampung Spirit
+        url: /my-hope/marsiling-kampung-spirit-celebrating-unity-culture-community/
   - title: About Us
     collection: about-us
