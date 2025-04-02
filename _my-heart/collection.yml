@@ -2,4 +2,5 @@ collections:
   my-heart:
     output: true
     order:
+      - "Celebrating & Supporting Marsiling Students: Brighter Futures Ahead.md"
       - "Marsiling Cares: Supporting Over 2,500 Families Every Month.md"
