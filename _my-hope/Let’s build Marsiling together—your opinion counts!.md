@@ -29,7 +29,7 @@ closer ties within our community.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="House Visits" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="House Visits" src="/images/Welfare Matters/20221015_HV_Zone_7_Blk_215__enhanced_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -39,7 +39,7 @@ closer ties within our community.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Makan Kakis" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Makan Kakis" src="/images/Welfare Matters/Copy_of__MG_0293.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -51,7 +51,7 @@ closer ties within our community.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Voting For Amenities" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Voting For Amenities" src="/images/Welfare Matters/Copy_of_DSC02464.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
