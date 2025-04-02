@@ -78,11 +78,11 @@ the RTS to Johor.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Estate Development/TEL.png">
+<img style="width: 100%" height="auto" width="100%" alt="TEL Line 2" src="/images/Estate Development/TEL.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">TEL Line 2</div>
 </div>
 </div>
 </div>
