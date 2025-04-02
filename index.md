@@ -24,7 +24,7 @@ sections:
           url: /my-heart/marsiling-cares-supporting-over-2-500-families-every-month/
         - title: My Hope
           description: ""
-          url: /highlights/
+          url: /my-hope/marsiling-heartbeat-exciting-united-full-of-life/
   - infopic:
       title: Upcoming Events
       id: infopic
