@@ -13,7 +13,7 @@ sections:
   - hero:
       background: /images/home_page_hero.jpg
       url: /contact-us/
-      title: "Marsiling: Our Community, Our Home"
+      title: My Marsiling, My Future - Our Home, Our Heart, Our Hope!
       variant: center
       key_highlights:
         - title: My Home
