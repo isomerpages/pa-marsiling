@@ -3,33 +3,10 @@ links:
   - title: Home
     url: /
   - title: My Home
-    url: /estate-matters/upgrades-coming-your-way/
-    sublinks:
-      - title: Future Projects
-        url: /estate-matters/future-projects/
-      - title: Upgrades Coming Your Way!
-        url: /estate-matters/upgrades-coming-your-way/
-      - title: Completed Projects
-        url: /estate-matters/completed-projects/
-  - title: My Home
     collection: my-home
-  - title: My Heart
-    url: /welfare-matters/
-    sublinks:
-      - title: Health Support
-        url: /welfare-matters/health-support/
-      - title: Financial Support
-        url: /welfare-matters/financial-support/
-      - title: Education Support
-        url: /welfare-matters/education-support/
-      - title: Food Support
-        url: /welfare-matters/food-support/
-  - title: My Hope
-    url: /highlights/
-    sublinks:
-      - title: Highlights
-        url: /highlights/
-      - title: Courses & Activities
-        url: /highlights/course-activities/cultural/
+  - title: My-Heart
+    collection: my-heart
+  - title: My-Hope
+    collection: my-hope
   - title: About Us
     collection: about-us
