@@ -2,6 +2,7 @@ collections:
   my-heart:
     output: true
     order:
+      - "Marsiling Careers: Helping Residents Secure Jobs.md"
       - "Supporting Your Health Journey: Marsiling’s Community Physical Activity
         Programmes (CPAP).md"
       - "Free Wheelchair Loans: Helping Marsiling Residents Stay Mobile!.md"
