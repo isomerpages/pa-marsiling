@@ -1,0 +1,4 @@
+collections:
+  my-hope:
+    output: true
+    order: []
