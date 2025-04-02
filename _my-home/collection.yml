@@ -2,6 +2,8 @@ collections:
   my-home:
     output: true
     order:
+      - "Free Night Parking: Supporting a connected and family friendly
+        Marsiling.md"
       - E2i Centre.md
       - "Vital Kidney Care: NKF Dialysis Centre (Jo & Gerry Essery).md"
       - "Streamlined Travel: Woodlands Integrated Transport Hub (WITH).md"
