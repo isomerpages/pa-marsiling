@@ -2,6 +2,7 @@ collections:
   my-home:
     output: true
     order:
+      - "Expanding Pre School Options : So Every child has a Bright Start.md"
       - "A Vibrant Transformation: 5221 New BTO Homes.md"
       - "Better Journeys Ahead: Woodlands Checkpoint Redevelopment.md"
       - Advancing Healthcare in Woodlands.md
