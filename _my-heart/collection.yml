@@ -2,5 +2,6 @@ collections:
   my-heart:
     output: true
     order:
+      - "ComLink&#43: Empowering Marsiling Families &#43 Transforming Lives.md"
       - "Celebrating & Supporting Marsiling Students: Brighter Futures Ahead.md"
       - "Marsiling Cares: Supporting Over 2,500 Families Every Month.md"
