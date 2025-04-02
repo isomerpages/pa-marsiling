@@ -36,7 +36,7 @@ everyone.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Brisk Walk" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Brisk Walk" src="/images/Welfare Matters/Copy_of_2024_Dec1_155.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -46,7 +46,7 @@ everyone.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cardio (HPB)" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Cardio (HPB)" src="/images/Welfare Matters/Copy_of_WhatsApp_Image_2025_02_27_at_1_17_04_PM.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -58,7 +58,7 @@ everyone.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sepak Takraw" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Sepak Takraw" src="/images/Welfare Matters/Copy_of_Sepak_Takraw.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -68,7 +68,7 @@ everyone.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Yogalates" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Yogalates" src="/images/Welfare Matters/Copy_of_WhatsApp_Image_2025_02_27_at_12_53_14_PM.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -80,7 +80,7 @@ everyone.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Zumba" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Zumba" src="/images/Welfare Matters/IMG__14_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
