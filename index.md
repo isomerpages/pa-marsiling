@@ -33,31 +33,6 @@ sections:
       image: /images/Advisor.jpg
       alt: Image alt text
       url: /marsiling-2030-en/
-  - infopic:
-      title: 马西岭2030
-      id: infopic
-      description: 情暖社区，携手共创未来
-      button: 读悦我们基层顾问的讯息
-      image: /images/Advisor.jpg
-      alt: Image alt text
-      url: /marsiling-2030-zh/
-  - infopic:
-      title: Marsiling 2030
-      id: infopic
-      description: Sebuah Komuniti yang Peduli, Sebuah Masa Hadapan yang Kita Bentuk
-        Bersama-sama
-      button: Mesej daripada penasihat kami
-      url: /marsiling-2030-my/
-      image: /images/Advisor.jpg
-      alt: Image alt text
-  - infopic:
-      title: மார்சிலிங் 2030
-      id: infopic
-      description: அக்கறை கொண்ட ஒரு சமூகம், நாம் ஒன்றாக வடிவமைக்கும் ஒரு எதிர்காலம்
-      button: எங்கள் ஆலோசகரிடமிருந்து ஒரு செய்தி
-      url: /marsiling-2030-in/
-      alt: Image alt text
-      image: /images/Advisor.jpg
   - infobar:
       title: Our New Marsiling Community Club
       id: infobar
