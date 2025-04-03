@@ -25,19 +25,12 @@ sections:
         - title: My Hope
           description: ""
           url: /my-hope/marsiling-heartbeat-exciting-united-full-of-life/
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: <img src="../images/Advisor.jpeg">
-      button: Button Text
   - infopic:
-      title: Upcoming Events
+      title: Marsiling 2030
       id: infopic
-      description: Don’t miss out on exciting events happening in the Marsiling
-        community! Join the fun and get involved!
-      button: FInd our More
-      image: /images/events_v2.jpg
+      description: A Community that Cares, A Future We Shape Together
+      button: A message from our advisor
+      image: /images/Advisor.jpg
       alt: Image alt text
       url: /upcoming-events/northbound-fest-countdown-festival/
   - infopic:
