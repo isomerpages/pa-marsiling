@@ -1,12 +1,12 @@
 ---
 layout: homepage
-title: Marsiling Community Club - Our Hope, Our Marsiling, One Marsiling
+title: My Marsiling, My Future - Our Home, Our Heart, Our Hope!
 description: “M” is reminisce of the original logo, acknowledging the efforts
   and values of the Pioneers, and the next generation is committed to continue
   building Marsiling into the Home for all with a loving & caring Heart.
   Together, we will build a bright and vibrant future for all - Our Hope, Our
   Marsiling, One Marsiling
-image: /images/Marsiling_Logo.png
+image: /images/PA_Marsiling_Logo.png
 permalink: /
 notification: ""
 sections:
