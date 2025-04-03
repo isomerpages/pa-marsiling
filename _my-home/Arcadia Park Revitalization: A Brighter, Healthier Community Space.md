@@ -44,16 +44,6 @@ for 2Q 2025, and residents can look forward to:</p>
 <div class="isomer-card-title">New fitness station for adults and seniors</div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Convenient bicycle parking" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Convenient bicycle parking</div>
-</div>
-</div>
 </div>
 <h2></h2>
 <p></p>
