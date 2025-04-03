@@ -46,8 +46,6 @@ closer ties within our community.</p>
 <div class="isomer-card-title">Makan Kakis</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -56,16 +54,6 @@ closer ties within our community.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Voting For Amenities</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Empty Card" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Empty Card</div>
 </div>
 </div>
 </div>
