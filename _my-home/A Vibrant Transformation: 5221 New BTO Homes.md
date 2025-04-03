@@ -43,15 +43,5 @@ and fresh energy to our long-established estate. Here's what's coming:</p>
 <div class="isomer-card-title">Marsiling Peak II</div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="5" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-</div>
-</div>
 </div>
 <p></p>
