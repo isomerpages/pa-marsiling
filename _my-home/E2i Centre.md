@@ -22,15 +22,5 @@ coaching and job matching services for residents.</p>
 <div class="isomer-card-title">E2i Centre</div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="5" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-</div>
-</div>
 </div>
 <p></p>
