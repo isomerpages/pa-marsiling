@@ -73,31 +73,6 @@ for fitness enthusiasts</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Basement Supermarket" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Basement Supermarket</div>
-<div class="isomer-card-description">Complements the nearby market and serves residents throughout the day.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ground-Floor F&amp;B Outlets" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ground-Floor F&amp;B Outlets</div>
-<div class="isomer-card-description">Ideal for a casual hangout, enjoying a meal or watching everyday life
-unfold.</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Environmentally Sustainable Design" src="/images/Estate Development/Upcoming_Estate_Development.png">
 </div>
 </div>
@@ -105,17 +80,6 @@ unfold.</div>
 <div class="isomer-card-title">Environmentally Sustainable Design</div>
 <div class="isomer-card-description">Super-low energy usage, solar panels and a rooftop green garden our dedication
 to a greener future.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">New Title Card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 </div>
