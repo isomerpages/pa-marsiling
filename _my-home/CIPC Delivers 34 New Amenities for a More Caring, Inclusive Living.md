@@ -64,7 +64,7 @@ stop [Completed]</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Blk 106 Woodlands St 13: Shelter over BFA ramp [Estimated completion: Q2 2026, subject to clearance]" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 106 Woodlands St 13: Shelter over BFA ramp [Estimated completion: Q2 2026, subject to clearance]" src="/images/106WoodlandsShelter.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -80,7 +80,7 @@ Q2 2026, subject to clearance]</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Blk 35: New fitness corner [Completed]" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 35: New fitness corner [Completed]" src="/images/Blk35FitnessCorner.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -107,17 +107,6 @@ Q2 2026, subject to clearance]</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Blk 171: Upgraded playground &amp; adult fitness corner [Completed]</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Blk 119, Blk 26, Blk 160, Blk 123: Playground and fitness corner upgrades [Estimated completion: Q1 2026]" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Blk 119, Blk 26, Blk 160, Blk 123: Playground and fitness corner upgrades
-[Estimated completion: Q1 2026]</div>
 </div>
 </div>
 </div>
@@ -150,7 +139,7 @@ Q2 2026, subject to clearance]</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Drop-off porch at Blk 4" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Drop-off porch at Blk 4" src="/images/Blk_4_Drop_Off_Porch.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -160,7 +149,7 @@ Q2 2026, subject to clearance]</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Playground upgrade at Blk 25" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Playground upgrade at Blk 25" src="/images/PG_at_Blk_25___Floral_and_Garden_Theme.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -172,7 +161,7 @@ Q2 2026, subject to clearance]</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Adult fitness corner upgrade at Blk 3" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Adult fitness corner upgrade at Blk 3" src="/images/Blk_3_Fitness_Corner.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -197,7 +186,7 @@ Q2 2026, subject to clearance]</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Staircase, covered linkway, and outdoor lift between Blk 1 and Marsiling Drive [In progress]" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Staircase, covered linkway, and outdoor lift between Blk 1 and Marsiling Drive [In progress]" src="/images/Blk1Marsiling.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -208,7 +197,7 @@ Drive [In progress]</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Linkway from Blk 146 Woodlands St 13 Bus Stop to traffic light [Estimated completion: Q2 2026, subject to clearance]" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Linkway from Blk 146 Woodlands St 13 Bus Stop to traffic light [Estimated completion: Q2 2026, subject to clearance]" src="/images/Blk187ABlk146_2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
