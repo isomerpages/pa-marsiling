@@ -133,6 +133,20 @@ and more!</p>
 </div>
 </div>
 </div>
+<h4><strong>Mind and Body</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mind and Body" src="/images/Copy_of_2024_Dec1_028.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mind and Body</div>
+</div>
+</div>
+</div>
+<p></p>
 <h3><strong>Marsiling Cares Initiatives</strong></h3>
 <hr>
 <div class="isomer-card-grid">
@@ -154,6 +168,20 @@ and more!</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Marsiling Cares Initiatives</div>
+</div>
+</div>
+</div>
+<h3><strong>Arts and Leisure</strong></h3>
+<hr>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Arts and Leisure" src="/images/Copy_of_20240728_083417.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Arts and Leisure</div>
 </div>
 </div>
 </div>
