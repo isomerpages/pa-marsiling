@@ -15,7 +15,7 @@ cycling paths will begin construction in late 2025 and wrap up by end-2026.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="New Cycling Paths Connecting Towns" src="/images/Estate Development/20250226_Woodlands_Cycling_Network_Banner_Artwork_Full.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="New Cycling Paths Connecting Towns" src="/images/cycling.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
