@@ -57,6 +57,7 @@ sections:
       button: எங்கள் ஆலோசகரிடமிருந்து ஒரு செய்தி
       url: /marsiling-2030-in/
       alt: Image alt text
+      image: /images/Advisor.jpg
   - infobar:
       title: Our New Marsiling Community Club
       id: infobar
