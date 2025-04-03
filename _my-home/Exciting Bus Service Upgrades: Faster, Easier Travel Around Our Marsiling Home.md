@@ -78,7 +78,7 @@ to Woodlands Polyclinic, Marsiling MRT, and Fuchun NC.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cross-Border Services 170X &amp; 950" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Cross-Border Services 170X &amp; 950" src="/images/drive_google_com_drive_folders_1_p7WWO6h5RJiH6QfEWzFfkKaflbAHQ8c_usp_sharing_____Cross_Border_Services_170X950.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
