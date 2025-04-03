@@ -53,16 +53,6 @@ Market.</div>
 <div class="isomer-card-description">For quick, sheltered trips for market-goers on the move.</div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="1" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Empty Card</div>
-</div>
-</div>
 </div>
 <h4><strong>Connecting New BTOs &amp; Mature Estates</strong></h4>
 <div class="isomer-card-grid">
@@ -128,39 +118,6 @@ Market.</div>
 and visitors, shielding them from rain or shine.</div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="123" src="https://placehold.co/600x400">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Blank Card</div>
-</div>
-</div>
-</div>
-<p></p>
-<h4><strong>(NEW ANNOUNCEMENTS!) Potential 2025 Announcements (Subject to MND approval)</strong></h4>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Large-Scale Town-wide Project along Woodlands Ave 3" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Large-Scale Town-wide Project along Woodlands Ave 3</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LTA-Friendly Streets Linkway Connections" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">LTA-Friendly Streets Linkway Connections</div>
-</div>
-</div>
-</div>
+<h4></h4>
 <p></p>
