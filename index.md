@@ -87,4 +87,10 @@ sections:
       url: /community-overview/contact-us/
       image: /images/Logos & Others/social_media.png
       alt: Social Media Page
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: <img src="/images/Advisor.jpeg">
+      button: Button Text
 ---
