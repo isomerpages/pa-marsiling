@@ -39,16 +39,6 @@ description: Neighbourhood Renewal Programme (NRP) Updates
 <div class="isomer-card-title">Linkway from Blk 122 to 124 Marsiling Rise – Completed</div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="135" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Empty Card</div>
-</div>
-</div>
 </div>
 <p><strong>Looking Ahead (Subject to MND)</strong>
 </p>
@@ -56,7 +46,7 @@ description: Neighbourhood Renewal Programme (NRP) Updates
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="High &amp; low sheltered linkway from Blk 17 to 18 Marsiling Lane" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="High &amp; low sheltered linkway from Blk 17 to 18 Marsiling Lane" src="/images/Marsiling_18_Highlink.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -66,7 +56,7 @@ description: Neighbourhood Renewal Programme (NRP) Updates
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Potential water play area near Blk 18 Marsiling Lane" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Potential water play area near Blk 18 Marsiling Lane" src="/images/Waterplay.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
