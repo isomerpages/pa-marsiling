@@ -29,7 +29,7 @@ that improve the quality of life for kidney patients right in Marsiling</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NKF Dialysis Centre at Blk 204" src="/images/Copy_of_Copy_of_MSD_DC_Group_Photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="NKF Dialysis Centre at Blk 204" src="/images/nkf.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
