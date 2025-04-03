@@ -45,16 +45,6 @@ and scheduled for completion by:</p>
 <div class="isomer-card-title">Block 115 : 4Q 2026</div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="123" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Empty Card</div>
-</div>
-</div>
 </div>
 <h2></h2>
 <p></p>
