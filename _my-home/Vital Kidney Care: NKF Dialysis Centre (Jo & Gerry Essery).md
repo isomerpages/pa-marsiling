@@ -36,16 +36,6 @@ that improve the quality of life for kidney patients right in Marsiling</p>
 <div class="isomer-card-title">NKF Dialysis Centre at Blk 204</div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Empty Card" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Empty Card</div>
-</div>
-</div>
 </div>
 <h3></h3>
 <p></p>
