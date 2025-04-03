@@ -29,7 +29,7 @@ sections:
       title: Infobar
       subtitle: Add informational text
       id: infobar
-      description: <img src="/images/Advisor.jpeg">
+      description: <img src="../images/Advisor.jpeg">
       button: Button Text
   - infopic:
       title: Upcoming Events
