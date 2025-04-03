@@ -32,25 +32,30 @@ sections:
       button: A message from our advisor
       image: /images/Advisor.jpg
       alt: Image alt text
-      url: /upcoming-events/northbound-fest-countdown-festival/
+      url: /marsiling-2030-en/
   - infopic:
-      title: New Development
+      title: 马西岭2030
       id: infopic
-      description: Exciting changes are on the horizon! Discover the latest
-        developments within Marsiling community.
-      button: Find out more
-      image: /images/hero-banner.png
+      description: 情暖社区，携手共创未来
+      button: 读悦我们基层顾问的讯息
+      image: /images/Advisor.jpg
       alt: Image alt text
-      url: /estate-matters/upgrades-coming-your-way/
+      url: /marsiling-2030-zh/
   - infopic:
-      title: Popular Courses
+      title: Marsiling 2030
       id: infopic
-      description: Marsiling community offers you endless opportunities to pick up new
-        skills, have fun, while making new friends in the process. Come join us
-        today!
-      button: Find out More
-      url: /highlights/courses-and-activities/
-      image: /images/popular_events_v2.jpg
+      description: Sebuah Komuniti yang Peduli, Sebuah Masa Hadapan yang Kita Bentuk
+        Bersama-sama
+      button: Mesej daripada penasihat kami
+      url: /marsiling-2030-my/
+      image: /images/Advisor.jpg
+      alt: Image alt text
+  - infopic:
+      title: மார்சிலிங் 2030
+      id: infopic
+      description: அக்கறை கொண்ட ஒரு சமூகம், நாம் ஒன்றாக வடிவமைக்கும் ஒரு எதிர்காலம்
+      button: எங்கள் ஆலோசகரிடமிருந்து ஒரு செய்தி
+      url: /marsiling-2030-in/
       alt: Image alt text
   - infobar:
       title: Our New Marsiling Community Club
@@ -60,24 +65,6 @@ sections:
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/6subT9E74m4?si=eKX1TCxQfGL8K8u2"
         height="315" width="560"></iframe>
-  - infocols:
-      title: Marsiling Welfare Schemes
-      id: infocols
-      linktext: Learn more about Marsiling Care, Comlink & FFTH
-      url: /welfare-matters/
-      infoboxes:
-        - title: What we do
-          description: Zone specific Information - RN Committee, courses, interest groups,
-            free HPB classes
-        - title: Care and services for residents
-          description: Nearest facilities - (e.g. nearest RN centre, nearest AAC, address
-            of SSO office/One Stop Service Centres)
-        - title: Join Us
-          description: HIS and amenities in Marsiling (e.g. Miss Tam Chiak video that
-            profiled hawkers that were previously from the causeway)
-        - title: Workgroup sub-sites
-          description: Outreach/ events (to showcase diversity of culture),
-            estate/transport related, commlink/volunteering opportunities
   - infopic:
       title: Follow us on our social channels
       id: infopic
