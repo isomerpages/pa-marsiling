@@ -1,4 +1,5 @@
 collections:
   upcoming-events-hidden:
     output: true
-    order: []
+    order:
+      - MYBeats Music Festival 2024.md
