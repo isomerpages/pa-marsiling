@@ -2,6 +2,7 @@ collections:
   upcoming-events-hidden:
     output: true
     order:
+      - Marsiling ACWP.md
       - Gift of Love.md
       - Edusave Awards Presentation Ceremony.md
       - Edusave Awards Presentation Ceremony (Primary, Secondary & JC).md
