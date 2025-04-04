@@ -1,4 +1,5 @@
 collections:
   about-us-hidden:
     output: true
-    order: []
+    order:
+      - Volunteer with Marsiling.md
