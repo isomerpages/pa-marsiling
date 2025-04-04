@@ -2,7 +2,6 @@ collections:
   highlights:
     output: true
     order:
-      - Upcoming Events & Activities.md
       - Courses & Activities/.keep
       - Courses & Activities/Cultural.md
       - Courses & Activities/Arts & Theatre.md
