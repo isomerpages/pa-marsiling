@@ -1,0 +1,4 @@
+collections:
+  courses-and-activities-v2:
+    output: true
+    order: []
