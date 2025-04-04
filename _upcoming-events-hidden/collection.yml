@@ -2,6 +2,7 @@ collections:
   upcoming-events-hidden:
     output: true
     order:
+      - Marsiling CNY Dinner.md
       - Marsiling ACWP.md
       - Gift of Love.md
       - Edusave Awards Presentation Ceremony.md
