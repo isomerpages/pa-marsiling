@@ -12,7 +12,7 @@ third_nav_title: Courses & Activities
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Oil Painting" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Oil Painting" src="/images/2148002519.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -22,7 +22,7 @@ third_nav_title: Courses & Activities
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Trampoline Fitness (HealthierSG)" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Trampoline Fitness (HealthierSG)" src="/images/7648.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -32,7 +32,7 @@ third_nav_title: Courses & Activities
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hatha Yoga –Elementary (HealthierSG)" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Hatha Yoga –Elementary (HealthierSG)" src="/images/44679.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -42,7 +42,7 @@ third_nav_title: Courses & Activities
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dance Fit Session (WEC)" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dance Fit Session (WEC)" src="/images/1697.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
