@@ -46,7 +46,7 @@ description: Northbound-Fest Countdown Festival
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://google.com" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a>
+<p><a href="https://www.onepa.gov.sg/events/marsiling-hari-raya-open-house-2025-55092047" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a>
 </p>
 </td>
 </tr>
@@ -56,35 +56,10 @@ description: Northbound-Fest Countdown Festival
 <h3><strong>Event Overview</strong></h3>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Events/Northbound Countdown Festival/NorthboundFest_Coundown_Festival.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hari_Raya_Open_House.jpg">
 </div>
-<p>
-<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pulvinar
-sapien justo, eu dapibus ligula bibendum eget. Cras malesuada, ligula ut
-elementum viverra, erat lorem malesuada sapien, id laoreet eros orci ut
-magna. Duis tincidunt nec urna ut molestie. Nam suscipit purus lorem, ac
-bibendum nisl ornare et. Aenean id tortor sit amet ipsum semper efficitur
-rutrum id dui. Quisque vitae libero vestibulum, tempor sapien at, tincidunt
-dolor. Morbi a justo nisi. Mauris euismod pretium faucibus. Praesent metus
-neque, placerat eget ligula vel, molestie varius nunc. Curabitur justo
-libero, facilisis sed lorem id, venenatis maximus velit.</p>
-<p>Nulla tristique orci in placerat feugiat. Morbi at sollicitudin turpis.
-Donec velit urna, hendrerit in velit sollicitudin, egestas dapibus mauris.
-Donec dolor neque, aliquam et tempor id, scelerisque ut tortor. Duis convallis
-commodo massa. Quisque eget odio sed turpis hendrerit rhoncus. Vestibulum
-ac pulvinar sem. Morbi volutpat congue nisi id aliquam. Cras semper enim
-eget pharetra tristique. Pellentesque non enim tincidunt, finibus magna
-quis, efficitur justo. Vestibulum ante ipsum primis in faucibus orci luctus
-et ultrices posuere cubilia curae;</p>
-<p>
-<br>Ut blandit aliquet mauris quis ornare. Donec consectetur iaculis nunc,
-posuere iaculis dui. Ut et accumsan urna. Donec facilisis, eros ac consequat
-faucibus, massa ex laoreet nunc, nec rutrum turpis purus tristique nisl.
-Fusce sed dolor sed neque imperdiet pulvinar sed a leo. Nullam sollicitudin
-nibh ut nunc facilisis consectetur. Nullam et elit ut purus viverra egestas.
-Mauris vitae porttitor velit, eget congue enim.</p>
-<h3></h3>
 <hr>
 <h3>Check out social media posts on this event!</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
