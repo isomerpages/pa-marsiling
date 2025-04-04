@@ -2,4 +2,5 @@ collections:
   upcoming-events-hidden:
     output: true
     order:
+      - CNY 2025.md
       - MYBeats Music Festival 2024.md
