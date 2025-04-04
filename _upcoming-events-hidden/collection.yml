@@ -1,0 +1,4 @@
+collections:
+  upcoming-events-hidden:
+    output: true
+    order: []
