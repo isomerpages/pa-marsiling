@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Upcoming Events & Activities.md
-      - Courses & Activities/Children Activities.md
       - Courses & Activities/.keep
       - Courses & Activities/Cultural.md
       - Courses & Activities/Arts & Theatre.md
@@ -13,5 +12,6 @@ collections:
       - Courses & Activities/General.md
       - Courses & Activities/Others.md
       - Courses & Activities/Community Contribution.md
+      - Courses & Activities/Children Activities.md
       - Courses & Activities/Youth Activities.md
       - Courses & Activities/Senior Activities.md
