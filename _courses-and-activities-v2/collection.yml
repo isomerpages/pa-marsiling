@@ -1,4 +1,5 @@
 collections:
   courses-and-activities-v2:
     output: true
-    order: []
+    order:
+      - Upcoming Events & Activities.md
