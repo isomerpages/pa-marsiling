@@ -4,7 +4,7 @@ permalink: /upcoming-events/northbound-fest-countdown-festival/
 variant: tiptap
 description: Northbound-Fest Countdown Festival
 ---
-<h1><strong>Northbound-Fest Countdown Festival</strong></h1>
+<h1><strong>Marsiling CC</strong><br><strong>Hari Raya Open House</strong></h1>
 <p></p>
 <h4><strong>Event details</strong></h4>
 <table style="minWidth: 50px">
@@ -19,7 +19,7 @@ description: Northbound-Fest Countdown Festival
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday, 31 December 2024</p>
+<p>Saturday, 26 April 2025</p>
 </td>
 </tr>
 <tr>
@@ -28,7 +28,7 @@ description: Northbound-Fest Countdown Festival
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8PM - 12.30AM (Singapore Time / UTC +8)</p>
+<p>11.00AM - 3.00PM (Singapore Time / UTC +8)</p>
 </td>
 </tr>
 <tr>
@@ -37,8 +37,7 @@ description: Northbound-Fest Countdown Festival
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Woodlands Stadium
-<br>@ 1 Woodlands Street 13, 738597</p>
+<p>Marsiling CC</p>
 </td>
 </tr>
 <tr>
