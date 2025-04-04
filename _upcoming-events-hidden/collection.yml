@@ -2,6 +2,7 @@ collections:
   upcoming-events-hidden:
     output: true
     order:
+      - Marsiling Year End Countdown.md
       - Marsiling Overseas Workplan.md
       - Marsiling CNY Dinner.md
       - Marsiling ACWP.md
