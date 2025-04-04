@@ -2,6 +2,7 @@ collections:
   upcoming-events-hidden:
     output: true
     order:
+      - Deepavali Light Up.md
       - Deepavali Festive Gift @ Marsiling.md
       - Deeparaagam.md
       - CNY 2025.md
