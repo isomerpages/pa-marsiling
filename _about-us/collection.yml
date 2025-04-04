@@ -2,6 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - About Us.md
       - Marsiling CC.md
       - Resident's Network (Contact Us).md
