@@ -235,7 +235,6 @@ description: Resident's Network (Contact Us)
 <summary>Marsiling Zone 10 RN - Blk 310 Woodlands St31</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>310 Woodlands Street 31, #01-02, Singapore 730310
-<br><strong>Tel: 6996 1759</strong>
 <br><strong>Contact Person Email: </strong><a href="mailto:jane_fong_from.tp@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jane_fong_from.tp@pa.gov.sg</a>
 <br>
 </p>
