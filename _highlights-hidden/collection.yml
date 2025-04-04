@@ -1,0 +1,4 @@
+collections:
+  highlights-hidden:
+    output: true
+    order: []
