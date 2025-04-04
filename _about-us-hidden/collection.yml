@@ -1,0 +1,4 @@
+collections:
+  about-us-hidden:
+    output: true
+    order: []
