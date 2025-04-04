@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - About Us.md
-      - Volunteer with Marsiling.md
       - Marsiling CC.md
       - Resident's Network (Contact Us).md
