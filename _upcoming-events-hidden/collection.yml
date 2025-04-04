@@ -2,6 +2,7 @@ collections:
   upcoming-events-hidden:
     output: true
     order:
+      - Marsiling Overseas Workplan.md
       - Marsiling CNY Dinner.md
       - Marsiling ACWP.md
       - Gift of Love.md
