@@ -66,4 +66,7 @@ image: /images/Logos & Others/social_media.png
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
+<h3>Feedback Form</h3>
+<p><a href="https://form.gov.sg/67ef3ff5d8df71a3bb2634b5" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67ef3ff5d8df71a3bb2634b5</a>
+</p>
