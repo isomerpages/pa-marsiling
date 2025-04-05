@@ -55,13 +55,13 @@ image: /images/Logos & Others/social_media.png
 <p>Social Media Pages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/Marsilinghome/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Others/Instagram_Icon.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/marsilinghome"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Others/Instagram_Icon.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/MarsilingHome/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Others/Facebook_Icon.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/MarsilingHome"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Others/Facebook_Icon.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/@marsilinghome5865/featured"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Others/Youtube_Icon.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/@marsilinghome5865"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Others/Youtube_Icon.png"></a>
 </td>
 </tr>
 </tbody>
