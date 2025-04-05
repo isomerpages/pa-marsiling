@@ -46,7 +46,7 @@ sections:
       id: infopic
       description: Facebook & Instagram
       button: Click Here
-      url: /community-overview/contact-us/
+      url: /about-us/cc-contact-us/
       image: /images/Logos & Others/social_media.png
       alt: Social Media Page
 ---
