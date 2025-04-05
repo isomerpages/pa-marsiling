@@ -31,7 +31,7 @@ and abilities.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Blk 12 Marsiling Lane: Low covered linkway over existing BFA ramp to bus stop [Completed]" src="/images/Blk_12_to_180C_Marsling_Lane.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 12 Marsiling Lane: Low covered linkway over existing BFA ramp to bus stop [Completed]" src="/images/0002_Copy_of_High__Low_Covered_Linkway_from_Bus_Stop_in_front_of_Block_12_to_Bus_Stop_near_Block_180C.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -54,7 +54,7 @@ stop [Completed]</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Blk 204 Marsiling Drive: Drop-off porch with low covered linkway [Completed]" src="/images/Estate Development/113_DOP_01_20240927__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 204 Marsiling Drive: Drop-off porch with low covered linkway [Completed]" src="/images/0000_Copy_of_Marsiling_204_DOP_01_20231212.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
