@@ -262,50 +262,6 @@ Mall, and Fuchun Neighbourhood Centre</p>
 <p>Blk 187 Marsiling Grove</p>
 </li>
 </ul>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Blk 182 Marsiling Greenview" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Blk 182 Marsiling Greenview</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Blks 166–167 Woodlands Street 13" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Blks 166–167 Woodlands Street 13</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Blks 131–132 and 136 Marsiling Road" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Blks 131–132 and 136 Marsiling Road</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Blk 187 Marsiling Grove" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Blk 187 Marsiling Grove</div>
-</div>
-</div>
-</div>
 <p>Ample Recreational Spaces with Marsiling Park and Woodlands Town Park
 East offering green spaces and natural surroundings for leisure and relaxation.</p>
 <p>
