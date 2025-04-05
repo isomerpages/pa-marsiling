@@ -82,7 +82,7 @@ more dining, shopping, and entertainment choices</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Causeway Point" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Causeway Point" src="/images/Estate Development/Causeway_Point_5.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -92,7 +92,7 @@ more dining, shopping, and entertainment choices</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Woods Square" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Woods Square" src="/images/Estate Development/Woods_Square_2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
