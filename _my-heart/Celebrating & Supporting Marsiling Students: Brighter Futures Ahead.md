@@ -64,16 +64,6 @@ residents for a confident start in education.</p>
 <div class="isomer-card-title">Edusave Awards</div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Edusave Awards" src="/images/hero-banner.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Test</div>
-</div>
-</div>
 </div>
 <h2></h2>
 <p></p>
