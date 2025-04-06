@@ -207,7 +207,7 @@ nutrition workshops.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Iftar Utara @ Marsiling" src="/images/Themes/Copy_of_50b8cc44_9e3c_41b9_946f_4511dcf141e6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Iftar Utara @ Marsiling" src="/images/Cleared_iftar_utara.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
