@@ -236,7 +236,7 @@ nutrition workshops.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Hari Raya Open House</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
