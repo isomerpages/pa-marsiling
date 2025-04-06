@@ -386,7 +386,7 @@ nutrition workshops.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">CNY Lights-Up</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -411,7 +411,7 @@ nutrition workshops.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">CNY Hong Bao</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -436,7 +436,7 @@ nutrition workshops.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">CNY Dinner</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -461,7 +461,7 @@ nutrition workshops.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Christmas Gift of Love</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
