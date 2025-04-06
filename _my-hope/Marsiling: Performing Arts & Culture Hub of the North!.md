@@ -49,7 +49,7 @@ and community engagement for all residents.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Marsiling Chinese Orchestra (MCO)</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -73,7 +73,7 @@ and community engagement for all residents.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Bulan Bahasa Celebration</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
