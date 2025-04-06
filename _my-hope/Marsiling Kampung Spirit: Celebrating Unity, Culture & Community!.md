@@ -311,7 +311,7 @@ nutrition workshops.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Deepavali Parisu</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -336,7 +336,7 @@ nutrition workshops.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Deepavali Lights-Up</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -357,7 +357,7 @@ nutrition workshops.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ponggal 2023" src="/images/Themes/Copy_of_SYN_1856.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ponggal 2023" src="/images/Pongal.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
