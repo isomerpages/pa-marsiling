@@ -116,7 +116,7 @@ and more!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Health Screenings</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -167,7 +167,7 @@ and more!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Marsiling Cares Initiatives</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -206,7 +206,7 @@ and more!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Health Programme @ Woodlands Stadium</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -230,7 +230,7 @@ and more!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Brisk Walk</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -255,7 +255,7 @@ and more!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Hijrah Walk 2024</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -266,7 +266,7 @@ and more!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Zumba" src="/images/Themes/Copy_of_IMG__141_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Zumba" src="/images/Themes/Copy_of_Sports_Activities.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -276,11 +276,11 @@ and more!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Zumba" src="/images/Themes/Copy_of_Sports_Activities.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Zumba" src="/images/Themes/Copy_of_IMG__141_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Zumba</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -303,7 +303,7 @@ and more!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Yogalates</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -339,7 +339,7 @@ and more!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">K-Pop</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -348,7 +348,7 @@ and more!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cardio (HPB)" src="/images/Themes/WhatsApp_Image_2025_02_27_at_1_17_30_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Cardio (HPB)" src="/images/Themes/WhatsApp_Image_2025_02_27_at_12_52_51_PM.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -358,11 +358,11 @@ and more!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cardio (HPB)" src="/images/Themes/WhatsApp_Image_2025_02_27_at_12_52_51_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Cardio (HPB)" src="/images/Themes/WhatsApp_Image_2025_02_27_at_1_17_30_PM.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Cardio (HPB)</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
