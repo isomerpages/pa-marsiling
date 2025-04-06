@@ -186,7 +186,7 @@ nutrition workshops.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Jalinan Rahmah</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -211,7 +211,7 @@ nutrition workshops.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Iftar Utara @ Marsiling</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
