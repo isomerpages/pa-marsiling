@@ -385,7 +385,7 @@ and more!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Brisk Walk</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -423,7 +423,7 @@ and more!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Environmental Awareness Initiatives</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -446,7 +446,7 @@ and more!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">CPR and First Aid Training Sessions</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -469,7 +469,7 @@ and more!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Covid-19 Distribution</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
