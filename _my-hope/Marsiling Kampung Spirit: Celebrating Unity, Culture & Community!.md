@@ -111,7 +111,7 @@ nutrition workshops.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Seventh Month Temple Activities</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -136,7 +136,7 @@ nutrition workshops.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Navarasai Medai</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -161,7 +161,7 @@ nutrition workshops.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Muzika Extravanganza</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
