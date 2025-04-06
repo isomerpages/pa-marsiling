@@ -286,7 +286,7 @@ nutrition workshops.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Getai Night</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
