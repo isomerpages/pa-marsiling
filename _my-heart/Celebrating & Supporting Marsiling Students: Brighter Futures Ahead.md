@@ -67,7 +67,7 @@ residents for a confident start in education.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Edusave Awards" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Edusave Awards" src="/images/E0307067.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
