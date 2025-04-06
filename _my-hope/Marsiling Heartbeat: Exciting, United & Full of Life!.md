@@ -118,7 +118,7 @@ highlighting the importance of community spirit and youth development.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Family Carnival 1</div>
+<div class="isomer-card-title">Family Carnival</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -128,7 +128,7 @@ highlighting the importance of community spirit and youth development.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Family Carnival 2</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -142,7 +142,7 @@ highlighting the importance of community spirit and youth development.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">MY Countdown 2024 1</div>
+<div class="isomer-card-title">MY Countdown 2024</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -152,7 +152,7 @@ highlighting the importance of community spirit and youth development.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">MY Countdown 2024 2</div>
+<div class="isomer-card-title">MY Countdown 2024</div>
 </div>
 </div>
 </div>
