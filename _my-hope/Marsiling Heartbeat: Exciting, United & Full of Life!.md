@@ -92,7 +92,7 @@ highlighting the importance of community spirit and youth development.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Copy_of_Marsiling_National_Day_Dinner_205.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="National Day Dinner" src="/images/Copy_of_Copy_of_Marsiling_National_Day_Dinner_205.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
