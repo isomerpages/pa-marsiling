@@ -510,7 +510,7 @@ nutrition workshops.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Bazaria @ Marsiling</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
