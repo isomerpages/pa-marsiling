@@ -86,7 +86,7 @@ programmes, focusing on:</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Glyph Community's annual Glyphmas Party" src="/images/Welfare Matters/480703899_1174415617374552_887365151813610883_n.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Glyph Community's annual Glyphmas Party" src="/images/Glyph.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
