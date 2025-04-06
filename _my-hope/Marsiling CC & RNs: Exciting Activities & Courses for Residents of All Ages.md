@@ -492,7 +492,7 @@ and more!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Vaccination at CC during Covid</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
