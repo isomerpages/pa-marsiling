@@ -42,7 +42,7 @@ stop [Completed]</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Blk 148: Barrier-free access ramp [Completed]" src="/images/0001_Copy_of_IDF_Rendering_C1E3B4BC__2__Blk_106_BFA_ramp__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 148: Barrier-free access ramp [Completed]" src="/images/blk_148.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
