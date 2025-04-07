@@ -272,7 +272,7 @@ nutrition workshops.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Getai Night" src="/images/Themes/Copy_of__MG_5279.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Getai Night" src="/images/getai_night.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -282,7 +282,7 @@ nutrition workshops.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Getai Night" src="/images/Themes/Copy_of__MG_5265.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Getai Night" src="/images/Themes/Copy_of__MG_5279.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
