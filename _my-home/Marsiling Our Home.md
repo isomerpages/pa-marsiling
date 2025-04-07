@@ -294,21 +294,21 @@ East offering green spaces and natural surroundings for leisure and relaxation.<
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Blks 131–132 Marsiling Road" src="/images/131_and_132.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Blks 131–132 and 136 Marsiling Road" src="/images/blk_136.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Blks 131–132 Marsiling Road</div>
+<div class="isomer-card-title">Blks 131–132 and 136 Marsiling Road</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Blks 166–167 Woodlands Street 13" src="/images/166_167.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Blk 187 Marsiling Grove" src="/images/Marsiling_Grove__3_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Blks 166–167 Woodlands Street 13</div>
+<div class="isomer-card-title">Blk 187 Marsiling Grove</div>
 </div>
 </div>
 </div>
