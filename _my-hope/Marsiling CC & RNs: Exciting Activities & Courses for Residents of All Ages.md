@@ -125,7 +125,7 @@ and more!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Exercise Programmes for Seniors" src="/images/ihh.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Exercise Programmes for Seniors" src="/images/ihh_v2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -138,7 +138,7 @@ and more!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mind and Body" src="/images/mind_body.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mind and Body" src="/images/mind_body_v2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
