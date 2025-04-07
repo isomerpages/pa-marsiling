@@ -59,7 +59,7 @@ and community engagement for all residents.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bulan Bahasa" src="/images/IMG__66_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Bulan Bahasa" src="/images/IMG__36_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -69,7 +69,7 @@ and community engagement for all residents.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bulan Bahasa Celebration" src="/images/IMG__65_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Bulan Bahasa Celebration" src="/images/IMG__25_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
