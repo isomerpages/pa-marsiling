@@ -335,9 +335,7 @@ nutrition workshops.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Deepavali Lights-Up" src="/images/IMG__160_.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
+<div class="isomer-card-body"></div>
 </div>
 </div>
 <p></p>
@@ -385,7 +383,9 @@ nutrition workshops.</p>
 <img style="width: 100%" height="auto" width="100%" alt="CNY Lights-Up" src="/images/Themes/DPP_0291.jpg">
 </div>
 </div>
-<div class="isomer-card-body"></div>
+<div class="isomer-card-body">
+<div class="isomer-card-link"></div>
+</div>
 </div>
 </div>
 <p></p>
