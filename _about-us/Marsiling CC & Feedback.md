@@ -46,7 +46,7 @@ image: /images/Logos & Others/social_media.png
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="3">
-<p><a href="mailto:PA_MARSILINGCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_MARSILINGCC@pa.gov.sg</a>
+<p>Drop us an email to <a href="mailto:PA_MARSILINGCC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PA_MARSILINGCC@pa.gov.sg</a>
 </p>
 </td>
 </tr>
