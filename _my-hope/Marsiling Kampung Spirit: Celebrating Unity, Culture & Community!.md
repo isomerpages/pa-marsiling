@@ -247,7 +247,7 @@ nutrition workshops.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hari Raya Lights-Up" src="/images/Themes/IMG__76_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Hari Raya Lights-Up" src="/images/hari_raya_light_up.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -297,7 +297,7 @@ nutrition workshops.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Deepavali Parisu" src="/images/Themes/IMG__31_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Deepavali Parisu" src="/images/Themes/IMG__27_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -307,7 +307,7 @@ nutrition workshops.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Deepavali Parisu" src="/images/Themes/IMG__27_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Deepavali Parisu" src="/images/Themes/IMG__31_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -385,9 +385,7 @@ nutrition workshops.</p>
 <img style="width: 100%" height="auto" width="100%" alt="CNY Lights-Up" src="/images/Themes/DPP_0291.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
+<div class="isomer-card-body"></div>
 </div>
 </div>
 <p></p>
