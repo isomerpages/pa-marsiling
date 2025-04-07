@@ -247,7 +247,8 @@ Mall, and Fuchun Neighbourhood Centre</p>
 </div>
 </div>
 </div>
-<p>More Neighbourhood Centres for Everyday Essentials Within Reach</p>
+<p><strong>More Neighbourhood Centres for Everyday Essentials Within Reach</strong>
+</p>
 <ul>
 <li>
 <p>Blk 182 Marsiling Greenview</p>
@@ -262,8 +263,6 @@ Mall, and Fuchun Neighbourhood Centre</p>
 <p>Blk 187 Marsiling Grove</p>
 </li>
 </ul>
-<p>Ample Recreational Spaces with Marsiling Park and Woodlands Town Park
-East offering green spaces and natural surroundings for leisure and relaxation.</p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -313,5 +312,6 @@ East offering green spaces and natural surroundings for leisure and relaxation.<
 </div>
 </div>
 <p></p>
-<p></p>
+<p>Ample Recreational Spaces with Marsiling Park and Woodlands Town Park
+East offering green spaces and natural surroundings for leisure and relaxation.</p>
 <p></p>
