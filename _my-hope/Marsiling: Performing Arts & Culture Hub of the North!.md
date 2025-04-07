@@ -35,7 +35,7 @@ and community engagement for all residents.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Marsiling Chinese Orchestra (MCO)" src="/images/Copy_of_Photo_21_7_24__9_42_22_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Marsiling Chinese Orchestra (MCO)" src="/images/MCO_Screenshot.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -45,7 +45,7 @@ and community engagement for all residents.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Marsiling Chinese Orchestra (MCO) 2" src="/images/Copy_of_ST5_9118.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Marsiling Chinese Orchestra (MCO) 2" src="/images/MCO_screenshot_2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
