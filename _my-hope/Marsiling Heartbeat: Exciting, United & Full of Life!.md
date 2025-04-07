@@ -68,7 +68,7 @@ highlighting the importance of community spirit and youth development.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Rolling Good Times" src="/images/WhatsApp_Image_2025_03_01_at_12_06_40_PM__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Rolling Good Times" src="/images/rolling1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -78,7 +78,7 @@ highlighting the importance of community spirit and youth development.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Rolling Good Times" src="/images/WhatsApp_Image_2025_03_01_at_12_06_40_PM__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Rolling Good Times" src="/images/rolling2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
