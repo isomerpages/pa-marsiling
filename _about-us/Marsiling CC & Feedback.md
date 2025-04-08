@@ -35,10 +35,20 @@ image: /images/Logos & Others/social_media.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Operating Hours</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><strong>Mon - Sun</strong>:&nbsp;10.00am - 6.00pm
+<br>Closed on Public Holidays</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Telephone</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>62696768</p>
+<p><a href="tel:+6562696768" rel="noopener nofollow" target="_blank">+65 62696768</a>
+</p>
 </td>
 </tr>
 <tr>
