@@ -60,7 +60,7 @@ heroes.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Handing out meals</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
