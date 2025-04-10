@@ -1,0 +1,24 @@
+collections:
+  themes:
+    output: true
+    order:
+      - Cultural/.keep
+      - Cultural/Oil Painting @ Marsiling CC.md
+      - Arts & Theatre/.keep
+      - Arts & Theatre/Performing Arts Hub of the North.md
+      - Sports/.keep
+      - Sports/Rhythmic Gymnastics.md
+      - Culinary/.keep
+      - Enrichment/.keep
+      - General/.keep
+      - General/Exciting Activity and Course Offerings for Residents of all
+        Ages.md
+      - General/Kampung Spirit and Communal Bonds.md
+      - Others/.keep
+      - Community Contributions/.keep
+      - Community Contributions/Gaza in crisis.md
+      - Community Contributions/Infaq Kasih.md
+      - Community Contributions/Marsiling Urban Farms.md
+      - Youth Activities/.keep
+      - Senior Activities/.keep
+      - Senior Activities/Feeling the Marsiling Heartbeat.md

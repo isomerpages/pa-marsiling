@@ -1,0 +1,6 @@
+collections:
+  hidden:
+    output: true
+    order:
+      - Upgrades Coming Your Way!.md
+      - R&R Stuff.md

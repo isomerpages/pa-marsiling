@@ -1,0 +1,5 @@
+collections:
+  upcoming-events:
+    output: true
+    order:
+      - Marsiling CC Hari Raya Open House.md

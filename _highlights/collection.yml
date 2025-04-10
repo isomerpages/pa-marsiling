@@ -1,0 +1,16 @@
+collections:
+  highlights:
+    output: true
+    order:
+      - Courses & Activities/.keep
+      - Courses & Activities/Cultural.md
+      - Courses & Activities/Arts & Theatre.md
+      - Courses & Activities/Sports.md
+      - Courses & Activities/Culinary.md
+      - Courses & Activities/Enrichment.md
+      - Courses & Activities/General.md
+      - Courses & Activities/Others.md
+      - Courses & Activities/Community Contribution.md
+      - Courses & Activities/Children Activities.md
+      - Courses & Activities/Youth Activities.md
+      - Courses & Activities/Senior Activities.md

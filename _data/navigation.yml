@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/PA_Marsiling_Logo_v4.png
 links:
+  - title: Home
+    url: /
+  - title: My Home
+    collection: my-home
+  - title: My Heart
+    collection: my-heart
+  - title: My Hope
+    collection: my-hope
+  - title: Courses & Activities
+    collection: courses-and-activities-v2
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    collection: about-us

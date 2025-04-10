@@ -1,0 +1,6 @@
+collections:
+  about-us-hidden:
+    output: true
+    order:
+      - About Us.md
+      - Volunteer with Marsiling.md
