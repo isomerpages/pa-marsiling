@@ -112,7 +112,7 @@ Integrated Transport Hub (WITH) enables faster travel</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bus Interchange" src="/images/Estate Development/Copy_of__MG_7878.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Bus Interchange" src="/images/R6_281.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
