@@ -27,7 +27,7 @@ the world.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MYT Gives 14 Nov 24" src="/images/Copy_of_IMG__72_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="MYT Gives 14 Nov 24" src="/images/MYT_Gives_Cheque_Presentation.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
