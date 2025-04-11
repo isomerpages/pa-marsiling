@@ -45,7 +45,7 @@ residents for a confident start in education.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Edusave, Marsiling Bursary &amp; Ready-for-School" src="/images/MG_2543.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Edusave, Marsiling Bursary &amp; Ready-for-School" src="/images/IMG__100_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
