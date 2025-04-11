@@ -122,7 +122,7 @@ Integrated Transport Hub (WITH) enables faster travel</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Woodlands Station" src="/images/Estate Development/TEL.png">
+<img style="width: 100%" height="auto" width="100%" alt="Woodlands Station" src="/images/Woodlands_MRT.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
