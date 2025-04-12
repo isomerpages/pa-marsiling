@@ -34,12 +34,12 @@ sections:
       alt: Image alt text
       url: /marsiling-2030-en/
   - infobar:
-      title: Our New Marsiling Community Club
+      title: Marsiling 2025
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/6subT9E74m4?si=eKX1TCxQfGL8K8u2"
+        src="https://www.youtube.com/embed/CxBsguZ1C9o?si=8DC9zI2cHqwjLRNq"
         height="315" width="560"></iframe>
   - infopic:
       title: Follow us on our social channels
