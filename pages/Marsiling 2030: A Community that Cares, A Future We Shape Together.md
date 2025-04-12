@@ -8,24 +8,46 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Advisor.jpg">
 </div>
-<p>Dear Marsiling Residents,</p>
-<p>Marsiling is more than just where we live – it’s a home we build together.
-Over the past five years, we’ve worked alongside you to enhance our estate
-and strengthen our community spirit.</p>
-<p>Thanks to your feedback, we’ve refreshed our neighbourhood with Repair
-&amp; Redecoration (R&amp;R) for all blocks and introduced 34 new amenities,
-including sheltered linkways, drop-off porches, playgrounds and fitness
-corners. Key developments like the Thomson-East Coast Line (TEL), Woodlands
-Health Campus, the upgraded Marsiling Market &amp; Hawker Centre, and the
-Lift Upgrading Programme (LUP) have made our town more vibrant and connected.</p>
-<p>Looking ahead, the Marsiling 2030 Masterplan brings even more improvements:
-a new Marsiling Community Club, 8 new high linkways, a 16km cycling path,
-more EV chargers, and new social programmes to bring families and friends
-closer together.</p>
-<p>Most importantly, Marsiling thrives because of you – your ideas, feedback,
-and community spirit. Let’s continue shaping a caring, connected and future-ready
-Marsiling together.</p>
-<p>Thank you for being part of this journey!</p>
+<p>Dear Friends,</p>
+<p>Welcome to Marsiling—a neighborhood where community, heritage, and progress
+come together to create a home we can all be proud of. It is my honour
+to walk this journey with you, shaping a Marsiling that is not just a place
+to live, but a caring, united community where everyone feels valued.</p>
+<p><strong>My Marsiling – Our Home, Our Heart, Our Hope!</strong>
+<br>Over the past five years, we’ve listened, partnered, and transformed Marsiling
+together. Thanks to our residents’ feedback and support, we’ve refreshed
+our estate for the future—completing Repairs &amp; Redecoration (R&amp;R)
+across all blocks, adding 34 new amenities like high-linkways and drop-off
+porches, and upgrading key spaces through the Lift Upgrading Programme
+(LUP).</p>
+<p>From the Thomson-East Coast Line improving connectivity to the Woodlands
+Health Campus enhancing care, and the revitalized Marsiling Market &amp;
+Hawker Centre under the Remaking Our Heartlands initiative, we’ve built
+a stronger foundation for generations to come.</p>
+<p><strong>My Home – Marsiling Renewed</strong>
+<br>Marsiling’s rapid transformation reflects our commitment to a rejuvenated
+living environment. Explore how we’ve modernized infrastructure, enhanced
+accessibility, and preserved the charm of our town—all while staying rooted
+in the kampong spirit that makes us unique.</p>
+<p><strong>My Heart – Supporting Our Community</strong>
+<br>Our strength lies in our people. Through community initiatives, social
+programs, and your inspiring ideas, we’ve fostered a culture of care and
+connection. Whether through neighborhood gatherings, support networks,
+or shared spaces, Marsiling thrives because of our community.</p>
+<p><strong>My Hope – The Marsiling Heartbeat</strong>
+<br>A vibrant future starts today. From lively events to grassroots partnerships,
+we’re nurturing a thriving Marsiling family where every resident has a
+role to play. Together, we’ll keep Marsiling’s heartbeat strong—filled
+with hope, opportunity, and shared pride.</p>
+<p>Marsiling is more than a neighborhood—it’s our home, our community, and
+our future. I invite you to explore, engage, and help us write the next
+chapter of this incredible story.</p>
+<p>Thank you for helping make Marsiling a place we all love. 🌿🏡</p>
+<p>With gratitude,</p>
+<p>Zaqy Mohamad
+<br>Adviser to Marsiling-Yew Tee GRC Grassroots Organisations</p>
+<p>P.S. Discover more about our journey under My Marsiling, My Home, My Heart,
+and My Hope—each section tells a part of our shared story!</p>
 <hr>
 <h4>马西岭2030：关爱互助的社区，携手共创未来</h4>
 <p>亲爱的马西岭居民们：</p>
