@@ -44,7 +44,7 @@ sections:
   - infopic:
       title: Follow us on our social channels
       id: infopic
-      description: Facebook & Instagram
+      description: Facebook, Instagram & YouTube
       button: Click Here
       url: /about-us/cc-contact-us/
       image: /images/Logos & Others/social_media.png
