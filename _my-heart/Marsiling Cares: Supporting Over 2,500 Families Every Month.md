@@ -44,7 +44,7 @@ repairs)</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Marsiling Cares 1" src="/images/Copy_of__MG_6709.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Marsiling Cares 1" src="/images/Cares1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -54,7 +54,7 @@ repairs)</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Marsiling Cares 2" src="/images/Copy_of_IMG_9875_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Marsiling Cares 2" src="/images/Cares2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
