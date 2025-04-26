@@ -8,7 +8,9 @@ description: “M” is reminisce of the original logo, acknowledging the effort
   Marsiling, One Marsiling
 image: /images/PA_Marsiling_Logo.png
 permalink: /
-notification: ""
+notification: Government officials will never ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       background: /images/home_page_hero.jpg
