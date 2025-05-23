@@ -31,10 +31,9 @@ sections:
   - infopic:
       title: Marsiling 2030
       id: infopic
-      description: <a href="/marsiling-2030-en/">Message from our advisor
-        </a><br><br><a target="_blank"
-        href="https://go.gov.sg/m2030masterplan">Read our Marsiling M2030
-        Plan</a>
+      description: <a href="/marsiling-2030-en/">Message from our advisor </a><br><a
+        target="_blank" href="https://go.gov.sg/m2030masterplan">Read our
+        Marsiling M2030 Plan</a>
       image: /images/Advisor.jpg
       alt: Image alt text
   - infobar:
