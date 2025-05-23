@@ -31,7 +31,9 @@ sections:
   - infopic:
       title: Marsiling 2030
       id: infopic
-      description: A Community that Cares, A Future We Shape Together
+      description: A Community that Cares, A Future We Shape Together<br> <a
+        target="_blank" href="https://go.gov.sg/m2030masterplan">Read our
+        Marsiling M2030 Plan here</a>
       button: A message from our advisor
       image: /images/Advisor.jpg
       alt: Image alt text
