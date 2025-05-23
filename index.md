@@ -31,11 +31,12 @@ sections:
   - infopic:
       title: Marsiling 2030
       id: infopic
-      description: A Community that Cares, A Future We Shape Together
-      button: A message from our advisor
+      description: <a href="/marsiling-2030-en/">Message from our advisor
+        </a><br><br><a target="_blank"
+        href="https://go.gov.sg/m2030masterplan">Read our Marsiling M2030
+        Plan</a>
       image: /images/Advisor.jpg
       alt: Image alt text
-      url: /marsiling-2030-en/
   - infobar:
       title: Marsiling 2025
       id: infobar
