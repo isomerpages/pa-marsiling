@@ -203,9 +203,9 @@ description: Resident's Network (Contact Us)
 </div>
 </details>
 <details class="isomer-details">
-<summary>Marsiling Zone 9 RN - Blk 418 Woodlands St 41</summary>
+<summary>Marsiling Zone 9 RN - Blk 185B Woodlands St 13</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>418 Woodlands Street 41, Block 418, Singapore 730418&nbsp;
+<p>185B Woodlands Street 13, Block 185B, Singapore 732185&nbsp;
 <br><strong>Tel: 68028923</strong>
 <br><strong>Contact Person Email: </strong><a href="mailto:devi_suguna_from.tp@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">devi_suguna_from.tp@pa.gov.sg</a>
 <br>
@@ -232,9 +232,9 @@ description: Resident's Network (Contact Us)
 </div>
 </details>
 <details class="isomer-details">
-<summary>Marsiling Zone 10 RN - Blk 310 Woodlands St31</summary>
+<summary>Marsiling Zone 10 RN - Blk 188B Woodlands St 13</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>310 Woodlands Street 31, #01-02, Singapore 730310
+<p>188B Woodlands Street 13, #02-671, Singapore 732188
 <br><strong>Contact Person Email: </strong><a href="mailto:jane_fong_from.tp@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jane_fong_from.tp@pa.gov.sg</a>
 <br>
 </p>
