@@ -2,5 +2,6 @@ collections:
   hidden:
     output: true
     order:
+      - About Us.md
       - Upgrades Coming Your Way!.md
       - R&R Stuff.md
