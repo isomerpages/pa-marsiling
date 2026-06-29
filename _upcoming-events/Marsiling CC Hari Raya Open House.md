@@ -47,7 +47,6 @@ image: /images/Hari_Raya_Open_House_Banner_unedited.jpg
 <h3><strong>Event Overview</strong></h3>
 <p></p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hari_Raya_Open_House.jpg">
 </div>
