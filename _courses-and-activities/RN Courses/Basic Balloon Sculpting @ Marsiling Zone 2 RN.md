@@ -68,7 +68,7 @@ image: /images/RN Courses 2024/balloon_craft_9.jpg
 <td rowspan="1" colspan="1">
 <p>Marsiling Zone 2 RN
 <br>@ 8 Marsiling Drive, #01-18 ,730008</p>
-<p></p><a class="isomer-image-wrapper" href="https://www.onepa.gov.sg/courses/basic-balloon-sculpting-c027114041"><img style="width: 100%" height="auto" width="100%" alt="sign_up" src="/images/sign_up.png"></a>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -78,13 +78,12 @@ image: /images/RN Courses 2024/balloon_craft_9.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RN Courses 2024/balloon_craft_9.jpg">
 </div>
-<p>
-<br>Balloon Sculpting has been getting more popular in Singapore these days.
-It is a must-have for event give away &amp; children's party, balloons
-are being sculpted into different shapes and sizes such as dogs, bears,
-flowers, heart, even cartoon characters and other customized sculptures.
-It is a wonderful souvenir to bring home. Balloons are commonly said to
-be a child's best friend.
+<p>more popular in Singapore these days. It is a must-have for event give
+away &amp; children's party, balloons are being
+<br>Balloon Sculpting has been getting sculpted into different shapes and
+sizes such as dogs, bears, flowers, heart, even cartoon characters and
+other customized sculptures. It is a wonderful souvenir to bring home.
+Balloons are commonly said to be a child's best friend.
 <br>
 <br>The basic balloon sculpting class is catered for those who have no twisting
 experience but interested to explore the fun of balloon sculpting &amp;

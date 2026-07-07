@@ -41,21 +41,10 @@ image: /images/Hari_Raya_Open_House_Banner_unedited.jpg
 <p>Marsiling CC</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Registration for upcoming Events (optional)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.onepa.gov.sg/events/marsiling-hari-raya-open-house-2025-55092047" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <hr>
 <h3><strong>Event Overview</strong></h3>
-<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">

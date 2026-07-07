@@ -80,7 +80,7 @@ third_nav_title: Sports
 </td>
 </tr>
 </tbody>
-</table><a class="isomer-image-wrapper" href="https://www.onepa.gov.sg/courses/rhythmic-gymnastics-c027116415"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/sign_up.png"></a>
+</table>
 <p></p>
 <hr>
 <h3><strong>Course Overview</strong></h3>
