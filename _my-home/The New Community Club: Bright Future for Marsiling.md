@@ -7,7 +7,7 @@ description: "The New Community Club: Bright Future for Marsiling"
 <h2><strong>The New Community Club: Bright Future for Marsiling</strong></h2>
 <hr>
 <blockquote>
-<p>By June 2026, a four-storey Marsiling Community Club CC will rise beside
+<p>By Q1 2027, a four-storey Marsiling Community Club CC will rise beside
 Marsiling Market and Hawker Centre—bringing arts, sports, and exciting
 activities right to our doorstep.</p>
 </blockquote>
