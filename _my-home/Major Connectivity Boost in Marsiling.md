@@ -114,8 +114,8 @@ Market.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">(New) An-Nur Mosque → Bus Stop (B46119) &amp; Underpass</div>
-<div class="isomer-card-description">Est. Completion: 1Q 2027 – that will be a welcome addition for worshippers
-and visitors, shielding them from rain or shine.</div>
+<div class="isomer-card-description">Completed Q1 2026 – that will be a welcome addition for worshippers and
+visitors, shielding them from rain or shine.</div>
 </div>
 </div>
 </div>
