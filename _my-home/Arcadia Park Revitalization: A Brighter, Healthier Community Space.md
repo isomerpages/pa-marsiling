@@ -7,9 +7,9 @@ description: "Arcadia Park Revitalization: A Brighter, Healthier Community Space
 <h2><strong>Arcadia Park Revitalization: A Brighter, Healthier Community Space</strong></h2>
 <hr>
 <blockquote>
-<p>We’re giving Arcadia Park near Blk 204 Marsiling Drive a fresh new look,
-ensuring it meets the evolving needs of our community. Completion is targeted
-for 2Q 2025, and residents can look forward to:</p>
+<p>The Arcadia Park is being rejuvenated to meet the evolving needs of residents.
+Works have commenced and completed 4Q 2025. Residents can expect new features
+such as:</p>
 </blockquote>
 <div class="isomer-card-grid">
 <div class="isomer-card">
