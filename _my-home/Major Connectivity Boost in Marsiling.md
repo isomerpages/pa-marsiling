@@ -94,12 +94,12 @@ Market.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="(NEW) MS Grove Blk 187A → Blk 146 &amp; Bus Stop" src="/images/Screenshot_2025_03_09_155054.png">
+<img style="width: 100%" height="auto" width="100%" alt="(NEW) MS Grove Blk 187A → Blk 146 &amp; Bus Stop" src="/images/High_Sheltered_Linkway.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">(NEW) MS Grove Blk 187A → Blk 146 &amp; Bus Stop</div>
-<div class="isomer-card-description">(Est. Completion: 2Q 2026) will keep you covered in any weather!</div>
+<div class="isomer-card-description">Will keep you covered in any weather!</div>
 </div>
 </div>
 </div>
