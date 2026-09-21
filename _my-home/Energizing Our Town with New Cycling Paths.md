@@ -7,7 +7,7 @@ description: Energizing Our Town with New Cycling Paths
 <h2><strong>New Cycling Paths Connecting Towns</strong></h2>
 <hr>
 <blockquote>
-<p>Get ready for <strong>a new 18km cycling path</strong> stretching from Marsiling
+<p>Get ready for <strong>a new cycling path</strong> stretching from Marsiling
 to across Woodlands town, Sembawang town and beyond! Marsiling’s expanded
 cycling paths will begin construction in late 2025 and wrap up by end-2026.</p>
 </blockquote>
