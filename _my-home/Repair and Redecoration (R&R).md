@@ -141,5 +141,18 @@ that bring our older blocks up to par with modern BTOs.</p>
 </div>
 </div>
 </div>
-<h2></h2>
+<p>[On-going] New R&amp;R at Marsiling Greenview</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New R&amp;R at Marsiling Greenview" src="/images/RnR_Marsiling_Greenview.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">New R&amp;R at Marsiling Greenview</div>
+</div>
+</div>
+</div>
 <p></p>
