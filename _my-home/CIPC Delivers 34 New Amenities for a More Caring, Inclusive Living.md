@@ -149,7 +149,7 @@ Q2 2026, subject to clearance]</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Playground upgrade at Blk 25" src="/images/PG_at_Blk_25___Floral_and_Garden_Theme.png">
+<img style="width: 100%" height="auto" width="100%" alt="Playground upgrade at Blk 25" src="/images/Playground_Blk_25.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -161,7 +161,7 @@ Q2 2026, subject to clearance]</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Adult fitness corner upgrade at Blk 3" src="/images/Blk_3_Fitness_Corner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Adult fitness corner upgrade at Blk 3" src="/images/Adult_Fitness_Blk3.png">
 </div>
 </div>
 <div class="isomer-card-body">
