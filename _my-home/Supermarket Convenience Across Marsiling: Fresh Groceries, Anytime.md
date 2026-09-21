@@ -46,6 +46,8 @@ MRT add to the range of grocery options.</p>
 <div class="isomer-card-description">Adding to the range of grocery options.</div>
 </div>
 </div>
+</div>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -55,6 +57,18 @@ MRT add to the range of grocery options.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">New Mini-Mart @ Blk 187</div>
 <div class="isomer-card-description">Tailored for MS Grove BTO residents.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="UrbanVille @ Woodlands Sheng Siong" src="/images/Sheng_Siong_3_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">UrbanVille @ Woodlands Sheng Siong</div>
+<div class="isomer-card-description">Sheng Siong has opened a new outlet at UrbanVille @ Woodlands in 3Q 2026,
+within the Marsiling area. Opening hours: 7.00am to 11.00pm daily</div>
 </div>
 </div>
 </div>
