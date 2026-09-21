@@ -20,7 +20,7 @@ cycling paths will begin construction in late 2025 and wrap up by end-2026.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">New Cycling Paths Connecting Towns</div>
-<div class="isomer-card-description">A new 18km cycling path.</div>
+<div class="isomer-card-description">A new cycling path.</div>
 </div>
 </div>
 </div>
