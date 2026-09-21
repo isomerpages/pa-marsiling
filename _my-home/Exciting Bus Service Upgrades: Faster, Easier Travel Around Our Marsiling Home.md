@@ -88,4 +88,20 @@ and JB Checkpoint - just perfect for quick cross-border getaways and errands.</d
 </div>
 </div>
 </div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Additional Bus Service 856C" src="/images/Additional_Bus_Service_856C.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Additional Bus Service 856C</div>
+<div class="isomer-card-description">Launched 28 July 2025, 856C start from Block 23 Marsiling Drive towards
+Woodlands North Station and ends at Bef. British American Tobacco. This
+service skips the Woodlands Checkpoint and aims to serve residents during
+the morning peak period.</div>
+</div>
+</div>
+</div>
 <p></p>
