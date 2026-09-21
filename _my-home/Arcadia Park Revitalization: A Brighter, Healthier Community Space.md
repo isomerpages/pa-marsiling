@@ -15,21 +15,21 @@ such as:</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Multi-purpose hardcourt for sports and activities" src="/images/Multi_purpose_Hardcourt.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="New multi-purpose hardcourt" src="/images/Multi_purpose_Hardcourt.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Multi-purpose hardcourt for sports and activities</div>
+<div class="isomer-card-title">New multi-purpose hardcourt</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Refreshed landscaping" src="/images/asd.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="New landscaping; refreshed look" src="/images/asd.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Refreshed landscaping</div>
+<div class="isomer-card-title">New landscaping; refreshed look</div>
 </div>
 </div>
 </div>
