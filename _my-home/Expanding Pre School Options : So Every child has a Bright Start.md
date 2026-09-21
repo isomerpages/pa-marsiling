@@ -27,10 +27,10 @@ to offering positive, early learning experiences.</p>
 <p>PCF Mega Childcare Centre (near Woodlands Stadium)</p>
 </li>
 <li>
-<p>PCF Blk 32 Childcare &amp; Kindergarten Centre</p>
+<p>PCF SparkleTots Preschool Blk 32 Childcare &amp; Kindergarten Centre</p>
 </li>
 <li>
-<p>PCF Blk 12 Childcare Centre</p>
+<p>PCF SparkleTots Preschool, Blk 12</p>
 </li>
 <li>
 <p>NTUC My First Skool, Blk 187 Marsiling Grove</p>
@@ -42,8 +42,24 @@ to offering positive, early learning experiences.</p>
 <p>M.Y World @ Marsiling Greenview</p>
 </li>
 <li>
-<p>Additional options include 2 centres in Zone 1 (one next to Skool4Kidz)
-and the YMCA in Zone 5</p>
+<p>Skool4Kidz</p>
+</li>
+<li>
+<p>HATCH by TOUCH Preschools'</p>
+</li>
+<li>
+<p>An-Nur Mosque Kindergarten</p>
+</li>
+<li>
+<p>Presbyterian Woodlands Childcare Centre</p>
+</li>
+</ul>
+<p><strong>Preschools in Woodlands Planning Area (June 2025)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Blk 905 Preschool, Urbanville (PCF Sparkletots Preschool commencing operations
+in 4Q2026)</p>
 </li>
 </ul>
 <div class="isomer-card-grid">
