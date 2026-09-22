@@ -10,7 +10,7 @@ description: "Marsiling: Performing Arts & Culture Hub of the North!"
 vibrancy in the north of Singapore:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>New Marsiling CC (End-2026):</strong>
+<p><strong>New Marsiling CC (1Q 2027):</strong>
 <br>Set to become the north’s key venue for artistic expression, showcasing
 local community talents in performing arts.</p>
 </li>
@@ -22,7 +22,7 @@ Conference Hall.</p>
 </li>
 <li>
 <p><strong>Bulan Bahasa (Malay Language Month):</strong>
-<br>Annual celebration since 2019, engaging over <strong>4,000 students and parents</strong> yearly.
+<br>Annual celebration since 2019, engaging over <strong>5,000 students and parents</strong> yearly.
 Organised in collaboration with schools, NLB, and NHB to inspire love for
 the Malay language, culture, and heritage.</p>
 </li>
@@ -55,6 +55,28 @@ and community engagement for all residents.</p>
 </div>
 <h3><strong>Bulan Bahasa</strong></h3>
 <hr>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bulan Bahasa 2025" src="/images/DPP_0154.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Bulan Bahasa 2025</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bulan Bahasa 2025" src="/images/DPP_0074.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Bulan Bahasa 2025</div>
+</div>
+</div>
+</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
