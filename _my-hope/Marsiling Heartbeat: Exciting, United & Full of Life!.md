@@ -103,6 +103,29 @@ new memories. Mr Lee Yiok Seng, Mr Hawazi Daipi and Halimah Yacob.</p>
 </div>
 <h3><strong>National Day Celebrations</strong></h3>
 <hr>
+<h4>National Day Dinner</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="National Day Dinner 2025" src="/images/Copy_of_250803_NDD_0527.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">National Day Dinner 2025</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="National Day Dinner 2025" src="/images/Copy_of_250803_NDD_0191.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">National Day Dinner 2025</div>
+</div>
+</div>
+</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -121,7 +144,30 @@ new memories. Mr Lee Yiok Seng, Mr Hawazi Daipi and Halimah Yacob.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-title">National Day Dinner</div>
+</div>
+</div>
+</div>
+<h4>Singapore Carnival</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SG60 Carnival 2025" src="/images/SG60_Carnival_0265.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SG60 Carnival 2025</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SG60 Carnival 2025" src="/images/Copy_of_250802_SG60_Carnival_0400.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SG60 Carnival 2025</div>
 </div>
 </div>
 </div>
@@ -143,7 +189,7 @@ new memories. Mr Lee Yiok Seng, Mr Hawazi Daipi and Halimah Yacob.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-title">Family Carnival</div>
 </div>
 </div>
 </div>
