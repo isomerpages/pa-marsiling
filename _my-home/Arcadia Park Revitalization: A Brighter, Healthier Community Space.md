@@ -7,29 +7,29 @@ description: "Arcadia Park Revitalization: A Brighter, Healthier Community Space
 <h2><strong>Arcadia Park Revitalization: A Brighter, Healthier Community Space</strong></h2>
 <hr>
 <blockquote>
-<p>We’re giving Arcadia Park near Blk 204 Marsiling Drive a fresh new look,
-ensuring it meets the evolving needs of our community. Completion is targeted
-for 2Q 2025, and residents can look forward to:</p>
+<p>The Arcadia Park is being rejuvenated to meet the evolving needs of residents.
+Works have commenced and completed 4Q 2025. Residents can expect new features
+such as:</p>
 </blockquote>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Multi-purpose hardcourt for sports and activities" src="/images/Multi_purpose_Hardcourt.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="New multi-purpose hardcourt" src="/images/Multi_purpose_Hardcourt.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Multi-purpose hardcourt for sports and activities</div>
+<div class="isomer-card-title">New multi-purpose hardcourt</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Refreshed landscaping" src="/images/asd.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="New landscaping; refreshed look" src="/images/asd.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Refreshed landscaping</div>
+<div class="isomer-card-title">New landscaping; refreshed look</div>
 </div>
 </div>
 </div>
@@ -42,6 +42,16 @@ for 2Q 2025, and residents can look forward to:</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">New fitness station for adults and seniors</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New Bicycle Parking" src="/images/Blk_205_Wellness_Garden.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">New Bicycle Parking</div>
 </div>
 </div>
 </div>

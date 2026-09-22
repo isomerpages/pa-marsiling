@@ -18,6 +18,11 @@ neighbourhood:</p>
 <p><strong>MY Countdown:</strong> Spectacular fireworks and performances at
 Woodlands Stadium to welcome the New Year, attended by thousands of residents.</p>
 </li>
+<li>
+<p><strong>Marsiling Countdown to 2026: </strong>Spectacular fireworks and
+performances at Woodlands Secondary School to welcome the New Year, attended
+by 3,000 residents.</p>
+</li>
 </ul>
 </li>
 <li>
@@ -26,7 +31,7 @@ Woodlands Stadium to welcome the New Year, attended by thousands of residents.</
 <ul data-tight="true" class="tight">
 <li>
 <p>Family Carnival &amp; Community Dinner bring residents together annually,
-creating memorable moments as we celebrate Singapore.</p>
+creating memorable moments as we celebrate Singapore at Mega Sports Park.</p>
 </li>
 </ul>
 </li>
@@ -59,6 +64,16 @@ to engage with our residents.</p>
 <p>Former President Halimah joined us at <strong>PopFest</strong> and the <strong>Community Scouts Launch</strong>,
 highlighting the importance of community spirit and youth development.</p>
 </li>
+<li>
+<p><strong>Marsiling Homecoming: </strong>Marked a meaningful farewell to
+the old Marsiling Community Club at Admiralty Road, bringing together residents,
+grassroots leaders, volunteers and past and present Advisers to celebrate
+the memories and community bonds built there over four decades. More than
+saying goodbye to a familiar building, it honoured the people who shaped
+Marsiling’s journey and looked ahead to the next chapter at the new Marsiling
+CC, where the community will continue to come together, connect and create
+new memories. Mr Lee Yiok Seng, Mr Hawazi Daipi and Halimah Yacob.</p>
+</li>
 </ul>
 </li>
 </ul>
@@ -88,6 +103,29 @@ highlighting the importance of community spirit and youth development.</p>
 </div>
 <h3><strong>National Day Celebrations</strong></h3>
 <hr>
+<h4>National Day Dinner</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="National Day Dinner 2025" src="/images/Copy_of_250803_NDD_0527.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">National Day Dinner 2025</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="National Day Dinner 2025" src="/images/Copy_of_250803_NDD_0191.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">National Day Dinner 2025</div>
+</div>
+</div>
+</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -106,7 +144,30 @@ highlighting the importance of community spirit and youth development.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-title">National Day Dinner</div>
+</div>
+</div>
+</div>
+<h4>Singapore Carnival</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SG60 Carnival 2025" src="/images/SG60_Carnival_0265.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SG60 Carnival 2025</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SG60 Carnival 2025" src="/images/Copy_of_250802_SG60_Carnival_0400.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SG60 Carnival 2025</div>
 </div>
 </div>
 </div>
@@ -128,12 +189,34 @@ highlighting the importance of community spirit and youth development.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-title">Family Carnival</div>
 </div>
 </div>
 </div>
 <h3><strong>MY Countdown</strong></h3>
 <hr>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MY Countdown 2026 1" src="/images/IMG_20260101_WA0147_2_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MY Countdown 2026</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MY Countdown 2026 2" src="/images/Copy_of_IMG_20260101_WA0176.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MY Countdown 2026</div>
+</div>
+</div>
+</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -152,7 +235,7 @@ highlighting the importance of community spirit and youth development.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-title">MY Countdown 2024</div>
 </div>
 </div>
 </div>
@@ -174,12 +257,34 @@ highlighting the importance of community spirit and youth development.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-title">MY Countdown 2023</div>
 </div>
 </div>
 </div>
 <h3><strong>MY Beats</strong></h3>
 <hr>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MY Beats 2025 1" src="/images/Cam_1__317_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MY Beats 2025</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MY Beats 2025 2" src="/images/Cam_1__191_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MY Beats 2025</div>
+</div>
+</div>
+</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -198,7 +303,7 @@ highlighting the importance of community spirit and youth development.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-title">MY Beats 2024</div>
 </div>
 </div>
 </div>
@@ -208,7 +313,7 @@ highlighting the importance of community spirit and youth development.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Internation Women's Day 1" src="/images/Copy_of__MG_4736.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Internation Women's Day 1" src="/images/IMG_9990.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -218,11 +323,33 @@ highlighting the importance of community spirit and youth development.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Internation Women's Day 2" src="/images/Copy_of__MG_4430.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Internation Women's Day 2" src="/images/IMG_9849.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-title">Internation Women's Day</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Internation Women's Day 3" src="/images/Copy_of__MG_4736.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Internation Women's Day</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Internation Women's Day 4" src="/images/Copy_of__MG_4430.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Internation Women's Day</div>
 </div>
 </div>
 </div>

@@ -9,8 +9,66 @@ description: Accelerating Green Mobility in Marsiling
 <blockquote>
 <p>We’re driving a greener future for Marsiling with an expanded EV charging
 network in Marsiling! In 2024, seven charging locations were introduced,
-and by the end of 2025, we’ll add 15 more—tripling our total to 22 stations.</p>
+and by the end of 2025, we’ll add 11 more to 18 stations.&nbsp;</p>
 </blockquote>
+<p><strong>LOCATION</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>BLK 182 WOODLANDS ST 13</p>
+</li>
+<li>
+<p>BLK 13A MARSILING LANE</p>
+</li>
+<li>
+<p>BLK 101-113 WOODLANDS ST 13</p>
+</li>
+<li>
+<p>BLK 181 MARSILING RD</p>
+</li>
+<li>
+<p>BLK 15/16 MARSILING LANE</p>
+</li>
+<li>
+<p>BLK 114-133 MARSILING RISE</p>
+</li>
+<li>
+<p>BLK 34A MARSILING DR</p>
+</li>
+<li>
+<p>BLK 201/206 MARSILING DR</p>
+</li>
+<li>
+<p>BLK 10/13 MARSILING LANE</p>
+</li>
+<li>
+<p>BLK 17/21 MARSILING LANE</p>
+</li>
+<li>
+<p>BLK 167-179 WOODLANDS ST 13</p>
+</li>
+<li>
+<p>BLK 144-166 WOODLANDS ST 13</p>
+</li>
+<li>
+<p>BLK 29A MARSILING DR</p>
+</li>
+<li>
+<p>BLK 185 WOODLANDS ST 13</p>
+</li>
+<li>
+<p>BLK 7A MARSILING DR</p>
+</li>
+<li>
+<p>BLK 2A MARSILING DR</p>
+</li>
+<li>
+<p>BLK 22/27 MARSILING DR</p>
+</li>
+<li>
+<p>BLK 187 MARSILING ROAD</p>
+</li>
+</ul>
 <p></p>
 <p><strong>EV Charging Points Deployed in 2024 - Blks 29A, 185, 7A, 2A, 22/27, 182, 187</strong>
 </p>
@@ -36,6 +94,8 @@ and by the end of 2025, we’ll add 15 more—tripling our total to 22 stations.
 </div>
 </div>
 </div>
+<p><strong>EV Charging Points Deployed in 2025 - 13A, 101-113, 181, 15/16, 114-133, 34A, 201/206, 10/13, 17/21, 167-179, 144-166</strong>
+</p>
 <p><strong>Coming in 1H 2025 - Blks 4/5, 181, 13A, 15/16, 6/7, 104/105, 152/153, 178/179</strong>
 </p>
 <p><strong>Coming in 2H 2025 - Blks 119/120, 34A, 134/141, 201/206, 182, 10/13, 17/21</strong>

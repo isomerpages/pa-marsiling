@@ -53,15 +53,5 @@ description: Neighbourhood Renewal Programme (NRP) Updates
 <div class="isomer-card-title">High &amp; low sheltered linkway from Blk 17 to 18 Marsiling Lane</div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Potential water play area near Blk 18 Marsiling Lane" src="/images/Waterplay.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Potential water play area near Blk 18 Marsiling Lane</div>
-</div>
-</div>
 </div>
 <p></p>

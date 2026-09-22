@@ -38,13 +38,13 @@ sections:
       image: /images/Advisor.jpg
       alt: Image alt text
   - infobar:
-      title: Marsiling 2025
+      title: Marsiling 2026
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/CxBsguZ1C9o?si=8DC9zI2cHqwjLRNq"
-        height="315" width="560"></iframe>
+        src="https://www.youtube.com/embed/bPlb53rqlPo" height="315"
+        width="560"></iframe>
   - infopic:
       title: Follow us on our social channels
       id: infopic
