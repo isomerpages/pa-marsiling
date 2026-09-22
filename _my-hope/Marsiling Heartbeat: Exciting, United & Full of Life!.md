@@ -18,6 +18,11 @@ neighbourhood:</p>
 <p><strong>MY Countdown:</strong> Spectacular fireworks and performances at
 Woodlands Stadium to welcome the New Year, attended by thousands of residents.</p>
 </li>
+<li>
+<p><strong>Marsiling Countdown to 2026: </strong>Spectacular fireworks and
+performances at Woodlands Secondary School to welcome the New Year, attended
+by 3,000 residents.</p>
+</li>
 </ul>
 </li>
 <li>
@@ -26,7 +31,7 @@ Woodlands Stadium to welcome the New Year, attended by thousands of residents.</
 <ul data-tight="true" class="tight">
 <li>
 <p>Family Carnival &amp; Community Dinner bring residents together annually,
-creating memorable moments as we celebrate Singapore.</p>
+creating memorable moments as we celebrate Singapore at Mega Sports Park.</p>
 </li>
 </ul>
 </li>
@@ -58,6 +63,16 @@ to engage with our residents.</p>
 <li>
 <p>Former President Halimah joined us at <strong>PopFest</strong> and the <strong>Community Scouts Launch</strong>,
 highlighting the importance of community spirit and youth development.</p>
+</li>
+<li>
+<p><strong>Marsiling Homecoming: </strong>Marked a meaningful farewell to
+the old Marsiling Community Club at Admiralty Road, bringing together residents,
+grassroots leaders, volunteers and past and present Advisers to celebrate
+the memories and community bonds built there over four decades. More than
+saying goodbye to a familiar building, it honoured the people who shaped
+Marsiling’s journey and looked ahead to the next chapter at the new Marsiling
+CC, where the community will continue to come together, connect and create
+new memories. Mr Lee Yiok Seng, Mr Hawazi Daipi and Halimah Yacob.</p>
 </li>
 </ul>
 </li>
