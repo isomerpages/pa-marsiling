@@ -38,7 +38,7 @@ sections:
       image: /images/Advisor.jpg
       alt: Image alt text
   - infobar:
-      title: Marsiling 2025
+      title: Marsiling 2026
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
