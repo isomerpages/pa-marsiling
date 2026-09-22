@@ -99,4 +99,50 @@ and community engagement for all residents.</p>
 </div>
 </div>
 </div>
+<h3><strong>Jalinan Rahmah</strong></h3>
+<hr>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jalinan Rahmah 2025" src="/images/Jalinan_Rahmah_8.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Jalinan Rahmah 2025</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jalinan Rahmah 2025" src="/images/120725_Jalinan_Rahmah_2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Jalinan Rahmah 2025</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jalinan Rahmah 2025" src="/images/IMG_20251129_WA0120.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Jalinan Rahmah 2025</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jalinan Rahmah 2025" src="/images/IMG_20251129_WA0135.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Jalinan Rahmah 2025</div>
+</div>
+</div>
+</div>
 <p></p>
